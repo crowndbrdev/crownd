@@ -1,0 +1,2014 @@
+[
+ {
+  "id": "ig-01",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "Como funciona o Crownd",
+  "objective": "Educar: explicar o mecanismo inteiro em 5 passos (salvamentos).",
+  "alt": "Carrossel escuro com a marca Crownd explicando: colar o link, dar o lance, segurar a coroa, pagar só a diferença e lançamentos grátis.",
+  "caption": "Como funciona o Crownd, em 5 passos 👑\n\n1. Cola o link do seu produto\n2. Escolhe quanto quer dar de lance\n3. Quem soma mais fica com o #1\n4. Já está no board? Paga só a diferença pra subir\n5. Não quer pagar? 10 vagas de lançamento grátis por dia\n\nSem like por pena. Sem algoritmo. Salva pra lembrar e manda pra quem está lançando 🚀\nLink na bio.",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas",
+   "#empreendedorismo"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "como funciona",
+    "title": "O ranking onde o lance decide.",
+    "sub": "5 passos. Sem enrolação.",
+    "hi": "o lance"
+   },
+   {
+    "t": "step",
+    "n": "1",
+    "title": "Cola o link",
+    "body": "Site, página na loja de apps, repositório no GitHub ou perfil no X."
+   },
+   {
+    "t": "step",
+    "n": "2",
+    "title": "Dá o lance",
+    "body": "Quem soma o maior valor fica em primeiro. Empate: quem chegou antes."
+   },
+   {
+    "t": "step",
+    "n": "3",
+    "title": "Segura a coroa",
+    "body": "Você reina até alguém passar. Cada troca vai pro Hall da Fama."
+   },
+   {
+    "t": "step",
+    "n": "4",
+    "title": "Paga só a diferença",
+    "body": "Já está no board? Cola o mesmo link e sobe pagando só o que falta."
+   },
+   {
+    "t": "cta",
+    "line1": "Não quer pagar?",
+    "line2": "10 lançamentos grátis por dia.",
+    "hint": "crownd.dev/br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-02",
+  "net": "ig",
+  "format": "single",
+  "palette": "verde",
+  "title": "O trono do Brasil está vazio",
+  "objective": "Gerar urgência e cliques no link da bio.",
+  "alt": "Fundo verde-copa com o texto 'O trono do Brasil está vazio' e um espaço tracejado do #1 sem dono.",
+  "caption": "O trono do Brasil está vazio 👑\n\nO Crownd Brasil acabou de abrir e o #1 ainda não tem dono. O primeiro lance começa em R$ 5, e quem chegar primeiro entra pro Hall da Fama. Pra sempre.\n\nVai deixar pro outro? Link na bio.",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#produtodigital"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd brasil",
+    "title": "O trono do Brasil está vazio.",
+    "sub": "Primeiro lance: R$ 5. Quem chegar primeiro entra para a história.",
+    "hi": "vazio"
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "ig-03",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "6 lugares para lançar no Brasil",
+  "objective": "Valor prático (salvamentos e compartilhamentos) + autoridade.",
+  "alt": "Carrossel claro listando comunidades brasileiras de makers: comunidade indie hacker no X, TabNews, r/brdev, LinkedIn, Discords e grupos de WhatsApp/Telegram.",
+  "caption": "Lançou e ninguém viu? Talvez você só postou no lugar errado.\n\n6 lugares onde os makers brasileiros realmente estão:\n→ Comunidade indie hacker BR no X\n→ TabNews\n→ r/brdev\n→ LinkedIn\n→ Discords de dev\n→ Grupos de WhatsApp e Telegram\n\nRegra de ouro: comece pelo problema que você resolve, não pelo link. Salva esse post pro seu próximo lançamento 💾",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas",
+   "#empreendedorismo"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "guia de lançamento",
+    "title": "6 lugares para lançar no Brasil.",
+    "sub": "Onde os makers brasileiros realmente estão.",
+    "hi": "lançar"
+   },
+   {
+    "t": "list",
+    "head": "Comunidades",
+    "items": [
+     "Comunidade indie hacker BR (X)",
+     "TabNews",
+     "r/brdev"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "E também",
+    "items": [
+     "LinkedIn BR",
+     "Discords de dev",
+     "Grupos de WhatsApp e Telegram"
+    ]
+   },
+   {
+    "t": "text",
+    "head": "A regra de ouro",
+    "body": "Comece pelo problema que você resolve, não pelo link. Ninguém clica em link solto."
+   },
+   {
+    "t": "cta",
+    "line1": "E depois?",
+    "line2": "Lança no Crownd. É grátis.",
+    "hint": "crownd.dev/br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-04",
+  "net": "ig",
+  "format": "single",
+  "palette": "coup",
+  "title": "Like por pena não é validação",
+  "objective": "Alcance via identificação e humor (comentários).",
+  "alt": "Fundo vermelho com a frase 'Like por pena não é validação' em letras grandes.",
+  "caption": "Like da sua mãe, do seu primo e do seu ex-colega de trabalho não é validação 🥲\n\nValidação é alguém clicar porque quis. É isso que o Crownd mede: lance pra quem quer o topo, cliques únicos pra quem lança de graça.\n\nComenta aqui o pior \"parabéns!!\" que você já recebeu num lançamento 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas"
+  ],
+  "slides": [
+   {
+    "t": "quote",
+    "q": "Like por pena não é validação.",
+    "by": "— todo maker, às 3 da manhã"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-05",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "gold",
+  "title": "Pague só a diferença",
+  "objective": "Educar sobre o mecanismo de subir no ranking (reduz objeção de preço).",
+  "alt": "Carrossel amarelo com um exemplo numérico: você pagou R$ 120, o rival tem R$ 150, para voltar ao #1 basta chegar a R$ 155 pagando só R$ 35.",
+  "caption": "Alguém passou você no ranking. E agora? 😤\n\nNo Crownd você NÃO paga tudo de novo. Paga só a diferença:\n• você já pagou R$ 120\n• o rival tem R$ 150\n• pra voltar ao #1: R$ 155\n• você paga só R$ 35\n\nOs degraus são de R$ 5, e empate fica com quem chegou primeiro. Marca aquele amigo competitivo 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "mecânica",
+    "title": "Roubaram seu #1? Paga só a diferença.",
+    "sub": "",
+    "hi": "a diferença"
+   },
+   {
+    "t": "stat",
+    "value": "R$ 120",
+    "label": "você já pagou",
+    "sub": ""
+   },
+   {
+    "t": "stat",
+    "value": "R$ 150",
+    "label": "o rival tem",
+    "sub": "e chegou primeiro, então empate é dele"
+   },
+   {
+    "t": "stat",
+    "value": "+ R$ 35",
+    "label": "para voltar ao #1",
+    "sub": "total de R$ 155, em degraus de R$ 5"
+   },
+   {
+    "t": "cta",
+    "line1": "Já está no board?",
+    "line2": "Cola o mesmo link e sobe.",
+    "hint": "crownd.dev/br"
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "ig-06",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "30 países, 30 cores",
+  "objective": "Branding e curiosidade (compartilhamentos internacionais).",
+  "alt": "Carrossel com cartões de cor de cada edição: Shu-iro do Japão, Bleu Klein da França, Oranje da Holanda, Falu Röd da Suécia e Verde Copa do Brasil.",
+  "caption": "Cada edição do Crownd tem uma cor tirada da cultura local, não da bandeira 🎨\n\n🇯🇵 Shu-iro, o vermelho dos portões torii\n🇫🇷 Bleu Klein, o azul do pintor Yves Klein\n🇳🇱 Oranje, a cor da torcida holandesa\n🇸🇪 Falu Röd, o vermelho das casinhas suecas\n🇧🇷 Verde Copa, o verde da torcida em dia de jogo\n\nQual país você quer dominar? Comenta 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#design",
+   "#branding"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "identidade",
+    "title": "30 países. 30 cores.",
+    "sub": "Uma cor da cultura local, não da bandeira.",
+    "hi": "30 cores"
+   },
+   {
+    "t": "swatch",
+    "slug": "jp"
+   },
+   {
+    "t": "swatch",
+    "slug": "fr"
+   },
+   {
+    "t": "swatch",
+    "slug": "nl"
+   },
+   {
+    "t": "swatch",
+    "slug": "se"
+   },
+   {
+    "t": "swatch",
+    "slug": "br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-07",
+  "net": "ig",
+  "format": "single",
+  "palette": "parchment",
+  "title": "10 vagas grátis por dia",
+  "objective": "Converter makers sem orçamento (cliques na bio).",
+  "alt": "Fundo claro com '10 vagas grátis por dia' e uma grade de 10 espaços de lançamento.",
+  "caption": "Não tem grana pra lance? Tudo bem.\n\nTodo dia o Crownd Brasil abre 10 vagas de lançamento GRÁTIS, ranqueadas por cliques únicos. Zera à meia-noite.\n\nDica: lança cedo, logo depois da meia-noite, e compartilha. Você ganha o dia inteiro pra juntar cliques 🚀 Link na bio.",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#lancamento",
+   "#produtodigital"
+  ],
+  "slides": [
+   {
+    "t": "stat",
+    "value": "10",
+    "label": "vagas de lançamento grátis por dia",
+    "sub": "ranqueadas por cliques únicos · zera à meia-noite"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-08",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "night",
+  "title": "Checklist antes de postar o link",
+  "objective": "Valor (salvamentos) + posicionamento como referência para makers.",
+  "alt": "Carrossel escuro com um checklist de lançamento: frase de uma linha, link final sem encurtador, imagem de prévia, onde postar e como pedir feedback.",
+  "caption": "Checklist antes de postar o link do seu produto ✅\n\n☐ Uma frase que explica o que ele faz\n☐ Link final, sem encurtador\n☐ Prévia bonita quando o link é colado (imagem OG)\n☐ Um lugar onde seu público já está\n☐ Um pedido claro: testar, comentar ou comprar\n\nSalva e usa no próximo lançamento 💾",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas",
+   "#empreendedorismo"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "checklist",
+    "title": "Antes de postar o link.",
+    "sub": "5 coisas que mudam o resultado.",
+    "hi": "postar o link"
+   },
+   {
+    "t": "list",
+    "head": "O produto",
+    "items": [
+     "Uma frase que explica o que ele faz",
+     "Link final, sem encurtador",
+     "Prévia bonita ao colar o link"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "A divulgação",
+    "items": [
+     "Poste onde seu público já está",
+     "Faça um pedido claro",
+     "Responda todo comentário na 1ª hora"
+    ]
+   },
+   {
+    "t": "cta",
+    "line1": "Pronto?",
+    "line2": "Lança grátis no Crownd.",
+    "hint": "crownd.dev/br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-09",
+  "net": "ig",
+  "format": "single",
+  "palette": "gold",
+  "title": "Hall da Fama: seu nome aqui",
+  "objective": "Desejo e status (comentários e marcações).",
+  "alt": "Fundo dourado com uma placa do Hall da Fama em que a primeira linha diz '??? · o primeiro rei do Brasil'.",
+  "caption": "Toda coroa fica pra história 👑\n\nO Hall da Fama do Crownd registra cada produto que já foi #1, com data e tempo de reinado. Hoje ele está vazio no Brasil.\n\nQuem você acha que vai ser o primeiro? Marca aqui 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas"
+  ],
+  "slides": [
+   {
+    "t": "hall"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-10",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "verde",
+  "title": "Como o Brasil paga online",
+  "objective": "Valor para quem vende no Brasil (salvamentos) + autoridade.",
+  "alt": "Carrossel verde explicando Pix, cartão e boleto e as regras do CDC (7 dias de arrependimento) e da LGPD.",
+  "caption": "Vai vender online no Brasil? 3 coisas que você precisa saber 🇧🇷\n\n1. Pix é O método de pagamento: QR code, chave copia-e-cola e confirmação na hora.\n2. Cartão e boleto ainda importam, principalmente parcelado e B2B.\n3. CDC: o consumidor pode desistir de compra online em até 7 dias. E a LGPD rege os dados pessoais.\n\nSalva pra não esquecer 💾",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#vendasonline",
+   "#lgpd"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "guia brasil",
+    "title": "Como o Brasil paga online.",
+    "sub": "Pix, cartão, boleto e o que a lei exige.",
+    "hi": "paga online"
+   },
+   {
+    "t": "text",
+    "head": "Pix",
+    "body": "É O método de pagamento: QR code, chave copia-e-cola e confirmação na hora."
+   },
+   {
+    "t": "text",
+    "head": "Cartão e boleto",
+    "body": "Ainda importam, principalmente parcelado e em vendas B2B."
+   },
+   {
+    "t": "text",
+    "head": "O que a lei exige",
+    "body": "CDC art. 49: 7 dias para desistir de compra online. LGPD: regras para dados pessoais."
+   },
+   {
+    "t": "cta",
+    "line1": "Guia completo",
+    "line2": "crownd.dev/br/guide",
+    "hint": "link na bio"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-11",
+  "net": "ig",
+  "format": "single",
+  "palette": "obsidian",
+  "title": "Selo ao vivo",
+  "objective": "Mostrar um benefício do #1 (prova social).",
+  "alt": "Mockup de um site com o selo 'Crownd Brasil #1 👑' em destaque.",
+  "caption": "Chegou no topo? Então mostra 👑\n\nTodo produto no Crownd ganha um selo que se atualiza sozinho com a posição dele. Cola no seu site e pronto: prova social ao vivo.\n\nVocê colocaria o seu ranking no site? Sim ou não 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas"
+  ],
+  "slides": [
+   {
+    "t": "badge"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "ig-12",
+  "net": "ig",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "Bastidores: o que construímos",
+  "objective": "Build in public: confiança e humanização da marca.",
+  "alt": "Carrossel claro com números reais do projeto: 30 edições, 14 idiomas, 24 moedas, analytics público sem cookies.",
+  "caption": "Bastidores do Crownd 🛠️\n\nO que existe por trás do ranking:\n• 30 edições, uma por país\n• 14 idiomas\n• 24 moedas locais\n• analytics público, sem cookies e sem guardar IP\n\nConstruído em público. Pergunta o que quiser nos comentários 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#buildinpublic",
+   "#startupbrasil",
+   "#saas",
+   "#empreendedorismo"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "build in public",
+    "title": "O que tem por trás do Crownd.",
+    "sub": "",
+    "hi": "por trás"
+   },
+   {
+    "t": "stat",
+    "value": "30",
+    "label": "edições",
+    "sub": "uma por país"
+   },
+   {
+    "t": "stat",
+    "value": "14",
+    "label": "idiomas",
+    "sub": "com textos adaptados à cultura de cada país"
+   },
+   {
+    "t": "stat",
+    "value": "15",
+    "label": "moedas",
+    "sub": "cada país paga na sua"
+   },
+   {
+    "t": "text",
+    "head": "Privacidade",
+    "body": "Analytics público, sem cookies e sem guardar IP. Qualquer pessoa pode ver."
+   },
+   {
+    "t": "cta",
+    "line1": "Pergunta o que quiser",
+    "line2": "nos comentários 👇",
+    "hint": "@crowndbr"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-01",
+  "net": "x",
+  "format": "single",
+  "palette": "obsidian",
+  "title": "Lançamento",
+  "objective": "Anunciar e fixar no perfil.",
+  "alt": "Card escuro: 'O ranking onde o lance decide' com o símbolo do Crownd.",
+  "caption": "Lançamos o Crownd 👑\n\nUm ranking público de produtos indie pra cada país. No Brasil, quem dá o maior lance fica com o #1. Quem não quer pagar tem 10 lançamentos grátis por dia.\n\nSem upvote por pena. Sem algoritmo.\n\ncrownd.dev/br",
+  "hashtags": [
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd.dev",
+    "title": "O ranking onde o lance decide.",
+    "sub": "30 países · 30 coroas",
+    "hi": "o lance"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-02",
+  "net": "x",
+  "format": "single",
+  "palette": "coup",
+  "title": "Hot take: upvote não é validação",
+  "objective": "Engajamento por opinião forte (respostas e reposts).",
+  "alt": "Card vermelho com a frase 'Upvote não é validação. Clique é.'",
+  "caption": "Hot take: upvote não é validação.\n\nUpvote é favor. Validação é alguém clicar no seu link porque quis, ou pagar porque acredita.\n\nConcorda ou discorda?",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "quote",
+    "q": "Upvote não é validação. Clique é.",
+    "by": ""
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-03",
+  "net": "x",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "Como funciona (4 imagens)",
+  "objective": "Explicar o mecanismo em formato de thread com 4 imagens.",
+  "alt": "Quatro cards: colar o link, dar o lance, segurar a coroa, pagar só a diferença.",
+  "caption": "Como funciona o Crownd, em 4 imagens 🧵\n\n1/ Cola o link do produto\n2/ Dá o lance: o maior total fica com o #1\n3/ Segura a coroa até alguém passar\n4/ Quer subir? Paga só a diferença\n\nE tem 10 lançamentos grátis por dia → crownd.dev/br",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "step",
+    "n": "1",
+    "title": "Cola o link",
+    "body": "Site, loja de apps, GitHub ou perfil no X."
+   },
+   {
+    "t": "step",
+    "n": "2",
+    "title": "Dá o lance",
+    "body": "O maior total fica com o #1."
+   },
+   {
+    "t": "step",
+    "n": "3",
+    "title": "Segura a coroa",
+    "body": "Até alguém passar. Tudo vai pro Hall da Fama."
+   },
+   {
+    "t": "step",
+    "n": "4",
+    "title": "Paga só a diferença",
+    "body": "Nunca paga tudo de novo."
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-04",
+  "net": "x",
+  "format": "single",
+  "palette": "night",
+  "title": "Stack do Crownd",
+  "objective": "Build in public para devs (credibilidade técnica).",
+  "alt": "Card escuro listando a stack: Next.js 16, Cloudflare Workers, D1, Stripe.",
+  "caption": "A stack do Crownd, pra quem curte bastidor:\n\n• Next.js 16 (App Router)\n• Cloudflare Workers + D1 na borda\n• Stripe: cartão e boleto no Brasil\n• 30 edições, 14 idiomas, 24 moedas\n• analytics próprio sem cookies\n\nPergunta qualquer coisa 👇",
+  "hashtags": [
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "list",
+    "head": "A stack",
+    "items": [
+     "Next.js 16 · App Router",
+     "Cloudflare Workers + D1",
+     "Stripe · 24 moedas",
+     "Analytics sem cookies"
+    ]
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-05",
+  "net": "x",
+  "format": "single",
+  "palette": "gold",
+  "title": "Enquete: R$ 5 pelo #1",
+  "objective": "Enquete nativa do X (respostas e dados de intenção).",
+  "alt": "Card amarelo com a pergunta 'Você pagaria R$ 5 para ser o #1 do Brasil por um dia?'.",
+  "caption": "Pergunta sincera pros makers:\n\nVocê pagaria R$ 5 pra colocar seu produto no #1 do Brasil?\n\n(Crie a enquete do X com as opções: \"Na hora\" · \"Depende do produto\" · \"Só de graça\" · \"Quero ver os resultados\")",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "quote",
+    "q": "Você pagaria R$ 5 para ser o #1 do Brasil?",
+    "by": ""
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "x-06",
+  "net": "x",
+  "format": "single",
+  "palette": "parchment",
+  "title": "Analytics público",
+  "objective": "Transparência como diferencial (cliques no link).",
+  "alt": "Card claro com um gráfico e a URL crownd.dev/analytics.",
+  "caption": "Nosso analytics é público.\n\nVisitantes, países e páginas mais vistas, aberto pra qualquer pessoa. Sem cookies e sem guardar IP.\n\nTransparência total: crownd.dev/analytics",
+  "hashtags": [
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "analytics"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-07",
+  "net": "x",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "Uma cor por país (4 imagens)",
+  "objective": "Branding e curiosidade (reposts).",
+  "alt": "Quatro cards de cor: Shu-iro (Japão), Bleu Klein (França), Oranje (Holanda) e Verde Copa (Brasil).",
+  "caption": "Cada edição do Crownd tem uma cor da cultura local, não da bandeira:\n\n🇯🇵 Shu-iro, o vermelho dos torii\n🇫🇷 Bleu Klein\n🇳🇱 Oranje\n🇧🇷 Verde Copa\n\nQual é a mais bonita?",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "swatch",
+    "slug": "jp"
+   },
+   {
+    "t": "swatch",
+    "slug": "fr"
+   },
+   {
+    "t": "swatch",
+    "slug": "nl"
+   },
+   {
+    "t": "swatch",
+    "slug": "br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-08",
+  "net": "x",
+  "format": "single",
+  "palette": "night",
+  "title": "Dica: lance à meia-noite",
+  "objective": "Dica prática (salvamentos e reposts).",
+  "alt": "Card escuro com o relógio 00:01 e a dica de lançar logo após a meia-noite.",
+  "caption": "Dica de lançamento no Crownd:\n\nAs 10 vagas grátis zeram à meia-noite. Quem lança às 00:01 tem o dia inteiro pra juntar cliques únicos.\n\nLança cedo. Compartilha de manhã. Sobe o dia todo.",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "stat",
+    "value": "00:01",
+    "label": "o melhor horário para lançar grátis",
+    "sub": "as vagas zeram à meia-noite"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-09",
+  "net": "x",
+  "format": "single",
+  "palette": "verde",
+  "title": "O trono está vazio",
+  "objective": "Urgência (cliques no link).",
+  "alt": "Card verde com 'O #1 do Brasil ainda não tem dono'.",
+  "caption": "O #1 do Crownd Brasil ainda não tem dono.\n\nO primeiro a chegar entra pro Hall da Fama. Pra sempre.\n\ncrownd.dev/br",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd brasil",
+    "title": "O #1 do Brasil ainda não tem dono.",
+    "sub": "",
+    "hi": "não tem dono"
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "x-10",
+  "net": "x",
+  "format": "single",
+  "palette": "parchment",
+  "title": "SEO em 30 países",
+  "objective": "Build in public com valor técnico (autoridade com devs).",
+  "alt": "Card claro com 5 lições de SEO internacional.",
+  "caption": "5 coisas que aprendi fazendo SEO pra 30 países ao mesmo tempo:\n\n1. hreflang em malha completa, com x-default\n2. Uma pasta por país, não subdomínio\n3. Canonical em toda página\n4. Sitemap com data real de mudança, nunca \"agora\"\n5. llms.txt pras IAs também acharem você",
+  "hashtags": [
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "list",
+    "head": "SEO em 30 países",
+    "items": [
+     "hreflang em malha + x-default",
+     "Uma pasta por país",
+     "Canonical em toda página",
+     "lastmod real no sitemap",
+     "llms.txt para IAs"
+    ]
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-11",
+  "net": "x",
+  "format": "single",
+  "palette": "gold",
+  "title": "Selo ao vivo",
+  "objective": "Benefício do #1.",
+  "alt": "Mockup de site com o selo Crownd Brasil #1.",
+  "caption": "Chegou no #1? Mostra.\n\nO selo do Crownd se atualiza sozinho com a sua posição. Cola no site e vira prova social ao vivo.",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "badge"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "x-12",
+  "net": "x",
+  "format": "single",
+  "palette": "coup",
+  "title": "Marca um maker",
+  "objective": "Gerar marcações e alcance orgânico.",
+  "alt": "Card vermelho com 'Marca um maker que merece o #1'.",
+  "caption": "Marca um maker brasileiro que merece o #1 👇\n\nA gente dá uma olhada em todo produto que aparecer aqui.",
+  "hashtags": [],
+  "slides": [
+   {
+    "t": "cta",
+    "line1": "Marca um maker",
+    "line2": "que merece o #1.",
+    "hint": "@crowndbr"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-01",
+  "net": "li",
+  "format": "single",
+  "palette": "obsidian",
+  "title": "Lançamento institucional",
+  "objective": "Anúncio oficial da página da empresa.",
+  "alt": "Card escuro com o logo Crownd e o texto '30 países. 30 coroas.'",
+  "caption": "Hoje apresentamos o Crownd.\n\nO Crownd é uma rede de rankings públicos de produtos digitais independentes, com uma edição para cada um de 30 países. Em cada edição, quem dá o maior lance ocupa o #1, e dez vagas diárias de lançamento gratuito são ranqueadas por cliques únicos.\n\nPor que fizemos isso? Porque lançar um produto hoje depende de algoritmo, de rede de contatos e de pedir voto. Quisemos uma regra simples e transparente, inclusive com o analytics aberto ao público.\n\nComeçamos pelo Brasil: crownd.dev/br\n\nSe você constrói produtos digitais, adoraríamos ver o seu por lá.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd.dev",
+    "title": "30 países. 30 coroas.",
+    "sub": "Rankings públicos de produtos independentes.",
+    "hi": "30 coroas"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-02",
+  "net": "li",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "Upvote x lance: qual é mais justo?",
+  "objective": "Liderança de pensamento (comentários qualificados).",
+  "alt": "Carrossel claro comparando rankings por voto e rankings por lance, com prós e contras de cada um.",
+  "caption": "Rankings por voto parecem democráticos. Mas são mesmo?\n\nEm plataformas de voto, quem tem mais rede vence, e a qualidade do produto pesa menos. Num ranking por lance, a regra é explícita: o topo custa um valor público, e qualquer pessoa sabe quanto.\n\nNão é o modelo perfeito. Por isso o Crownd combina os dois: lance para o topo e lançamentos gratuitos ranqueados por cliques únicos.\n\nQual modelo você acha mais justo? Quero ler sua opinião.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "reflexão",
+    "title": "Upvote ou lance: qual é mais justo?",
+    "sub": "",
+    "hi": "mais justo"
+   },
+   {
+    "t": "compare",
+    "head": "Os dois modelos",
+    "lt": "Voto",
+    "l": [
+     "Quem tem mais rede vence",
+     "Regras opacas",
+     "Grátis, mas custa tempo"
+    ],
+    "rt": "Lance",
+    "r": [
+     "Preço público e visível",
+     "Regra explícita",
+     "Custa dinheiro"
+    ]
+   },
+   {
+    "t": "text",
+    "head": "O meio-termo",
+    "body": "Lance para o topo. Vagas gratuitas diárias ranqueadas por cliques únicos, um por pessoa por dia."
+   },
+   {
+    "t": "cta",
+    "line1": "E você?",
+    "line2": "Qual modelo é mais justo?",
+    "hint": "comente"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-03",
+  "net": "li",
+  "format": "carousel",
+  "palette": "verde",
+  "title": "Como lançar um produto digital no Brasil",
+  "objective": "Conteúdo de referência (salvamentos e compartilhamentos).",
+  "alt": "Carrossel verde com comunidades, meios de pagamento e exigências legais para lançar no Brasil.",
+  "caption": "Guia rápido: como lançar um produto digital no Brasil.\n\n1. Comunidades: TabNews, r/brdev, comunidade indie hacker no X, Discords e grupos de WhatsApp/Telegram.\n2. Pagamentos: Pix é o padrão; cartão e boleto ainda contam, principalmente em B2B.\n3. Lei: CDC (7 dias para desistência em compras online) e LGPD (dados pessoais), além de identificar quem vende (Decreto 7.962/2013).\n\nO guia completo, com o preço do #1 ao vivo, está em crownd.dev/br/guide",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "guia",
+    "title": "Como lançar um produto digital no Brasil.",
+    "sub": "",
+    "hi": "no Brasil"
+   },
+   {
+    "t": "list",
+    "head": "Onde estão os makers",
+    "items": [
+     "TabNews e r/brdev",
+     "Comunidade indie hacker (X)",
+     "Discords, WhatsApp, Telegram"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "Como o Brasil paga",
+    "items": [
+     "Pix: instantâneo",
+     "Cartão: parcelamento",
+     "Boleto: ainda forte no B2B"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "O que a lei exige",
+    "items": [
+     "CDC: 7 dias de desistência",
+     "LGPD: dados pessoais",
+     "Decreto 7.962: identificar o vendedor"
+    ]
+   },
+   {
+    "t": "cta",
+    "line1": "Guia completo",
+    "line2": "crownd.dev/br/guide",
+    "hint": "link nos comentários"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-04",
+  "net": "li",
+  "format": "single",
+  "palette": "parchment",
+  "title": "Analytics aberto",
+  "objective": "Transparência como valor da marca.",
+  "alt": "Card claro com gráfico e o endereço crownd.dev/analytics.",
+  "caption": "Decidimos deixar o analytics do Crownd público.\n\nVisitantes, países e páginas mais vistas ficam abertos para qualquer pessoa em crownd.dev/analytics. Sem cookies e sem armazenar IP: o visitante vira um código anônimo que muda todos os dias.\n\nTransparência não é discurso quando os números estão à vista.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "analytics"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-05",
+  "net": "li",
+  "format": "carousel",
+  "palette": "night",
+  "title": "Arquitetura: 30 países na borda",
+  "objective": "Autoridade técnica (recrutamento e parcerias).",
+  "alt": "Carrossel escuro sobre a arquitetura: Next.js, Cloudflare Workers, D1, Stripe e segurança.",
+  "caption": "Como servir 30 países com uma equipe enxuta?\n\n• Uma aplicação Next.js rodando na borda da Cloudflare, perto de cada usuário\n• Banco D1 (SQLite distribuído)\n• Stripe com 24 moedas, cartão e carteiras digitais\n• Limite de requisições, CSRF e CSP rígida\n• Nenhum segredo dentro do código publicado\n\nArquitetura simples, custo baixo, latência baixa.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "engenharia",
+    "title": "30 países numa única borda.",
+    "sub": "",
+    "hi": "única borda"
+   },
+   {
+    "t": "list",
+    "head": "A base",
+    "items": [
+     "Next.js 16 · App Router",
+     "Cloudflare Workers",
+     "D1 · SQLite distribuído"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "Pagamentos",
+    "items": [
+     "Stripe · 24 moedas",
+     "Cartão, Apple Pay e Google Pay",
+     "Webhooks idempotentes"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "Segurança",
+    "items": [
+     "Rate limiting na borda",
+     "CSRF e CSP rígida",
+     "Segredos fora do código"
+    ]
+   },
+   {
+    "t": "cta",
+    "line1": "Construído em público.",
+    "line2": "Pergunte nos comentários.",
+    "hint": "comente"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-06",
+  "net": "li",
+  "format": "single",
+  "palette": "obsidian",
+  "title": "Privacidade por design",
+  "objective": "Reforçar confiança (LGPD/GDPR).",
+  "alt": "Card escuro com 'Sem cookies. Sem IP.'",
+  "caption": "Privacidade por design, não por banner.\n\nO analytics do Crownd não usa cookies e não armazena IP. Cada visitante vira um código que muda todo dia, então ninguém é rastreado entre dias. Por isso não há banner de consentimento.\n\nDá para medir bem sem vigiar ninguém.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "stat",
+    "value": "0",
+    "label": "cookies",
+    "sub": "e nenhum IP armazenado"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-07",
+  "net": "li",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "SEO internacional: 5 lições",
+  "objective": "Valor técnico (salvamentos de profissionais de marketing e devs).",
+  "alt": "Carrossel claro com cinco lições de SEO internacional.",
+  "caption": "5 lições de SEO internacional ao lançar em 30 países de uma vez:\n\n1. Malha completa de hreflang, com x-default\n2. Uma pasta por país (crownd.dev/br), não subdomínios\n3. Canonical em toda página\n4. Sitemap com a data real da última mudança\n5. llms.txt e dados estruturados para as IAs citarem você\n\nQual delas você já aplica?",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "seo",
+    "title": "SEO internacional: 5 lições.",
+    "sub": "",
+    "hi": "5 lições"
+   },
+   {
+    "t": "step",
+    "n": "1",
+    "title": "hreflang em malha",
+    "body": "Todas as versões apontam para todas, mais um x-default."
+   },
+   {
+    "t": "step",
+    "n": "2",
+    "title": "Uma pasta por país",
+    "body": "crownd.dev/br concentra a autoridade num só domínio."
+   },
+   {
+    "t": "step",
+    "n": "3",
+    "title": "Canonical sempre",
+    "body": "Cada página diz qual é a sua versão oficial."
+   },
+   {
+    "t": "step",
+    "n": "4",
+    "title": "lastmod real",
+    "body": "O sitemap informa quando a página mudou de verdade."
+   },
+   {
+    "t": "step",
+    "n": "5",
+    "title": "Pense nas IAs",
+    "body": "llms.txt e FAQ estruturado para respostas de IA."
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-08",
+  "net": "li",
+  "format": "single",
+  "palette": "verde",
+  "title": "Cada cor, uma cultura",
+  "objective": "Branding e storytelling.",
+  "alt": "Cartão com a cor Verde Copa da edição brasileira.",
+  "caption": "Cada edição do Crownd tem uma cor tirada da cultura local, não da bandeira.\n\nNo Brasil, é o Verde Copa: o verde da torcida em dia de jogo. No Japão, o Shu-iro dos portões torii. Na França, o Bleu Klein.\n\nDetalhes assim fazem um produto global parecer local.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "swatch",
+    "slug": "br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-09",
+  "net": "li",
+  "format": "carousel",
+  "palette": "gold",
+  "title": "Checklist de lançamento",
+  "objective": "Valor prático.",
+  "alt": "Carrossel amarelo com um checklist de lançamento em duas partes: produto e divulgação.",
+  "caption": "Checklist antes de anunciar o seu produto:\n\nProduto\n✔ Uma frase que explica o que ele faz\n✔ Link final, sem encurtador\n✔ Prévia (imagem OG) bonita\n\nDivulgação\n✔ Publique onde o seu público já está\n✔ Faça um pedido claro\n✔ Responda a todos na primeira hora\n\nSalve para o próximo lançamento.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "checklist",
+    "title": "Antes de anunciar o seu produto.",
+    "sub": "",
+    "hi": "anunciar"
+   },
+   {
+    "t": "list",
+    "head": "Produto",
+    "items": [
+     "Frase de uma linha",
+     "Link final, sem encurtador",
+     "Prévia (imagem OG)"
+    ]
+   },
+   {
+    "t": "list",
+    "head": "Divulgação",
+    "items": [
+     "Onde o público já está",
+     "Pedido claro",
+     "Respostas na 1ª hora"
+    ]
+   },
+   {
+    "t": "cta",
+    "line1": "Pronto?",
+    "line2": "Lance grátis no Crownd.",
+    "hint": "crownd.dev/br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-10",
+  "net": "li",
+  "format": "single",
+  "palette": "gold",
+  "title": "O Hall da Fama",
+  "objective": "Storytelling e status.",
+  "alt": "Placa do Hall da Fama com a primeira posição em aberto.",
+  "caption": "Daqui a alguns anos, alguém vai perguntar: qual foi o primeiro produto a ocupar o #1 do Brasil no Crownd?\n\nA resposta vai estar no Hall da Fama, que registra cada troca de coroa com data e tempo de reinado.\n\nHoje, a primeira linha ainda está em branco.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "hall"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "li-11",
+  "net": "li",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "Mecânica de preço",
+  "objective": "Explicar o modelo de negócio (transparência para investidores e makers).",
+  "alt": "Carrossel escuro explicando lance mínimo, degraus, empate e pagamento da diferença.",
+  "caption": "Como funciona o preço do #1 no Crownd:\n\n• Lance mínimo e degraus de R$ 5 no Brasil (cada país na sua moeda)\n• O total pago define a posição\n• Empate: fica à frente quem chegou primeiro\n• Para subir, você paga só a diferença\n\nUm modelo simples, público e previsível.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "modelo",
+    "title": "Como funciona o preço do #1.",
+    "sub": "",
+    "hi": "preço"
+   },
+   {
+    "t": "text",
+    "head": "Lance mínimo",
+    "body": "R$ 5 no Brasil, em degraus de R$ 5. Cada país na sua moeda."
+   },
+   {
+    "t": "text",
+    "head": "Posição",
+    "body": "O total pago define a posição. Empate: fica à frente quem chegou primeiro."
+   },
+   {
+    "t": "text",
+    "head": "Subir",
+    "body": "Você paga só a diferença, nunca o valor inteiro de novo."
+   },
+   {
+    "t": "cta",
+    "line1": "Simples e público.",
+    "line2": "crownd.dev/br/rules",
+    "hint": "link nos comentários"
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "li-12",
+  "net": "li",
+  "format": "single",
+  "palette": "parchment",
+  "title": "Convite: lance grátis",
+  "objective": "Converter a audiência profissional.",
+  "alt": "Card claro com '10 vagas de lançamento gratuitas por dia'.",
+  "caption": "Você está construindo um produto digital?\n\nO Crownd Brasil tem 10 vagas de lançamento gratuitas por dia, ranqueadas por cliques únicos. Basta o nome, o link e uma frase.\n\nComente com o link do seu produto: vamos olhar um por um.",
+  "hashtags": [
+   "#empreendedorismo",
+   "#saas",
+   "#buildinpublic"
+  ],
+  "slides": [
+   {
+    "t": "stat",
+    "value": "10",
+    "label": "vagas de lançamento gratuitas por dia",
+    "sub": "crownd.dev/br/launches"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-01",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "POV: 3 likes",
+  "objective": "Humor e identificação (alcance).",
+  "alt": "Carrossel vertical em formato meme: 6 meses de trabalho, 3 likes, um deles da mãe.",
+  "caption": "POV: você passou 6 meses criando seu produto 🥲 #indiehacker",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "POV",
+    "title": "6 meses criando o seu produto.",
+    "sub": "",
+    "hi": "6 meses"
+   },
+   {
+    "t": "stat",
+    "value": "3",
+    "label": "likes",
+    "sub": ""
+   },
+   {
+    "t": "quote",
+    "q": "Um deles foi da sua mãe.",
+    "by": "🥲"
+   },
+   {
+    "t": "cta",
+    "line1": "No Crownd não existe",
+    "line2": "like por pena.",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-02",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "night",
+  "title": "Coisas que todo indie hacker já fez",
+  "objective": "Humor e identificação (compartilhamentos).",
+  "alt": "Carrossel vertical listando situações típicas de quem lança produtos.",
+  "caption": "Se você fez 3 dessas, você é indie hacker 😂",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "todo indie hacker já",
+    "title": "Coisas que todo indie hacker já fez.",
+    "sub": "",
+    "hi": "já fez"
+   },
+   {
+    "t": "quote",
+    "q": "Comprou o domínio antes de ter a ideia.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Lançou às 3 da manhã.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Pediu voto no grupo da família.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Refez a landing page 7 vezes.",
+    "by": ""
+   },
+   {
+    "t": "cta",
+    "line1": "Quantas você fez?",
+    "line2": "Comenta 👇",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-03",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "Lançar grátis em 4 passos",
+  "objective": "Tutorial (salvamentos).",
+  "alt": "Carrossel vertical claro com os 4 passos para lançar grátis no Crownd.",
+  "caption": "Como lançar seu produto de graça em 4 passos 🚀 salva pra não esquecer",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "tutorial",
+    "title": "Lança grátis em 4 passos.",
+    "sub": "",
+    "hi": "grátis"
+   },
+   {
+    "t": "step",
+    "n": "1",
+    "title": "Abre o Crownd",
+    "body": "crownd.dev/br"
+   },
+   {
+    "t": "step",
+    "n": "2",
+    "title": "Lançamentos",
+    "body": "Toca em 'Lançar de graça'."
+   },
+   {
+    "t": "step",
+    "n": "3",
+    "title": "Preenche",
+    "body": "Nome, link e uma frase que vende."
+   },
+   {
+    "t": "step",
+    "n": "4",
+    "title": "Compartilha",
+    "body": "Cliques únicos decidem quem sobe."
+   },
+   {
+    "t": "cta",
+    "line1": "10 vagas por dia.",
+    "line2": "Zera à meia-noite.",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-04",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "obsidian",
+  "title": "Qual país tem a cor mais bonita?",
+  "objective": "Engajamento por votação nos comentários.",
+  "alt": "Carrossel vertical com cinco cores de edições: Japão, França, Holanda, Suécia e Brasil.",
+  "caption": "Qual país tem a cor mais bonita? Comenta o número 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#design"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "vota",
+    "title": "Qual país tem a cor mais bonita?",
+    "sub": "",
+    "hi": "mais bonita"
+   },
+   {
+    "t": "swatch",
+    "slug": "jp"
+   },
+   {
+    "t": "swatch",
+    "slug": "fr"
+   },
+   {
+    "t": "swatch",
+    "slug": "nl"
+   },
+   {
+    "t": "swatch",
+    "slug": "se"
+   },
+   {
+    "t": "swatch",
+    "slug": "br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-05",
+  "net": "tt",
+  "format": "single",
+  "palette": "verde",
+  "title": "O trono do Brasil está vazio",
+  "objective": "Urgência.",
+  "alt": "Imagem vertical verde: 'O trono do Brasil está vazio'.",
+  "caption": "O #1 do Brasil ainda não tem dono 👑 link na bio",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd brasil",
+    "title": "O trono do Brasil está vazio.",
+    "sub": "Quem chegar primeiro entra para a história.",
+    "hi": "vazio"
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "tt-06",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "coup",
+  "title": "Red flags de lançamento",
+  "objective": "Humor + dica (compartilhamentos).",
+  "alt": "Carrossel vertical vermelho com 'red flags' de lançamento.",
+  "caption": "Red flags no lançamento do seu produto 🚩",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "🚩 red flags",
+    "title": "Red flags de lançamento.",
+    "sub": "",
+    "hi": "Red flags"
+   },
+   {
+    "t": "quote",
+    "q": "Link com encurtador.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "'Em breve' na landing page.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Nenhuma frase dizendo o que faz.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Lançar e sumir dos comentários.",
+    "by": ""
+   },
+   {
+    "t": "cta",
+    "line1": "Evitou todas?",
+    "line2": "Lança no Crownd.",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-07",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "night",
+  "title": "Upvote vs Lance",
+  "objective": "Comparação (comentários com opinião).",
+  "alt": "Carrossel vertical comparando upvote e lance.",
+  "caption": "Upvote ou lance: qual é mais justo? 🤔",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "time",
+    "title": "Upvote ou lance?",
+    "sub": "",
+    "hi": "lance"
+   },
+   {
+    "t": "compare",
+    "head": "",
+    "lt": "Upvote",
+    "l": [
+     "Quem tem mais amigo vence",
+     "Regra escondida"
+    ],
+    "rt": "Lance",
+    "r": [
+     "Preço público",
+     "Regra clara"
+    ]
+   },
+   {
+    "t": "cta",
+    "line1": "Qual time você é?",
+    "line2": "Comenta 👇",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-08",
+  "net": "tt",
+  "format": "single",
+  "palette": "night",
+  "title": "3 da manhã",
+  "objective": "Meme rápido (alcance).",
+  "alt": "Imagem vertical com o relógio 03:00 e 'lançamento no ar'.",
+  "caption": "3 da manhã e o produto finalmente no ar 😵‍💫",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao"
+  ],
+  "slides": [
+   {
+    "t": "stat",
+    "value": "03:00",
+    "label": "lançamento no ar",
+    "sub": "0 horas de sono"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-09",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "Tour pelo Crownd",
+  "objective": "Mostrar o produto (consideração).",
+  "alt": "Carrossel vertical mostrando o board, os lançamentos grátis e o Hall da Fama.",
+  "caption": "Tour rápido pelo Crownd 👑",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "tour",
+    "title": "Um tour pelo Crownd.",
+    "sub": "",
+    "hi": "tour"
+   },
+   {
+    "t": "board",
+    "head": "O board"
+   },
+   {
+    "t": "stat",
+    "value": "10",
+    "label": "lançamentos grátis por dia",
+    "sub": ""
+   },
+   {
+    "t": "hall"
+   },
+   {
+    "t": "cta",
+    "line1": "Bora?",
+    "line2": "crownd.dev/br",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-10",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "coup",
+  "title": "Tipos de maker no grupo",
+  "objective": "Humor (marcações).",
+  "alt": "Carrossel vertical com arquétipos engraçados de makers.",
+  "caption": "Marca o amigo que é o número 3 😂",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "os tipos",
+    "title": "Tipos de maker no grupo.",
+    "sub": "",
+    "hi": "maker"
+   },
+   {
+    "t": "quote",
+    "q": "1. O que tem 14 projetos e 0 lançados.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "2. O que refaz o logo toda semana.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "3. O que pede voto às 3 da manhã.",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "4. O que já está faturando e não fala.",
+    "by": ""
+   },
+   {
+    "t": "cta",
+    "line1": "Qual é você?",
+    "line2": "Comenta o número 👇",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-11",
+  "net": "tt",
+  "format": "carousel",
+  "palette": "gold",
+  "title": "Seu produto está pronto para o #1?",
+  "objective": "Quiz (interação e salvamentos).",
+  "alt": "Carrossel vertical amarelo com um teste de 4 perguntas.",
+  "caption": "Faz o teste: seu produto está pronto pro #1? ✅",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao",
+   "#startup",
+   "#tech"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "teste",
+    "title": "Seu produto está pronto para o #1?",
+    "sub": "",
+    "hi": "pronto"
+   },
+   {
+    "t": "quote",
+    "q": "Alguém além de você usa?",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Dá pra explicar em uma frase?",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "O link abre rápido no celular?",
+    "by": ""
+   },
+   {
+    "t": "quote",
+    "q": "Você responderia comentários hoje?",
+    "by": ""
+   },
+   {
+    "t": "cta",
+    "line1": "4 sins?",
+    "line2": "Então lança.",
+    "hint": "@crownd.dev"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "tt-12",
+  "net": "tt",
+  "format": "single",
+  "palette": "gold",
+  "title": "Quem vai ser o primeiro rei?",
+  "objective": "Desejo e marcações.",
+  "alt": "Imagem vertical com a placa do Hall da Fama em aberto.",
+  "caption": "Quem vai ser o primeiro #1 do Brasil? Marca aqui 👇",
+  "hashtags": [
+   "#indiehacker",
+   "#empreendedorismo",
+   "#programacao"
+  ],
+  "slides": [
+   {
+    "t": "hall"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-01",
+  "net": "th",
+  "format": "single",
+  "palette": "coup",
+  "title": "Like por pena conta?",
+  "objective": "Conversa (respostas).",
+  "alt": "Card vermelho com a pergunta 'Like por pena conta como validação?'.",
+  "caption": "Pergunta sincera: like por pena conta como validação?\n\nPorque se contar, eu sou um sucesso desde 2019 🥲",
+  "hashtags": [
+   "Indie Hackers"
+  ],
+  "slides": [
+   {
+    "t": "quote",
+    "q": "Like por pena conta como validação?",
+    "by": ""
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-02",
+  "net": "th",
+  "format": "single",
+  "palette": "obsidian",
+  "title": "Lançamos",
+  "objective": "Anúncio.",
+  "alt": "Card escuro com o símbolo e 'O ranking onde o lance decide'.",
+  "caption": "Lançamos o Crownd: um ranking público de produtos indie pra cada país.\n\nNo Brasil, o maior lance fica com o #1. E tem 10 lançamentos grátis por dia.\n\ncrownd.dev/br",
+  "hashtags": [
+   "Build in Public"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd.dev",
+    "title": "O ranking onde o lance decide.",
+    "sub": "",
+    "hi": "o lance"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-03",
+  "net": "th",
+  "format": "carousel",
+  "palette": "parchment",
+  "title": "Como funciona em 3 imagens",
+  "objective": "Explicar o produto.",
+  "alt": "Três cards claros: cola o link, dá o lance, segura a coroa.",
+  "caption": "Como funciona o Crownd em 3 imagens 👇",
+  "hashtags": [
+   "Indie Hackers"
+  ],
+  "slides": [
+   {
+    "t": "step",
+    "n": "1",
+    "title": "Cola o link",
+    "body": "Do seu produto, app ou perfil."
+   },
+   {
+    "t": "step",
+    "n": "2",
+    "title": "Dá o lance",
+    "body": "O maior total fica com o #1."
+   },
+   {
+    "t": "step",
+    "n": "3",
+    "title": "Segura a coroa",
+    "body": "Até alguém passar."
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-04",
+  "net": "th",
+  "format": "single",
+  "palette": "night",
+  "title": "Opinião impopular",
+  "objective": "Debate (respostas).",
+  "alt": "Card escuro com a opinião impopular.",
+  "caption": "Opinião impopular: pagar pra aparecer é mais honesto do que pedir voto.\n\nPelo menos a regra é clara e o preço é público. Discorda? Me convence.",
+  "hashtags": [
+   "Empreendedorismo"
+  ],
+  "slides": [
+   {
+    "t": "quote",
+    "q": "Pagar para aparecer é mais honesto do que pedir voto.",
+    "by": "— opinião impopular"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-05",
+  "net": "th",
+  "format": "single",
+  "palette": "verde",
+  "title": "Qual produto merece o #1?",
+  "objective": "Comunidade e descoberta de makers.",
+  "alt": "Card verde com 'Qual produto brasileiro merece o #1?'.",
+  "caption": "Qual produto brasileiro merece o #1?\n\nPode ser seu ou de alguém. Manda o link aqui embaixo 👇",
+  "hashtags": [
+   "Startups"
+  ],
+  "slides": [
+   {
+    "t": "cta",
+    "line1": "Qual produto",
+    "line2": "merece o #1?",
+    "hint": "manda o link 👇"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-06",
+  "net": "th",
+  "format": "single",
+  "palette": "parchment",
+  "title": "Bastidores em números",
+  "objective": "Build in public.",
+  "alt": "Card claro com '30 edições · 14 idiomas · 24 moedas'.",
+  "caption": "Bastidores do Crownd:\n\n30 edições, 14 idiomas, 24 moedas, analytics público sem cookies.\n\nFeito em público. Pergunta o que quiser.",
+  "hashtags": [
+   "Build in Public"
+  ],
+  "slides": [
+   {
+    "t": "list",
+    "head": "Bastidores",
+    "items": [
+     "30 edições",
+     "14 idiomas",
+     "24 moedas",
+     "Analytics sem cookies"
+    ]
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-07",
+  "net": "th",
+  "format": "single",
+  "palette": "night",
+  "title": "Dica: 00:01",
+  "objective": "Dica útil.",
+  "alt": "Card escuro com o horário 00:01.",
+  "caption": "Dica: as vagas grátis do Crownd zeram à meia-noite.\n\nQuem lança às 00:01 tem o dia todo pra juntar cliques. Anota aí.",
+  "hashtags": [
+   "Indie Hackers"
+  ],
+  "slides": [
+   {
+    "t": "stat",
+    "value": "00:01",
+    "label": "o melhor horário para lançar grátis",
+    "sub": ""
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-08",
+  "net": "th",
+  "format": "single",
+  "palette": "verde",
+  "title": "Trono vazio",
+  "objective": "Urgência.",
+  "alt": "Card verde com 'O trono do Brasil está vazio'.",
+  "caption": "O trono do Brasil ainda está vazio 👑\n\nQuem vai ser o primeiro?",
+  "hashtags": [
+   "Startups"
+  ],
+  "slides": [
+   {
+    "t": "cover",
+    "kicker": "crownd brasil",
+    "title": "O trono do Brasil está vazio.",
+    "sub": "",
+    "hi": "vazio"
+   }
+  ],
+  "afterPayments": true
+ },
+ {
+  "id": "th-09",
+  "net": "th",
+  "format": "single",
+  "palette": "parchment",
+  "title": "Analytics aberto",
+  "objective": "Transparência.",
+  "alt": "Card claro com o gráfico do analytics público.",
+  "caption": "Nosso analytics é aberto pra qualquer pessoa ver: crownd.dev/analytics\n\nSem cookies, sem IP. Transparência de verdade.",
+  "hashtags": [
+   "Build in Public"
+  ],
+  "slides": [
+   {
+    "t": "analytics"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-10",
+  "net": "th",
+  "format": "single",
+  "palette": "verde",
+  "title": "A cor do Brasil",
+  "objective": "Branding.",
+  "alt": "Cartão Verde Copa.",
+  "caption": "A cor do Crownd Brasil é o Verde Copa: o verde da torcida em dia de jogo 💚\n\nCada país tem a sua. Qual você escolheria pro seu?",
+  "hashtags": [
+   "Design"
+  ],
+  "slides": [
+   {
+    "t": "swatch",
+    "slug": "br"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-11",
+  "net": "th",
+  "format": "single",
+  "palette": "gold",
+  "title": "Selo ao vivo",
+  "objective": "Benefício.",
+  "alt": "Mockup de site com o selo #1.",
+  "caption": "Chegou no #1? O selo do Crownd mostra no seu site, ao vivo, e se atualiza sozinho.\n\nVocê colocaria?",
+  "hashtags": [
+   "Indie Hackers"
+  ],
+  "slides": [
+   {
+    "t": "badge"
+   }
+  ],
+  "afterPayments": false
+ },
+ {
+  "id": "th-12",
+  "net": "th",
+  "format": "single",
+  "palette": "coup",
+  "title": "Seu pior lançamento",
+  "objective": "Conversa e histórias (respostas longas).",
+  "alt": "Card vermelho com 'Qual foi o seu pior lançamento?'.",
+  "caption": "Me conta: qual foi o seu pior lançamento?\n\nO meu teve 3 likes. Um era da minha mãe.",
+  "hashtags": [
+   "Empreendedorismo"
+  ],
+  "slides": [
+   {
+    "t": "quote",
+    "q": "Qual foi o seu pior lançamento?",
+    "by": ""
+   }
+  ],
+  "afterPayments": false
+ }
+]

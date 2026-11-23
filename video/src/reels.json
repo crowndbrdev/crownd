@@ -1,0 +1,563 @@
+{
+    "reels":  [
+                  {
+                      "id":  "Reel1-LikePorPena",
+                      "title":  "Like por pena",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "likes",
+                                        "text":  "Você passou seis meses criando o seu produto... e ganhou três likes."
+                                    },
+                                    {
+                                        "scene":  "mom",
+                                        "text":  "Um deles foi da sua mãe."
+                                    },
+                                    {
+                                        "scene":  "reveal",
+                                        "text":  "Foi por isso que a gente criou o Crownd."
+                                    },
+                                    {
+                                        "scene":  "board",
+                                        "text":  "Um ranking público de produtos sem like por pena e sem algoritmo. Quem dá o maior lance fica em primeiro."
+                                    },
+                                    {
+                                        "scene":  "slots",
+                                        "text":  "E se você não quer pagar nada, tem dez vagas de lançamento grátis por dia, ranqueadas por cliques."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Agora me fala nos comentários: qual produto merece o número um do Brasil?",
+                                        "props":  {
+                                                      "line1":  "Qual produto merece",
+                                                      "line2":  "o #1 do Brasil?",
+                                                      "hint":  "comenta aqui 👇"
+                                                  }
+                                    }
+                                ],
+                      "palette":  "obsidian",
+                      "gender":  "male"
+                  },
+                  {
+                      "id":  "Reel2-TronoVazio",
+                      "title":  "O trono está vazio",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "throne",
+                                        "text":  "Esse trono está vazio. E isso não vai durar muito."
+                                    },
+                                    {
+                                        "scene":  "countries",
+                                        "text":  "O Crownd tem um ranking de produtos para trinta países. Cada país tem a sua coroa."
+                                    },
+                                    {
+                                        "scene":  "brcard",
+                                        "text":  "E a coroa do Brasil ainda não tem dono."
+                                    },
+                                    {
+                                        "scene":  "price",
+                                        "text":  "O primeiro lance começa em cinco reais."
+                                    },
+                                    {
+                                        "scene":  "hall",
+                                        "text":  "Quem pegar primeiro entra para o Hall da Fama. Para sempre."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "O link tá na bio. Corre, antes que alguém sente aí.",
+                                        "props":  {
+                                                      "line1":  "crownd.dev/br",
+                                                      "line2":  "link na bio",
+                                                      "hint":  "antes que alguém sente aí 👑"
+                                                  }
+                                    }
+                                ],
+                      "palette":  "obsidian",
+                      "gender":  "female"
+                  },
+                  {
+                      "id":  "Reel3-RoubaramACoroa",
+                      "title":  "Roubaram sua coroa",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "notify",
+                                        "text":  "Você abre o Crownd... e alguém roubou o seu primeiro lugar."
+                                    },
+                                    {
+                                        "scene":  "swap",
+                                        "text":  "Aqui isso acontece. E essa é exatamente a graça."
+                                    },
+                                    {
+                                        "scene":  "diff",
+                                        "text":  "Quer a coroa de volta? Você não paga tudo de novo. Paga só a diferença."
+                                    },
+                                    {
+                                        "scene":  "timer",
+                                        "text":  "Cada minuto no topo conta. O seu reinado fica cronometrado."
+                                    },
+                                    {
+                                        "scene":  "hall",
+                                        "text":  "E toda troca de coroa fica registrada no Hall da Fama.",
+                                        "props":  {
+                                                      "mode":  "history"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Marca aquele amigo que nunca aceitaria perder o primeiro lugar.",
+                                        "props":  {
+                                                      "line1":  "Marca aquele amigo",
+                                                      "line2":  "que odeia perder o #1",
+                                                      "hint":  "@ marca ele 👇"
+                                                  }
+                                    }
+                                ],
+                      "palette":  "obsidian",
+                      "gender":  "male"
+                  },
+                  {
+                      "id":  "Reel4-SemAlgoritmo",
+                      "title":  "Sem algoritmo",
+                      "palette":  "coup",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "noalgo",
+                                        "text":  "O algoritmo enterrou o seu post de lançamento? Clássico."
+                                    },
+                                    {
+                                        "scene":  "reveal",
+                                        "text":  "No Crownd não existe algoritmo."
+                                    },
+                                    {
+                                        "scene":  "board",
+                                        "text":  "A posição é decidida só pelo lance. Maior valor, primeiro lugar. Simples assim."
+                                    },
+                                    {
+                                        "scene":  "public",
+                                        "text":  "E é tudo público: até o analytics do site fica aberto para qualquer pessoa ver."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Qual rede social mais esconde o seu conteúdo? Comenta aí.",
+                                        "props":  {
+                                                      "line1":  "Qual rede mais",
+                                                      "line2":  "esconde seu post?",
+                                                      "hint":  "comenta aqui 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel5-LanceGratis",
+                      "title":  "Lançamento grátis em 30s",
+                      "palette":  "parchment",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "countdown",
+                                        "text":  "Como lançar o seu produto de graça em trinta segundos. Salva para não esquecer."
+                                    },
+                                    {
+                                        "scene":  "step",
+                                        "text":  "Passo um: entra no Crownd e escolhe a edição do Brasil.",
+                                        "props":  {
+                                                      "n":  "1",
+                                                      "title":  "abre o Crownd",
+                                                      "ui":  "url"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "step",
+                                        "text":  "Passo dois: toca em Lançamentos e depois em lançar de graça.",
+                                        "props":  {
+                                                      "n":  "2",
+                                                      "title":  "Lançamentos",
+                                                      "ui":  "button"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "step",
+                                        "text":  "Passo três: coloca o nome, o link e uma frase que vende o seu produto.",
+                                        "props":  {
+                                                      "n":  "3",
+                                                      "title":  "nome, link, frase",
+                                                      "ui":  "form"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "step",
+                                        "text":  "Passo quatro: compartilha. Os cliques únicos decidem quem sobe.",
+                                        "props":  {
+                                                      "n":  "4",
+                                                      "title":  "compartilha",
+                                                      "ui":  "share"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "slots",
+                                        "text":  "São dez vagas por dia, e tudo zera à meia-noite. Salva esse vídeo para lançar amanhã."
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel6-VinteCores",
+                      "title":  "Uma cor por país",
+                      "palette":  "obsidian",
+                      "gender":  "male",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "swatch",
+                                        "text":  "Por que o Crownd do Japão é vermelho?",
+                                        "props":  {
+                                                      "slugs":  "jp"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "countries",
+                                        "text":  "Cada edição tem uma cor tirada da cultura local, não da bandeira."
+                                    },
+                                    {
+                                        "scene":  "swatch",
+                                        "text":  "No Japão, é o Shu-iro: o vermelho dos portões torii.",
+                                        "props":  {
+                                                      "slugs":  "jp"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "swatch",
+                                        "text":  "Na França, o azul Klein. Na Holanda, o laranja Oranje.",
+                                        "props":  {
+                                                      "slugs":  "fr,nl"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "swatch",
+                                        "text":  "E no Brasil? Verde Copa, o verde da torcida em dia de jogo.",
+                                        "props":  {
+                                                      "slugs":  "br"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Qual país você quer dominar? Comenta aí.",
+                                        "props":  {
+                                                      "line1":  "Qual país você",
+                                                      "line2":  "quer dominar?",
+                                                      "hint":  "comenta o país 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel7-SeloAoVivo",
+                      "title":  "Selo ao vivo",
+                      "palette":  "gold",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "badge",
+                                        "text":  "Seu produto chegou em primeiro? Então mostra para todo mundo."
+                                    },
+                                    {
+                                        "scene":  "badge",
+                                        "text":  "O Crownd te dá um selo que se atualiza sozinho com a sua posição."
+                                    },
+                                    {
+                                        "scene":  "embed",
+                                        "text":  "Cola um código no seu site e pronto: prova social ao vivo."
+                                    },
+                                    {
+                                        "scene":  "badge",
+                                        "text":  "Caiu para segundo? O selo mostra. Voltou para o topo? Mostra também.",
+                                        "props":  {
+                                                      "mode":  "drop"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Você colocaria o seu ranking no seu site? Sim ou não?",
+                                        "props":  {
+                                                      "line1":  "Você mostraria",
+                                                      "line2":  "seu ranking?",
+                                                      "hint":  "sim ou não 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel8-POV3DaManha",
+                      "title":  "POV: 3 da manhã",
+                      "palette":  "night",
+                      "gender":  "male",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "clock3",
+                                        "text":  "POV: são três da manhã e você acabou de lançar o seu produto."
+                                    },
+                                    {
+                                        "scene":  "page2",
+                                        "text":  "Pediu voto até no grupo da família... e terminou na página dois."
+                                    },
+                                    {
+                                        "scene":  "reveal",
+                                        "text":  "No Crownd, a madrugada não importa."
+                                    },
+                                    {
+                                        "scene":  "rules2",
+                                        "text":  "Quer o topo? Dá o lance. Quer de graça? Lança e compartilha: os cliques decidem."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Marca aquele amigo que já te pediu voto às três da manhã.",
+                                        "props":  {
+                                                      "line1":  "Marca o amigo",
+                                                      "line2":  "do voto às 3h",
+                                                      "hint":  "@ marca ele 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel9-PrimeiroRei",
+                      "title":  "O primeiro rei",
+                      "palette":  "verde",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "future",
+                                        "text":  "Daqui a dez anos, alguém vai perguntar: quem foi o primeiro número um do Brasil?"
+                                    },
+                                    {
+                                        "scene":  "hall",
+                                        "text":  "A resposta vai estar gravada no Hall da Fama do Crownd."
+                                    },
+                                    {
+                                        "scene":  "timer",
+                                        "text":  "Cada coroa, cada reinado, com data e duração."
+                                    },
+                                    {
+                                        "scene":  "brcard",
+                                        "text":  "A história do Brasil indie começa agora. E o trono ainda está vazio."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Quem você acha que vai ser o primeiro? Marca aqui.",
+                                        "props":  {
+                                                      "line1":  "Quem vai ser",
+                                                      "line2":  "o primeiro rei?",
+                                                      "hint":  "marca aqui 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel10-QuemMereceO1",
+                      "title":  "Quem merece o #1?",
+                      "palette":  "coup",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "board",
+                                        "text":  "Pergunta que divide makers: o número um mostra o melhor produto ou segue uma regra clara?"
+                                    },
+                                    {
+                                        "scene":  "board",
+                                        "text":  "No Crownd, o número um é o maior lance. Não é uma nota de qualidade."
+                                    },
+                                    {
+                                        "scene":  "public",
+                                        "text":  "Você prefere ranking por voto, popularidade ou por uma regra pública?"
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Escolhe um critério e conta nos comentários.",
+                                        "props":  {
+                                                      "line1":  "Voto, popularidade",
+                                                      "line2":  "ou lance?",
+                                                      "hint":  "escolhe um 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel11-CliqueUnico",
+                      "title":  "Clique único",
+                      "palette":  "gold",
+                      "gender":  "male",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "slots",
+                                        "text":  "Se a mesma pessoa clicar dez vezes, isso deveria valer por dez?"
+                                    },
+                                    {
+                                        "scene":  "step",
+                                        "text":  "Nas vagas grátis do Crownd, contamos cliques únicos: a mesma pessoa conta uma vez por dia.",
+                                        "props":  {
+                                                      "n":  "1",
+                                                      "title":  "cliques únicos",
+                                                      "ui":  "button"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "slots",
+                                        "text":  "Por isso, compartilhar com gente nova pode ajudar seu lançamento a subir."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Pra quem você mandaria o link primeiro: devs, amigos ou família?",
+                                        "props":  {
+                                                      "line1":  "Pra quem você",
+                                                      "line2":  "mandaria o link?",
+                                                      "hint":  "devs, amigos ou família?"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel12-PitchUmaFrase",
+                      "title":  "Pitch em uma frase",
+                      "palette":  "parchment",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "countdown",
+                                        "text":  "Desafio de cinco segundos: explica o que seu produto faz em uma frase."
+                                    },
+                                    {
+                                        "scene":  "step",
+                                        "text":  "Começa pelo nome, o link e uma frase que deixa claro para quem é e o que resolve.",
+                                        "props":  {
+                                                      "n":  "1",
+                                                      "title":  "uma frase clara",
+                                                      "ui":  "form"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Escreve o pitch nos comentários. Sem jargão: só uma frase.",
+                                        "props":  {
+                                                      "line1":  "Resume seu produto",
+                                                      "line2":  "em uma frase",
+                                                      "hint":  "manda nos comentários 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel13-SemPromessaDeTrafego",
+                      "title":  "Sem promessa de tráfego",
+                      "palette":  "obsidian",
+                      "gender":  "male",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "noalgo",
+                                        "text":  "O Crownd não promete tráfego nem primeira posição no Google."
+                                    },
+                                    {
+                                        "scene":  "public",
+                                        "text":  "As regras da disputa são públicas, e o analytics do site também."
+                                    },
+                                    {
+                                        "scene":  "reveal",
+                                        "text":  "Transparência começa dizendo exatamente o que a plataforma faz e o que não pode garantir."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Você confia mais em promessa ou em regra aberta?",
+                                        "props":  {
+                                                      "line1":  "Promessa ou",
+                                                      "line2":  "regra aberta?",
+                                                      "hint":  "qual te convence? 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel14-PaginaProProduto",
+                      "title":  "Uma página pro seu produto",
+                      "palette":  "night",
+                      "gender":  "female",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "badge",
+                                        "text":  "Seu produto não precisa viver só no post do dia do lançamento."
+                                    },
+                                    {
+                                        "scene":  "embed",
+                                        "text":  "No board pago do Crownd, cada produto tem uma página própria. Com descrição, ela pode ser indexada."
+                                    },
+                                    {
+                                        "scene":  "public",
+                                        "text":  "Indexável não quer dizer topo no Google nem promessa de visitas. A página só fica pronta para ser encontrada."
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Você gostaria de ter uma página própria para explicar seu produto?",
+                                        "props":  {
+                                                      "line1":  "Uma página própria",
+                                                      "line2":  "pro seu produto?",
+                                                      "hint":  "sim ou não 👇"
+                                                  }
+                                    }
+                                ]
+                  },
+                  {
+                      "id":  "Reel15-ProdutoNoMundo",
+                      "title":  "Do Brasil pro mundo",
+                      "palette":  "verde",
+                      "gender":  "male",
+                      "rate":  "+4%",
+                      "pitch":  "+0Hz",
+                      "beats":  [
+                                    {
+                                        "scene":  "countries",
+                                        "text":  "Seu produto pode disputar espaço além do Brasil: o Crownd tem trinta edições locais."
+                                    },
+                                    {
+                                        "scene":  "swatch",
+                                        "text":  "São vinte e quatro moedas para makers apresentarem seus produtos em diferentes mercados.",
+                                        "props":  {
+                                                      "slugs":  "br,us,pt,jp"
+                                                  }
+                                    },
+                                    {
+                                        "scene":  "cta",
+                                        "text":  "Qual país você escolheria para lançar seu produto primeiro?",
+                                        "props":  {
+                                                      "line1":  "Qual país seria",
+                                                      "line2":  "o primeiro?",
+                                                      "hint":  "comenta a edição 👇"
+                                                  }
+                                    }
+                                ]
+                  }
+              ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="#0E0D12">
+  <title>Crownd mark</title>
+  <rect x="10" y="26" width="12" height="26" rx="3"/>
+  <rect x="26" y="14" width="12" height="38" rx="3"/>
+  <rect x="42" y="32" width="12" height="20" rx="3"/>
+  <rect x="8" y="50" width="48" height="7" rx="2"/>
+  <circle cx="16" cy="19" r="4.5"/>
+  <circle cx="32" cy="6.5" r="5" fill="#FFC531"/>
+  <circle cx="48" cy="25" r="4.5"/>
+</svg>

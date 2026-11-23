@@ -1,26 +1,57 @@
 {
-  "name": "best",
+  "name": "crownd",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3010",
     "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "next start -p 3010",
+    "lint": "eslint",
+    "test": "vitest run",
+    "db:push": "drizzle-kit push",
+    "stripe:setup": "node scripts/run-wizard.mjs scripts/stripe-wizard.sh",
+    "stripe:doctor": "node --use-system-ca --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --env-file-if-exists=.env.development.local scripts/stripe-doctor.mts",
+    "stripe:webhook": "node --use-system-ca --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --env-file-if-exists=.env.development.local scripts/stripe-webhook.mts",
+    "stripe:listen": "node scripts/stripe-cli.mjs listen --forward-to localhost:3010/api/webhooks/stripe --events checkout.session.completed,checkout.session.async_payment_succeeded,checkout.session.async_payment_failed,checkout.session.expired",
+    "stripe:trigger": "node scripts/stripe-cli.mjs trigger checkout.session.completed",
+    "seo:check": "node --use-system-ca --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/seo-check.mts",
+    "predev": "wrangler d1 migrations apply crownd-db --local",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview --port 8787",
+    "deploy": "node scripts/deploy.mjs",
+    "db:migrate:remote": "wrangler d1 migrations apply crownd-db --remote",
+    "deploy:check": "node scripts/deploy.mjs --dry-run",
+    "launch": "node scripts/run-wizard.mjs scripts/launch-wizard.sh",
+    "cf:login": "node --use-system-ca node_modules/wrangler/bin/wrangler.js login",
+    "indexnow": "node --use-system-ca --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --env-file=.secrets.production scripts/indexnow-submit.mts",
+    "golive": "node scripts/run-wizard.mjs scripts/golive-wizard.sh",
+    "mail:verify": "node --use-system-ca --env-file=.secrets.production scripts/mail-verify.mjs"
   },
   "dependencies": {
+    "@opennextjs/cloudflare": "^1.20.17",
+    "drizzle-orm": "^0.45.4",
     "next": "16.4.6",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "stripe": "^23.1.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "4.3.3",
-    "@types/node": "^20",
+    "@types/node": "^24.19.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.11",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
     "tailwindcss": "4.3.3",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.1.12",
+    "wrangler": "^4.161.0"
+  },
+  "allowScripts": {
+    "esbuild@0.18.20": true,
+    "esbuild@0.25.12": true,
+    "esbuild@0.28.2": true,
+    "workerd@1.20261110.1": true
   }
 }

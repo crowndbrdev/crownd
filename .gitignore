@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local db
+local.db*
+.env
+!.env.example
+
+# cloudflare
+.open-next
+.wrangler
+.dev.vars
+!.env.production
+.secrets*
+
+# Remotion reels
+video/node_modules
+video/out
+
+# Search Console / analytics exports (account data)
+*.zip

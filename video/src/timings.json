@@ -1,0 +1,4796 @@
+{
+ "Reel1-LikePorPena": [
+  {
+   "file": "audio/Reel1-LikePorPena-1.mp3",
+   "durationMs": 4272,
+   "words": [
+    {
+     "text": "Você",
+     "startMs": 49,
+     "endMs": 253
+    },
+    {
+     "text": "passou",
+     "startMs": 253,
+     "endMs": 589
+    },
+    {
+     "text": "seis",
+     "startMs": 589,
+     "endMs": 962
+    },
+    {
+     "text": "meses",
+     "startMs": 962,
+     "endMs": 1395
+    },
+    {
+     "text": "criando",
+     "startMs": 1395,
+     "endMs": 1731
+    },
+    {
+     "text": "o",
+     "startMs": 1731,
+     "endMs": 1743
+    },
+    {
+     "text": "seu",
+     "startMs": 1743,
+     "endMs": 1900
+    },
+    {
+     "text": "produto",
+     "startMs": 1900,
+     "endMs": 2416
+    },
+    {
+     "text": "e",
+     "startMs": 2585,
+     "endMs": 2657
+    },
+    {
+     "text": "ganhou",
+     "startMs": 2657,
+     "endMs": 3017
+    },
+    {
+     "text": "três",
+     "startMs": 3017,
+     "endMs": 3366
+    },
+    {
+     "text": "likes",
+     "startMs": 3366,
+     "endMs": 3919
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel1-LikePorPena-2.mp3",
+   "durationMs": 1920,
+   "words": [
+    {
+     "text": "Um",
+     "startMs": 48,
+     "endMs": 252
+    },
+    {
+     "text": "deles",
+     "startMs": 252,
+     "endMs": 709
+    },
+    {
+     "text": "foi",
+     "startMs": 709,
+     "endMs": 877
+    },
+    {
+     "text": "da",
+     "startMs": 877,
+     "endMs": 986
+    },
+    {
+     "text": "sua",
+     "startMs": 986,
+     "endMs": 1250
+    },
+    {
+     "text": "mãe",
+     "startMs": 1250,
+     "endMs": 1574
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel1-LikePorPena-3.mp3",
+   "durationMs": 2352,
+   "words": [
+    {
+     "text": "Foi",
+     "startMs": 49,
+     "endMs": 229
+    },
+    {
+     "text": "por",
+     "startMs": 229,
+     "endMs": 397
+    },
+    {
+     "text": "isso",
+     "startMs": 397,
+     "endMs": 686
+    },
+    {
+     "text": "que",
+     "startMs": 686,
+     "endMs": 746
+    },
+    {
+     "text": "a",
+     "startMs": 746,
+     "endMs": 794
+    },
+    {
+     "text": "gente",
+     "startMs": 794,
+     "endMs": 1118
+    },
+    {
+     "text": "criou",
+     "startMs": 1118,
+     "endMs": 1503
+    },
+    {
+     "text": "o",
+     "startMs": 1503,
+     "endMs": 1563
+    },
+    {
+     "text": "Crownd",
+     "startMs": 1563,
+     "endMs": 2008
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel1-LikePorPena-4.mp3",
+   "durationMs": 6504,
+   "words": [
+    {
+     "text": "Um",
+     "startMs": 49,
+     "endMs": 253
+    },
+    {
+     "text": "ranking",
+     "startMs": 253,
+     "endMs": 638
+    },
+    {
+     "text": "público",
+     "startMs": 638,
+     "endMs": 1010
+    },
+    {
+     "text": "de",
+     "startMs": 1010,
+     "endMs": 1082
+    },
+    {
+     "text": "produtos",
+     "startMs": 1082,
+     "endMs": 1599
+    },
+    {
+     "text": "sem",
+     "startMs": 1599,
+     "endMs": 1839
+    },
+    {
+     "text": "like",
+     "startMs": 1839,
+     "endMs": 2164
+    },
+    {
+     "text": "por",
+     "startMs": 2164,
+     "endMs": 2332
+    },
+    {
+     "text": "pena",
+     "startMs": 2332,
+     "endMs": 2849
+    },
+    {
+     "text": "e",
+     "startMs": 2849,
+     "endMs": 2885
+    },
+    {
+     "text": "sem",
+     "startMs": 2885,
+     "endMs": 3174
+    },
+    {
+     "text": "algoritmo",
+     "startMs": 3174,
+     "endMs": 3811
+    },
+    {
+     "text": "Quem",
+     "startMs": 4135,
+     "endMs": 4351
+    },
+    {
+     "text": "dá",
+     "startMs": 4351,
+     "endMs": 4579
+    },
+    {
+     "text": "o",
+     "startMs": 4579,
+     "endMs": 4603
+    },
+    {
+     "text": "maior",
+     "startMs": 4603,
+     "endMs": 4940
+    },
+    {
+     "text": "lance",
+     "startMs": 4940,
+     "endMs": 5385
+    },
+    {
+     "text": "fica",
+     "startMs": 5385,
+     "endMs": 5637
+    },
+    {
+     "text": "em",
+     "startMs": 5637,
+     "endMs": 5709
+    },
+    {
+     "text": "primeiro",
+     "startMs": 5709,
+     "endMs": 6178
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel1-LikePorPena-5.mp3",
+   "durationMs": 5928,
+   "words": [
+    {
+     "text": "E",
+     "startMs": 50,
+     "endMs": 110
+    },
+    {
+     "text": "se",
+     "startMs": 110,
+     "endMs": 206
+    },
+    {
+     "text": "você",
+     "startMs": 206,
+     "endMs": 447
+    },
+    {
+     "text": "não",
+     "startMs": 447,
+     "endMs": 591
+    },
+    {
+     "text": "quer",
+     "startMs": 591,
+     "endMs": 795
+    },
+    {
+     "text": "pagar",
+     "startMs": 795,
+     "endMs": 1072
+    },
+    {
+     "text": "nada",
+     "startMs": 1072,
+     "endMs": 1456
+    },
+    {
+     "text": "tem",
+     "startMs": 1612,
+     "endMs": 1793
+    },
+    {
+     "text": "dez",
+     "startMs": 1793,
+     "endMs": 2165
+    },
+    {
+     "text": "vagas",
+     "startMs": 2165,
+     "endMs": 2550
+    },
+    {
+     "text": "de",
+     "startMs": 2550,
+     "endMs": 2610
+    },
+    {
+     "text": "lançamento",
+     "startMs": 2610,
+     "endMs": 3139
+    },
+    {
+     "text": "grátis",
+     "startMs": 3139,
+     "endMs": 3524
+    },
+    {
+     "text": "por",
+     "startMs": 3524,
+     "endMs": 3740
+    },
+    {
+     "text": "dia",
+     "startMs": 3740,
+     "endMs": 4076
+    },
+    {
+     "text": "ranqueadas",
+     "startMs": 4341,
+     "endMs": 4930
+    },
+    {
+     "text": "por",
+     "startMs": 4930,
+     "endMs": 5098
+    },
+    {
+     "text": "cliques",
+     "startMs": 5098,
+     "endMs": 5603
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel1-LikePorPena-6.mp3",
+   "durationMs": 4536,
+   "words": [
+    {
+     "text": "Agora",
+     "startMs": 49,
+     "endMs": 469
+    },
+    {
+     "text": "me",
+     "startMs": 469,
+     "endMs": 577
+    },
+    {
+     "text": "fala",
+     "startMs": 577,
+     "endMs": 866
+    },
+    {
+     "text": "nos",
+     "startMs": 866,
+     "endMs": 986
+    },
+    {
+     "text": "comentários",
+     "startMs": 986,
+     "endMs": 1695
+    },
+    {
+     "text": "qual",
+     "startMs": 1912,
+     "endMs": 2092
+    },
+    {
+     "text": "produto",
+     "startMs": 2092,
+     "endMs": 2621
+    },
+    {
+     "text": "merece",
+     "startMs": 2621,
+     "endMs": 3005
+    },
+    {
+     "text": "o",
+     "startMs": 3005,
+     "endMs": 3029
+    },
+    {
+     "text": "número",
+     "startMs": 3029,
+     "endMs": 3438
+    },
+    {
+     "text": "um",
+     "startMs": 3438,
+     "endMs": 3594
+    },
+    {
+     "text": "do",
+     "startMs": 3594,
+     "endMs": 3678
+    },
+    {
+     "text": "Brasil",
+     "startMs": 3678,
+     "endMs": 4183
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel2-TronoVazio": [
+  {
+   "file": "audio/Reel2-TronoVazio-1.mp3",
+   "durationMs": 3624,
+   "words": [
+    {
+     "text": "Esse",
+     "startMs": 48,
+     "endMs": 373
+    },
+    {
+     "text": "trono",
+     "startMs": 373,
+     "endMs": 697
+    },
+    {
+     "text": "está",
+     "startMs": 697,
+     "endMs": 938
+    },
+    {
+     "text": "vazio",
+     "startMs": 938,
+     "endMs": 1466
+    },
+    {
+     "text": "E",
+     "startMs": 1791,
+     "endMs": 1984
+    },
+    {
+     "text": "isso",
+     "startMs": 1984,
+     "endMs": 2176
+    },
+    {
+     "text": "não",
+     "startMs": 2176,
+     "endMs": 2368
+    },
+    {
+     "text": "vai",
+     "startMs": 2368,
+     "endMs": 2549
+    },
+    {
+     "text": "durar",
+     "startMs": 2549,
+     "endMs": 2837
+    },
+    {
+     "text": "muito",
+     "startMs": 2837,
+     "endMs": 3282
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel2-TronoVazio-2.mp3",
+   "durationMs": 5376,
+   "words": [
+    {
+     "text": "O",
+     "startMs": 49,
+     "endMs": 157
+    },
+    {
+     "text": "Crownd",
+     "startMs": 157,
+     "endMs": 578
+    },
+    {
+     "text": "tem",
+     "startMs": 578,
+     "endMs": 734
+    },
+    {
+     "text": "um",
+     "startMs": 734,
+     "endMs": 818
+    },
+    {
+     "text": "ranking",
+     "startMs": 818,
+     "endMs": 1203
+    },
+    {
+     "text": "de",
+     "startMs": 1203,
+     "endMs": 1287
+    },
+    {
+     "text": "produtos",
+     "startMs": 1287,
+     "endMs": 1816
+    },
+    {
+     "text": "para",
+     "startMs": 1816,
+     "endMs": 2044
+    },
+    {
+     "text": "trinta",
+     "startMs": 2044,
+     "endMs": 2453
+    },
+    {
+     "text": "países",
+     "startMs": 2453,
+     "endMs": 3102
+    },
+    {
+     "text": "Cada",
+     "startMs": 3438,
+     "endMs": 3690
+    },
+    {
+     "text": "país",
+     "startMs": 3690,
+     "endMs": 4135
+    },
+    {
+     "text": "tem",
+     "startMs": 4135,
+     "endMs": 4327
+    },
+    {
+     "text": "a",
+     "startMs": 4327,
+     "endMs": 4363
+    },
+    {
+     "text": "sua",
+     "startMs": 4363,
+     "endMs": 4567
+    },
+    {
+     "text": "coroa",
+     "startMs": 4567,
+     "endMs": 5036
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel2-TronoVazio-3.mp3",
+   "durationMs": 2616,
+   "words": [
+    {
+     "text": "E",
+     "startMs": 49,
+     "endMs": 133
+    },
+    {
+     "text": "a",
+     "startMs": 133,
+     "endMs": 217
+    },
+    {
+     "text": "coroa",
+     "startMs": 217,
+     "endMs": 589
+    },
+    {
+     "text": "do",
+     "startMs": 589,
+     "endMs": 674
+    },
+    {
+     "text": "Brasil",
+     "startMs": 674,
+     "endMs": 1178
+    },
+    {
+     "text": "ainda",
+     "startMs": 1178,
+     "endMs": 1503
+    },
+    {
+     "text": "não",
+     "startMs": 1503,
+     "endMs": 1719
+    },
+    {
+     "text": "tem",
+     "startMs": 1719,
+     "endMs": 1912
+    },
+    {
+     "text": "dono",
+     "startMs": 1912,
+     "endMs": 2260
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel2-TronoVazio-4.mp3",
+   "durationMs": 2640,
+   "words": [
+    {
+     "text": "O",
+     "startMs": 49,
+     "endMs": 133
+    },
+    {
+     "text": "primeiro",
+     "startMs": 133,
+     "endMs": 505
+    },
+    {
+     "text": "lance",
+     "startMs": 505,
+     "endMs": 878
+    },
+    {
+     "text": "começa",
+     "startMs": 878,
+     "endMs": 1250
+    },
+    {
+     "text": "em",
+     "startMs": 1250,
+     "endMs": 1335
+    },
+    {
+     "text": "cinco",
+     "startMs": 1335,
+     "endMs": 1767
+    },
+    {
+     "text": "reais",
+     "startMs": 1767,
+     "endMs": 2296
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel2-TronoVazio-5.mp3",
+   "durationMs": 3912,
+   "words": [
+    {
+     "text": "Quem",
+     "startMs": 48,
+     "endMs": 204
+    },
+    {
+     "text": "pegar",
+     "startMs": 204,
+     "endMs": 553
+    },
+    {
+     "text": "primeiro",
+     "startMs": 553,
+     "endMs": 1106
+    },
+    {
+     "text": "entra",
+     "startMs": 1106,
+     "endMs": 1430
+    },
+    {
+     "text": "para",
+     "startMs": 1430,
+     "endMs": 1611
+    },
+    {
+     "text": "o",
+     "startMs": 1611,
+     "endMs": 1659
+    },
+    {
+     "text": "Hall",
+     "startMs": 1659,
+     "endMs": 1887
+    },
+    {
+     "text": "da",
+     "startMs": 1887,
+     "endMs": 2019
+    },
+    {
+     "text": "Fama",
+     "startMs": 2019,
+     "endMs": 2428
+    },
+    {
+     "text": "Para",
+     "startMs": 2764,
+     "endMs": 2993
+    },
+    {
+     "text": "sempre",
+     "startMs": 2993,
+     "endMs": 3570
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel2-TronoVazio-6.mp3",
+   "durationMs": 3600,
+   "words": [
+    {
+     "text": "O",
+     "startMs": 48,
+     "endMs": 132
+    },
+    {
+     "text": "link",
+     "startMs": 132,
+     "endMs": 553
+    },
+    {
+     "text": "tá",
+     "startMs": 553,
+     "endMs": 697
+    },
+    {
+     "text": "na",
+     "startMs": 697,
+     "endMs": 805
+    },
+    {
+     "text": "bio",
+     "startMs": 805,
+     "endMs": 1106
+    },
+    {
+     "text": "Corre",
+     "startMs": 1442,
+     "endMs": 1791
+    },
+    {
+     "text": "antes",
+     "startMs": 2007,
+     "endMs": 2296
+    },
+    {
+     "text": "que",
+     "startMs": 2296,
+     "endMs": 2380
+    },
+    {
+     "text": "alguém",
+     "startMs": 2380,
+     "endMs": 2692
+    },
+    {
+     "text": "sente",
+     "startMs": 2692,
+     "endMs": 2993
+    },
+    {
+     "text": "aí",
+     "startMs": 2993,
+     "endMs": 3257
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel3-RoubaramACoroa": [
+  {
+   "file": "audio/Reel3-RoubaramACoroa-1.mp3",
+   "durationMs": 3552,
+   "words": [
+    {
+     "text": "Você",
+     "startMs": 49,
+     "endMs": 385
+    },
+    {
+     "text": "abre",
+     "startMs": 385,
+     "endMs": 625
+    },
+    {
+     "text": "o",
+     "startMs": 626,
+     "endMs": 686
+    },
+    {
+     "text": "Crownd",
+     "startMs": 686,
+     "endMs": 1046
+    },
+    {
+     "text": "e",
+     "startMs": 1359,
+     "endMs": 1431
+    },
+    {
+     "text": "alguém",
+     "startMs": 1431,
+     "endMs": 1803
+    },
+    {
+     "text": "roubou",
+     "startMs": 1803,
+     "endMs": 2236
+    },
+    {
+     "text": "o",
+     "startMs": 2236,
+     "endMs": 2272
+    },
+    {
+     "text": "seu",
+     "startMs": 2272,
+     "endMs": 2452
+    },
+    {
+     "text": "primeiro",
+     "startMs": 2452,
+     "endMs": 2873
+    },
+    {
+     "text": "lugar",
+     "startMs": 2873,
+     "endMs": 3210
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel3-RoubaramACoroa-2.mp3",
+   "durationMs": 3840,
+   "words": [
+    {
+     "text": "Aqui",
+     "startMs": 49,
+     "endMs": 421
+    },
+    {
+     "text": "isso",
+     "startMs": 421,
+     "endMs": 649
+    },
+    {
+     "text": "acontece",
+     "startMs": 650,
+     "endMs": 1299
+    },
+    {
+     "text": "E",
+     "startMs": 1623,
+     "endMs": 1755
+    },
+    {
+     "text": "essa",
+     "startMs": 1755,
+     "endMs": 2080
+    },
+    {
+     "text": "é",
+     "startMs": 2080,
+     "endMs": 2164
+    },
+    {
+     "text": "exatamente",
+     "startMs": 2164,
+     "endMs": 3029
+    },
+    {
+     "text": "a",
+     "startMs": 3029,
+     "endMs": 3077
+    },
+    {
+     "text": "graça",
+     "startMs": 3077,
+     "endMs": 3498
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel3-RoubaramACoroa-3.mp3",
+   "durationMs": 5280,
+   "words": [
+    {
+     "text": "Quer",
+     "startMs": 48,
+     "endMs": 252
+    },
+    {
+     "text": "a",
+     "startMs": 252,
+     "endMs": 312
+    },
+    {
+     "text": "coroa",
+     "startMs": 312,
+     "endMs": 709
+    },
+    {
+     "text": "de",
+     "startMs": 709,
+     "endMs": 805
+    },
+    {
+     "text": "volta",
+     "startMs": 805,
+     "endMs": 1286
+    },
+    {
+     "text": "Você",
+     "startMs": 1611,
+     "endMs": 1863
+    },
+    {
+     "text": "não",
+     "startMs": 1863,
+     "endMs": 2032
+    },
+    {
+     "text": "paga",
+     "startMs": 2032,
+     "endMs": 2392
+    },
+    {
+     "text": "tudo",
+     "startMs": 2392,
+     "endMs": 2717
+    },
+    {
+     "text": "de",
+     "startMs": 2717,
+     "endMs": 2825
+    },
+    {
+     "text": "novo",
+     "startMs": 2825,
+     "endMs": 3198
+    },
+    {
+     "text": "Paga",
+     "startMs": 3534,
+     "endMs": 3906
+    },
+    {
+     "text": "só",
+     "startMs": 3906,
+     "endMs": 4255
+    },
+    {
+     "text": "a",
+     "startMs": 4255,
+     "endMs": 4327
+    },
+    {
+     "text": "diferença",
+     "startMs": 4327,
+     "endMs": 4964
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel3-RoubaramACoroa-4.mp3",
+   "durationMs": 4368,
+   "words": [
+    {
+     "text": "Cada",
+     "startMs": 48,
+     "endMs": 312
+    },
+    {
+     "text": "minuto",
+     "startMs": 312,
+     "endMs": 793
+    },
+    {
+     "text": "no",
+     "startMs": 793,
+     "endMs": 938
+    },
+    {
+     "text": "topo",
+     "startMs": 938,
+     "endMs": 1262
+    },
+    {
+     "text": "conta",
+     "startMs": 1262,
+     "endMs": 1659
+    },
+    {
+     "text": "O",
+     "startMs": 1984,
+     "endMs": 2080
+    },
+    {
+     "text": "seu",
+     "startMs": 2080,
+     "endMs": 2284
+    },
+    {
+     "text": "reinado",
+     "startMs": 2284,
+     "endMs": 2789
+    },
+    {
+     "text": "fica",
+     "startMs": 2789,
+     "endMs": 3089
+    },
+    {
+     "text": "cronometrado",
+     "startMs": 3089,
+     "endMs": 4015
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel3-RoubaramACoroa-5.mp3",
+   "durationMs": 3528,
+   "words": [
+    {
+     "text": "E",
+     "startMs": 49,
+     "endMs": 157
+    },
+    {
+     "text": "toda",
+     "startMs": 157,
+     "endMs": 481
+    },
+    {
+     "text": "troca",
+     "startMs": 481,
+     "endMs": 794
+    },
+    {
+     "text": "de",
+     "startMs": 794,
+     "endMs": 878
+    },
+    {
+     "text": "coroa",
+     "startMs": 878,
+     "endMs": 1323
+    },
+    {
+     "text": "fica",
+     "startMs": 1323,
+     "endMs": 1623
+    },
+    {
+     "text": "registrada",
+     "startMs": 1623,
+     "endMs": 2320
+    },
+    {
+     "text": "no",
+     "startMs": 2320,
+     "endMs": 2428
+    },
+    {
+     "text": "Hall",
+     "startMs": 2428,
+     "endMs": 2657
+    },
+    {
+     "text": "da",
+     "startMs": 2657,
+     "endMs": 2789
+    },
+    {
+     "text": "Fama",
+     "startMs": 2789,
+     "endMs": 3198
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel3-RoubaramACoroa-6.mp3",
+   "durationMs": 3648,
+   "words": [
+    {
+     "text": "Marca",
+     "startMs": 49,
+     "endMs": 445
+    },
+    {
+     "text": "aquele",
+     "startMs": 445,
+     "endMs": 662
+    },
+    {
+     "text": "amigo",
+     "startMs": 662,
+     "endMs": 1058
+    },
+    {
+     "text": "que",
+     "startMs": 1058,
+     "endMs": 1190
+    },
+    {
+     "text": "nunca",
+     "startMs": 1190,
+     "endMs": 1575
+    },
+    {
+     "text": "aceitaria",
+     "startMs": 1575,
+     "endMs": 2116
+    },
+    {
+     "text": "perder",
+     "startMs": 2116,
+     "endMs": 2500
+    },
+    {
+     "text": "o",
+     "startMs": 2500,
+     "endMs": 2537
+    },
+    {
+     "text": "primeiro",
+     "startMs": 2537,
+     "endMs": 3017
+    },
+    {
+     "text": "lugar",
+     "startMs": 3017,
+     "endMs": 3306
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel4-SemAlgoritmo": [
+  {
+   "file": "audio/Reel4-SemAlgoritmo-1.mp3",
+   "durationMs": 3888,
+   "words": [
+    {
+     "text": "O",
+     "startMs": 49,
+     "endMs": 133
+    },
+    {
+     "text": "algoritmo",
+     "startMs": 133,
+     "endMs": 770
+    },
+    {
+     "text": "enterrou",
+     "startMs": 770,
+     "endMs": 1226
+    },
+    {
+     "text": "o",
+     "startMs": 1226,
+     "endMs": 1274
+    },
+    {
+     "text": "seu",
+     "startMs": 1274,
+     "endMs": 1467
+    },
+    {
+     "text": "post",
+     "startMs": 1467,
+     "endMs": 1791
+    },
+    {
+     "text": "de",
+     "startMs": 1791,
+     "endMs": 1863
+    },
+    {
+     "text": "lançamento",
+     "startMs": 1863,
+     "endMs": 2573
+    },
+    {
+     "text": "Clássico",
+     "startMs": 2897,
+     "endMs": 3546
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel4-SemAlgoritmo-2.mp3",
+   "durationMs": 2232,
+   "words": [
+    {
+     "text": "No",
+     "startMs": 49,
+     "endMs": 229
+    },
+    {
+     "text": "Crownd",
+     "startMs": 229,
+     "endMs": 637
+    },
+    {
+     "text": "não",
+     "startMs": 638,
+     "endMs": 890
+    },
+    {
+     "text": "existe",
+     "startMs": 890,
+     "endMs": 1287
+    },
+    {
+     "text": "algoritmo",
+     "startMs": 1287,
+     "endMs": 1887
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel4-SemAlgoritmo-3.mp3",
+   "durationMs": 6312,
+   "words": [
+    {
+     "text": "A",
+     "startMs": 49,
+     "endMs": 133
+    },
+    {
+     "text": "posição",
+     "startMs": 133,
+     "endMs": 686
+    },
+    {
+     "text": "é",
+     "startMs": 686,
+     "endMs": 722
+    },
+    {
+     "text": "decidida",
+     "startMs": 722,
+     "endMs": 1262
+    },
+    {
+     "text": "só",
+     "startMs": 1262,
+     "endMs": 1551
+    },
+    {
+     "text": "pelo",
+     "startMs": 1551,
+     "endMs": 1815
+    },
+    {
+     "text": "lance",
+     "startMs": 1815,
+     "endMs": 2272
+    },
+    {
+     "text": "Maior",
+     "startMs": 2609,
+     "endMs": 3137
+    },
+    {
+     "text": "valor",
+     "startMs": 3138,
+     "endMs": 3534
+    },
+    {
+     "text": "primeiro",
+     "startMs": 3750,
+     "endMs": 4327
+    },
+    {
+     "text": "lugar",
+     "startMs": 4327,
+     "endMs": 4676
+    },
+    {
+     "text": "Simples",
+     "startMs": 5012,
+     "endMs": 5505
+    },
+    {
+     "text": "assim",
+     "startMs": 5505,
+     "endMs": 5974
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel4-SemAlgoritmo-4.mp3",
+   "durationMs": 4968,
+   "words": [
+    {
+     "text": "E",
+     "startMs": 49,
+     "endMs": 145
+    },
+    {
+     "text": "é",
+     "startMs": 145,
+     "endMs": 205
+    },
+    {
+     "text": "tudo",
+     "startMs": 205,
+     "endMs": 565
+    },
+    {
+     "text": "público",
+     "startMs": 565,
+     "endMs": 1022
+    },
+    {
+     "text": "até",
+     "startMs": 1202,
+     "endMs": 1515
+    },
+    {
+     "text": "o",
+     "startMs": 1515,
+     "endMs": 1563
+    },
+    {
+     "text": "analytics",
+     "startMs": 1563,
+     "endMs": 2200
+    },
+    {
+     "text": "do",
+     "startMs": 2200,
+     "endMs": 2308
+    },
+    {
+     "text": "site",
+     "startMs": 2308,
+     "endMs": 2729
+    },
+    {
+     "text": "fica",
+     "startMs": 2729,
+     "endMs": 2945
+    },
+    {
+     "text": "aberto",
+     "startMs": 2945,
+     "endMs": 3330
+    },
+    {
+     "text": "para",
+     "startMs": 3330,
+     "endMs": 3522
+    },
+    {
+     "text": "qualquer",
+     "startMs": 3522,
+     "endMs": 3979
+    },
+    {
+     "text": "pessoa",
+     "startMs": 3979,
+     "endMs": 4375
+    },
+    {
+     "text": "ver",
+     "startMs": 4376,
+     "endMs": 4616
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel4-SemAlgoritmo-5.mp3",
+   "durationMs": 4080,
+   "words": [
+    {
+     "text": "Qual",
+     "startMs": 48,
+     "endMs": 240
+    },
+    {
+     "text": "rede",
+     "startMs": 240,
+     "endMs": 517
+    },
+    {
+     "text": "social",
+     "startMs": 517,
+     "endMs": 1046
+    },
+    {
+     "text": "mais",
+     "startMs": 1046,
+     "endMs": 1322
+    },
+    {
+     "text": "esconde",
+     "startMs": 1322,
+     "endMs": 1887
+    },
+    {
+     "text": "o",
+     "startMs": 1887,
+     "endMs": 1923
+    },
+    {
+     "text": "seu",
+     "startMs": 1923,
+     "endMs": 2079
+    },
+    {
+     "text": "conteúdo",
+     "startMs": 2079,
+     "endMs": 2668
+    },
+    {
+     "text": "Comenta",
+     "startMs": 3005,
+     "endMs": 3474
+    },
+    {
+     "text": "aí",
+     "startMs": 3474,
+     "endMs": 3750
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel5-LanceGratis": [
+  {
+   "file": "audio/Reel5-LanceGratis-1.mp3",
+   "durationMs": 5256,
+   "words": [
+    {
+     "text": "Como",
+     "startMs": 48,
+     "endMs": 240
+    },
+    {
+     "text": "lançar",
+     "startMs": 240,
+     "endMs": 685
+    },
+    {
+     "text": "o",
+     "startMs": 685,
+     "endMs": 721
+    },
+    {
+     "text": "seu",
+     "startMs": 721,
+     "endMs": 877
+    },
+    {
+     "text": "produto",
+     "startMs": 877,
+     "endMs": 1250
+    },
+    {
+     "text": "de",
+     "startMs": 1250,
+     "endMs": 1346
+    },
+    {
+     "text": "graça",
+     "startMs": 1346,
+     "endMs": 1911
+    },
+    {
+     "text": "em",
+     "startMs": 1911,
+     "endMs": 2067
+    },
+    {
+     "text": "trinta",
+     "startMs": 2067,
+     "endMs": 2428
+    },
+    {
+     "text": "segundos",
+     "startMs": 2428,
+     "endMs": 3101
+    },
+    {
+     "text": "Salva",
+     "startMs": 3426,
+     "endMs": 3967
+    },
+    {
+     "text": "para",
+     "startMs": 3967,
+     "endMs": 4195
+    },
+    {
+     "text": "não",
+     "startMs": 4195,
+     "endMs": 4412
+    },
+    {
+     "text": "esquecer",
+     "startMs": 4412,
+     "endMs": 4940
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel5-LanceGratis-2.mp3",
+   "durationMs": 3672,
+   "words": [
+    {
+     "text": "Passo",
+     "startMs": 48,
+     "endMs": 373
+    },
+    {
+     "text": "um",
+     "startMs": 373,
+     "endMs": 601
+    },
+    {
+     "text": "entra",
+     "startMs": 913,
+     "endMs": 1190
+    },
+    {
+     "text": "no",
+     "startMs": 1190,
+     "endMs": 1310
+    },
+    {
+     "text": "Crownd",
+     "startMs": 1310,
+     "endMs": 1683
+    },
+    {
+     "text": "e",
+     "startMs": 1683,
+     "endMs": 1791
+    },
+    {
+     "text": "escolhe",
+     "startMs": 1791,
+     "endMs": 2200
+    },
+    {
+     "text": "a",
+     "startMs": 2200,
+     "endMs": 2272
+    },
+    {
+     "text": "edição",
+     "startMs": 2272,
+     "endMs": 2728
+    },
+    {
+     "text": "do",
+     "startMs": 2728,
+     "endMs": 2812
+    },
+    {
+     "text": "Brasil",
+     "startMs": 2812,
+     "endMs": 3329
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel5-LanceGratis-3.mp3",
+   "durationMs": 4008,
+   "words": [
+    {
+     "text": "Passo",
+     "startMs": 48,
+     "endMs": 361
+    },
+    {
+     "text": "dois",
+     "startMs": 361,
+     "endMs": 805
+    },
+    {
+     "text": "toca",
+     "startMs": 1034,
+     "endMs": 1298
+    },
+    {
+     "text": "em",
+     "startMs": 1298,
+     "endMs": 1358
+    },
+    {
+     "text": "Lançamentos",
+     "startMs": 1358,
+     "endMs": 2031
+    },
+    {
+     "text": "e",
+     "startMs": 2031,
+     "endMs": 2151
+    },
+    {
+     "text": "depois",
+     "startMs": 2151,
+     "endMs": 2464
+    },
+    {
+     "text": "em",
+     "startMs": 2464,
+     "endMs": 2608
+    },
+    {
+     "text": "lançar",
+     "startMs": 2608,
+     "endMs": 3113
+    },
+    {
+     "text": "de",
+     "startMs": 3113,
+     "endMs": 3221
+    },
+    {
+     "text": "graça",
+     "startMs": 3221,
+     "endMs": 3666
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel5-LanceGratis-4.mp3",
+   "durationMs": 4704,
+   "words": [
+    {
+     "text": "Passo",
+     "startMs": 60,
+     "endMs": 361
+    },
+    {
+     "text": "três",
+     "startMs": 361,
+     "endMs": 757
+    },
+    {
+     "text": "coloca",
+     "startMs": 962,
+     "endMs": 1298
+    },
+    {
+     "text": "o",
+     "startMs": 1298,
+     "endMs": 1322
+    },
+    {
+     "text": "nome",
+     "startMs": 1322,
+     "endMs": 1731
+    },
+    {
+     "text": "o",
+     "startMs": 1887,
+     "endMs": 1947
+    },
+    {
+     "text": "link",
+     "startMs": 1947,
+     "endMs": 2500
+    },
+    {
+     "text": "e",
+     "startMs": 2500,
+     "endMs": 2596
+    },
+    {
+     "text": "uma",
+     "startMs": 2596,
+     "endMs": 2764
+    },
+    {
+     "text": "frase",
+     "startMs": 2764,
+     "endMs": 3257
+    },
+    {
+     "text": "que",
+     "startMs": 3257,
+     "endMs": 3377
+    },
+    {
+     "text": "vende",
+     "startMs": 3377,
+     "endMs": 3690
+    },
+    {
+     "text": "o",
+     "startMs": 3690,
+     "endMs": 3714
+    },
+    {
+     "text": "seu",
+     "startMs": 3714,
+     "endMs": 3858
+    },
+    {
+     "text": "produto",
+     "startMs": 3858,
+     "endMs": 4351
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel5-LanceGratis-5.mp3",
+   "durationMs": 4656,
+   "words": [
+    {
+     "text": "Passo",
+     "startMs": 48,
+     "endMs": 385
+    },
+    {
+     "text": "quatro",
+     "startMs": 385,
+     "endMs": 841
+    },
+    {
+     "text": "compartilha",
+     "startMs": 1010,
+     "endMs": 1827
+    },
+    {
+     "text": "Os",
+     "startMs": 2151,
+     "endMs": 2308
+    },
+    {
+     "text": "cliques",
+     "startMs": 2308,
+     "endMs": 2656
+    },
+    {
+     "text": "únicos",
+     "startMs": 2656,
+     "endMs": 3173
+    },
+    {
+     "text": "decidem",
+     "startMs": 3173,
+     "endMs": 3666
+    },
+    {
+     "text": "quem",
+     "startMs": 3666,
+     "endMs": 3870
+    },
+    {
+     "text": "sobe",
+     "startMs": 3870,
+     "endMs": 4315
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel5-LanceGratis-6.mp3",
+   "durationMs": 5976,
+   "words": [
+    {
+     "text": "São",
+     "startMs": 48,
+     "endMs": 373
+    },
+    {
+     "text": "dez",
+     "startMs": 373,
+     "endMs": 745
+    },
+    {
+     "text": "vagas",
+     "startMs": 745,
+     "endMs": 1070
+    },
+    {
+     "text": "por",
+     "startMs": 1070,
+     "endMs": 1274
+    },
+    {
+     "text": "dia",
+     "startMs": 1274,
+     "endMs": 1635
+    },
+    {
+     "text": "e",
+     "startMs": 1803,
+     "endMs": 1935
+    },
+    {
+     "text": "tudo",
+     "startMs": 1935,
+     "endMs": 2260
+    },
+    {
+     "text": "zera",
+     "startMs": 2260,
+     "endMs": 2464
+    },
+    {
+     "text": "à",
+     "startMs": 2464,
+     "endMs": 2476
+    },
+    {
+     "text": "meia-noite",
+     "startMs": 2476,
+     "endMs": 3221
+    },
+    {
+     "text": "Salva",
+     "startMs": 3546,
+     "endMs": 4038
+    },
+    {
+     "text": "esse",
+     "startMs": 4038,
+     "endMs": 4243
+    },
+    {
+     "text": "vídeo",
+     "startMs": 4243,
+     "endMs": 4615
+    },
+    {
+     "text": "para",
+     "startMs": 4615,
+     "endMs": 4796
+    },
+    {
+     "text": "lançar",
+     "startMs": 4796,
+     "endMs": 5216
+    },
+    {
+     "text": "amanhã",
+     "startMs": 5216,
+     "endMs": 5637
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel6-VinteCores": [
+  {
+   "file": "audio/Reel6-VinteCores-1.mp3",
+   "durationMs": 2160,
+   "words": [
+    {
+     "text": "Por",
+     "startMs": 48,
+     "endMs": 192
+    },
+    {
+     "text": "que",
+     "startMs": 192,
+     "endMs": 385
+    },
+    {
+     "text": "o",
+     "startMs": 385,
+     "endMs": 469
+    },
+    {
+     "text": "Crownd",
+     "startMs": 469,
+     "endMs": 769
+    },
+    {
+     "text": "do",
+     "startMs": 769,
+     "endMs": 829
+    },
+    {
+     "text": "Japão",
+     "startMs": 829,
+     "endMs": 1250
+    },
+    {
+     "text": "é",
+     "startMs": 1250,
+     "endMs": 1322
+    },
+    {
+     "text": "vermelho",
+     "startMs": 1322,
+     "endMs": 1839
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel6-VinteCores-2.mp3",
+   "durationMs": 4176,
+   "words": [
+    {
+     "text": "Cada",
+     "startMs": 48,
+     "endMs": 252
+    },
+    {
+     "text": "edição",
+     "startMs": 252,
+     "endMs": 769
+    },
+    {
+     "text": "tem",
+     "startMs": 769,
+     "endMs": 901
+    },
+    {
+     "text": "uma",
+     "startMs": 901,
+     "endMs": 1046
+    },
+    {
+     "text": "cor",
+     "startMs": 1046,
+     "endMs": 1214
+    },
+    {
+     "text": "tirada",
+     "startMs": 1214,
+     "endMs": 1755
+    },
+    {
+     "text": "da",
+     "startMs": 1755,
+     "endMs": 1851
+    },
+    {
+     "text": "cultura",
+     "startMs": 1851,
+     "endMs": 2260
+    },
+    {
+     "text": "local",
+     "startMs": 2260,
+     "endMs": 2740
+    },
+    {
+     "text": "não",
+     "startMs": 2945,
+     "endMs": 3209
+    },
+    {
+     "text": "da",
+     "startMs": 3209,
+     "endMs": 3317
+    },
+    {
+     "text": "bandeira",
+     "startMs": 3317,
+     "endMs": 3834
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel6-VinteCores-3.mp3",
+   "durationMs": 3744,
+   "words": [
+    {
+     "text": "No",
+     "startMs": 49,
+     "endMs": 169
+    },
+    {
+     "text": "Japão",
+     "startMs": 169,
+     "endMs": 710
+    },
+    {
+     "text": "é",
+     "startMs": 938,
+     "endMs": 1034
+    },
+    {
+     "text": "o",
+     "startMs": 1034,
+     "endMs": 1082
+    },
+    {
+     "text": "Shu-iro",
+     "startMs": 1082,
+     "endMs": 1659
+    },
+    {
+     "text": "o",
+     "startMs": 1863,
+     "endMs": 1936
+    },
+    {
+     "text": "vermelho",
+     "startMs": 1936,
+     "endMs": 2452
+    },
+    {
+     "text": "dos",
+     "startMs": 2452,
+     "endMs": 2585
+    },
+    {
+     "text": "portões",
+     "startMs": 2585,
+     "endMs": 3017
+    },
+    {
+     "text": "torii",
+     "startMs": 3017,
+     "endMs": 3414
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel6-VinteCores-4.mp3",
+   "durationMs": 4536,
+   "words": [
+    {
+     "text": "Na",
+     "startMs": 49,
+     "endMs": 277
+    },
+    {
+     "text": "França",
+     "startMs": 277,
+     "endMs": 818
+    },
+    {
+     "text": "o",
+     "startMs": 1022,
+     "endMs": 1094
+    },
+    {
+     "text": "azul",
+     "startMs": 1094,
+     "endMs": 1479
+    },
+    {
+     "text": "Klein",
+     "startMs": 1479,
+     "endMs": 1827
+    },
+    {
+     "text": "Na",
+     "startMs": 2152,
+     "endMs": 2404
+    },
+    {
+     "text": "Holanda",
+     "startMs": 2404,
+     "endMs": 2873
+    },
+    {
+     "text": "o",
+     "startMs": 3101,
+     "endMs": 3137
+    },
+    {
+     "text": "laranja",
+     "startMs": 3138,
+     "endMs": 3690
+    },
+    {
+     "text": "Oranje",
+     "startMs": 3690,
+     "endMs": 4183
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel6-VinteCores-5.mp3",
+   "durationMs": 4344,
+   "words": [
+    {
+     "text": "E",
+     "startMs": 49,
+     "endMs": 109
+    },
+    {
+     "text": "no",
+     "startMs": 109,
+     "endMs": 217
+    },
+    {
+     "text": "Brasil",
+     "startMs": 217,
+     "endMs": 770
+    },
+    {
+     "text": "Verde",
+     "startMs": 1094,
+     "endMs": 1527
+    },
+    {
+     "text": "Copa",
+     "startMs": 1527,
+     "endMs": 1948
+    },
+    {
+     "text": "o",
+     "startMs": 2152,
+     "endMs": 2236
+    },
+    {
+     "text": "verde",
+     "startMs": 2236,
+     "endMs": 2633
+    },
+    {
+     "text": "da",
+     "startMs": 2633,
+     "endMs": 2753
+    },
+    {
+     "text": "torcida",
+     "startMs": 2753,
+     "endMs": 3222
+    },
+    {
+     "text": "em",
+     "startMs": 3222,
+     "endMs": 3306
+    },
+    {
+     "text": "dia",
+     "startMs": 3306,
+     "endMs": 3546
+    },
+    {
+     "text": "de",
+     "startMs": 3546,
+     "endMs": 3618
+    },
+    {
+     "text": "jogo",
+     "startMs": 3618,
+     "endMs": 4003
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel6-VinteCores-6.mp3",
+   "durationMs": 2952,
+   "words": [
+    {
+     "text": "Qual",
+     "startMs": 60,
+     "endMs": 276
+    },
+    {
+     "text": "país",
+     "startMs": 276,
+     "endMs": 697
+    },
+    {
+     "text": "você",
+     "startMs": 697,
+     "endMs": 913
+    },
+    {
+     "text": "quer",
+     "startMs": 913,
+     "endMs": 1118
+    },
+    {
+     "text": "dominar",
+     "startMs": 1118,
+     "endMs": 1562
+    },
+    {
+     "text": "Comenta",
+     "startMs": 1923,
+     "endMs": 2368
+    },
+    {
+     "text": "aí",
+     "startMs": 2368,
+     "endMs": 2620
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel7-SeloAoVivo": [
+  {
+   "file": "audio/Reel7-SeloAoVivo-1.mp3",
+   "durationMs": 4200,
+   "words": [
+    {
+     "text": "Seu",
+     "startMs": 49,
+     "endMs": 289
+    },
+    {
+     "text": "produto",
+     "startMs": 289,
+     "endMs": 770
+    },
+    {
+     "text": "chegou",
+     "startMs": 770,
+     "endMs": 1154
+    },
+    {
+     "text": "em",
+     "startMs": 1154,
+     "endMs": 1238
+    },
+    {
+     "text": "primeiro",
+     "startMs": 1238,
+     "endMs": 1719
+    },
+    {
+     "text": "Então",
+     "startMs": 2044,
+     "endMs": 2428
+    },
+    {
+     "text": "mostra",
+     "startMs": 2428,
+     "endMs": 2945
+    },
+    {
+     "text": "para",
+     "startMs": 2945,
+     "endMs": 3137
+    },
+    {
+     "text": "todo",
+     "startMs": 3138,
+     "endMs": 3462
+    },
+    {
+     "text": "mundo",
+     "startMs": 3462,
+     "endMs": 3847
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel7-SeloAoVivo-2.mp3",
+   "durationMs": 3912,
+   "words": [
+    {
+     "text": "O",
+     "startMs": 49,
+     "endMs": 145
+    },
+    {
+     "text": "Crownd",
+     "startMs": 145,
+     "endMs": 553
+    },
+    {
+     "text": "te",
+     "startMs": 553,
+     "endMs": 650
+    },
+    {
+     "text": "dá",
+     "startMs": 650,
+     "endMs": 782
+    },
+    {
+     "text": "um",
+     "startMs": 782,
+     "endMs": 866
+    },
+    {
+     "text": "selo",
+     "startMs": 866,
+     "endMs": 1226
+    },
+    {
+     "text": "que",
+     "startMs": 1226,
+     "endMs": 1323
+    },
+    {
+     "text": "se",
+     "startMs": 1323,
+     "endMs": 1443
+    },
+    {
+     "text": "atualiza",
+     "startMs": 1443,
+     "endMs": 1948
+    },
+    {
+     "text": "sozinho",
+     "startMs": 1948,
+     "endMs": 2524
+    },
+    {
+     "text": "com",
+     "startMs": 2524,
+     "endMs": 2705
+    },
+    {
+     "text": "a",
+     "startMs": 2705,
+     "endMs": 2741
+    },
+    {
+     "text": "sua",
+     "startMs": 2741,
+     "endMs": 2981
+    },
+    {
+     "text": "posição",
+     "startMs": 2981,
+     "endMs": 3582
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel7-SeloAoVivo-3.mp3",
+   "durationMs": 3768,
+   "words": [
+    {
+     "text": "Cola",
+     "startMs": 48,
+     "endMs": 240
+    },
+    {
+     "text": "um",
+     "startMs": 240,
+     "endMs": 324
+    },
+    {
+     "text": "código",
+     "startMs": 324,
+     "endMs": 733
+    },
+    {
+     "text": "no",
+     "startMs": 733,
+     "endMs": 829
+    },
+    {
+     "text": "seu",
+     "startMs": 829,
+     "endMs": 998
+    },
+    {
+     "text": "site",
+     "startMs": 998,
+     "endMs": 1406
+    },
+    {
+     "text": "e",
+     "startMs": 1406,
+     "endMs": 1442
+    },
+    {
+     "text": "pronto",
+     "startMs": 1442,
+     "endMs": 1851
+    },
+    {
+     "text": "prova",
+     "startMs": 2043,
+     "endMs": 2332
+    },
+    {
+     "text": "social",
+     "startMs": 2332,
+     "endMs": 2885
+    },
+    {
+     "text": "ao",
+     "startMs": 2885,
+     "endMs": 3029
+    },
+    {
+     "text": "vivo",
+     "startMs": 3029,
+     "endMs": 3437
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel7-SeloAoVivo-4.mp3",
+   "durationMs": 5544,
+   "words": [
+    {
+     "text": "Caiu",
+     "startMs": 60,
+     "endMs": 445
+    },
+    {
+     "text": "para",
+     "startMs": 445,
+     "endMs": 625
+    },
+    {
+     "text": "segundo",
+     "startMs": 625,
+     "endMs": 1202
+    },
+    {
+     "text": "O",
+     "startMs": 1526,
+     "endMs": 1599
+    },
+    {
+     "text": "selo",
+     "startMs": 1599,
+     "endMs": 1935
+    },
+    {
+     "text": "mostra",
+     "startMs": 1935,
+     "endMs": 2452
+    },
+    {
+     "text": "Voltou",
+     "startMs": 2777,
+     "endMs": 3246
+    },
+    {
+     "text": "para",
+     "startMs": 3246,
+     "endMs": 3390
+    },
+    {
+     "text": "o",
+     "startMs": 3390,
+     "endMs": 3438
+    },
+    {
+     "text": "topo",
+     "startMs": 3438,
+     "endMs": 3871
+    },
+    {
+     "text": "Mostra",
+     "startMs": 4195,
+     "endMs": 4724
+    },
+    {
+     "text": "também",
+     "startMs": 4724,
+     "endMs": 5217
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel7-SeloAoVivo-5.mp3",
+   "durationMs": 3840,
+   "words": [
+    {
+     "text": "Você",
+     "startMs": 49,
+     "endMs": 313
+    },
+    {
+     "text": "colocaria",
+     "startMs": 313,
+     "endMs": 950
+    },
+    {
+     "text": "o",
+     "startMs": 950,
+     "endMs": 986
+    },
+    {
+     "text": "seu",
+     "startMs": 986,
+     "endMs": 1190
+    },
+    {
+     "text": "ranking",
+     "startMs": 1190,
+     "endMs": 1575
+    },
+    {
+     "text": "no",
+     "startMs": 1575,
+     "endMs": 1659
+    },
+    {
+     "text": "seu",
+     "startMs": 1659,
+     "endMs": 1827
+    },
+    {
+     "text": "site",
+     "startMs": 1827,
+     "endMs": 2344
+    },
+    {
+     "text": "Sim",
+     "startMs": 2681,
+     "endMs": 3053
+    },
+    {
+     "text": "ou",
+     "startMs": 3053,
+     "endMs": 3174
+    },
+    {
+     "text": "não",
+     "startMs": 3174,
+     "endMs": 3498
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel8-POV3DaManha": [
+  {
+   "file": "audio/Reel8-POV3DaManha-1.mp3",
+   "durationMs": 3816,
+   "words": [
+    {
+     "text": "POV",
+     "startMs": 48,
+     "endMs": 481
+    },
+    {
+     "text": "são",
+     "startMs": 721,
+     "endMs": 937
+    },
+    {
+     "text": "três",
+     "startMs": 938,
+     "endMs": 1178
+    },
+    {
+     "text": "da",
+     "startMs": 1178,
+     "endMs": 1286
+    },
+    {
+     "text": "manhã",
+     "startMs": 1286,
+     "endMs": 1707
+    },
+    {
+     "text": "e",
+     "startMs": 1707,
+     "endMs": 1815
+    },
+    {
+     "text": "você",
+     "startMs": 1815,
+     "endMs": 2043
+    },
+    {
+     "text": "acabou",
+     "startMs": 2043,
+     "endMs": 2380
+    },
+    {
+     "text": "de",
+     "startMs": 2380,
+     "endMs": 2440
+    },
+    {
+     "text": "lançar",
+     "startMs": 2440,
+     "endMs": 2824
+    },
+    {
+     "text": "o",
+     "startMs": 2824,
+     "endMs": 2849
+    },
+    {
+     "text": "seu",
+     "startMs": 2849,
+     "endMs": 2993
+    },
+    {
+     "text": "produto",
+     "startMs": 2993,
+     "endMs": 3462
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel8-POV3DaManha-2.mp3",
+   "durationMs": 4128,
+   "words": [
+    {
+     "text": "Pediu",
+     "startMs": 60,
+     "endMs": 445
+    },
+    {
+     "text": "voto",
+     "startMs": 445,
+     "endMs": 829
+    },
+    {
+     "text": "até",
+     "startMs": 829,
+     "endMs": 1094
+    },
+    {
+     "text": "no",
+     "startMs": 1094,
+     "endMs": 1214
+    },
+    {
+     "text": "grupo",
+     "startMs": 1214,
+     "endMs": 1466
+    },
+    {
+     "text": "da",
+     "startMs": 1466,
+     "endMs": 1574
+    },
+    {
+     "text": "família",
+     "startMs": 1574,
+     "endMs": 2031
+    },
+    {
+     "text": "e",
+     "startMs": 2212,
+     "endMs": 2308
+    },
+    {
+     "text": "terminou",
+     "startMs": 2308,
+     "endMs": 2788
+    },
+    {
+     "text": "na",
+     "startMs": 2788,
+     "endMs": 2921
+    },
+    {
+     "text": "página",
+     "startMs": 2921,
+     "endMs": 3317
+    },
+    {
+     "text": "dois",
+     "startMs": 3317,
+     "endMs": 3774
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel8-POV3DaManha-3.mp3",
+   "durationMs": 2664,
+   "words": [
+    {
+     "text": "No",
+     "startMs": 49,
+     "endMs": 241
+    },
+    {
+     "text": "Crownd",
+     "startMs": 241,
+     "endMs": 662
+    },
+    {
+     "text": "a",
+     "startMs": 914,
+     "endMs": 962
+    },
+    {
+     "text": "madrugada",
+     "startMs": 962,
+     "endMs": 1527
+    },
+    {
+     "text": "não",
+     "startMs": 1527,
+     "endMs": 1791
+    },
+    {
+     "text": "importa",
+     "startMs": 1791,
+     "endMs": 2332
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel8-POV3DaManha-4.mp3",
+   "durationMs": 6384,
+   "words": [
+    {
+     "text": "Quer",
+     "startMs": 60,
+     "endMs": 252
+    },
+    {
+     "text": "o",
+     "startMs": 252,
+     "endMs": 324
+    },
+    {
+     "text": "topo",
+     "startMs": 324,
+     "endMs": 793
+    },
+    {
+     "text": "Dá",
+     "startMs": 1130,
+     "endMs": 1395
+    },
+    {
+     "text": "o",
+     "startMs": 1395,
+     "endMs": 1431
+    },
+    {
+     "text": "lance",
+     "startMs": 1431,
+     "endMs": 1936
+    },
+    {
+     "text": "Quer",
+     "startMs": 2284,
+     "endMs": 2488
+    },
+    {
+     "text": "de",
+     "startMs": 2488,
+     "endMs": 2608
+    },
+    {
+     "text": "graça",
+     "startMs": 2608,
+     "endMs": 3173
+    },
+    {
+     "text": "Lança",
+     "startMs": 3498,
+     "endMs": 3907
+    },
+    {
+     "text": "e",
+     "startMs": 3907,
+     "endMs": 3943
+    },
+    {
+     "text": "compartilha",
+     "startMs": 3943,
+     "endMs": 4616
+    },
+    {
+     "text": "os",
+     "startMs": 4892,
+     "endMs": 5012
+    },
+    {
+     "text": "cliques",
+     "startMs": 5012,
+     "endMs": 5409
+    },
+    {
+     "text": "decidem",
+     "startMs": 5409,
+     "endMs": 6046
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel8-POV3DaManha-5.mp3",
+   "durationMs": 3192,
+   "words": [
+    {
+     "text": "Marca",
+     "startMs": 49,
+     "endMs": 421
+    },
+    {
+     "text": "aquele",
+     "startMs": 421,
+     "endMs": 613
+    },
+    {
+     "text": "amigo",
+     "startMs": 613,
+     "endMs": 986
+    },
+    {
+     "text": "que",
+     "startMs": 986,
+     "endMs": 1070
+    },
+    {
+     "text": "já",
+     "startMs": 1070,
+     "endMs": 1226
+    },
+    {
+     "text": "te",
+     "startMs": 1226,
+     "endMs": 1323
+    },
+    {
+     "text": "pediu",
+     "startMs": 1323,
+     "endMs": 1671
+    },
+    {
+     "text": "voto",
+     "startMs": 1671,
+     "endMs": 2044
+    },
+    {
+     "text": "às",
+     "startMs": 2044,
+     "endMs": 2164
+    },
+    {
+     "text": "três",
+     "startMs": 2164,
+     "endMs": 2416
+    },
+    {
+     "text": "da",
+     "startMs": 2416,
+     "endMs": 2512
+    },
+    {
+     "text": "manhã",
+     "startMs": 2512,
+     "endMs": 2849
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel9-PrimeiroRei": [
+  {
+   "file": "audio/Reel9-PrimeiroRei-1.mp3",
+   "durationMs": 4944,
+   "words": [
+    {
+     "text": "Daqui",
+     "startMs": 49,
+     "endMs": 433
+    },
+    {
+     "text": "a",
+     "startMs": 433,
+     "endMs": 529
+    },
+    {
+     "text": "dez",
+     "startMs": 529,
+     "endMs": 794
+    },
+    {
+     "text": "anos",
+     "startMs": 794,
+     "endMs": 1274
+    },
+    {
+     "text": "alguém",
+     "startMs": 1443,
+     "endMs": 1743
+    },
+    {
+     "text": "vai",
+     "startMs": 1743,
+     "endMs": 1875
+    },
+    {
+     "text": "perguntar",
+     "startMs": 1876,
+     "endMs": 2404
+    },
+    {
+     "text": "quem",
+     "startMs": 2657,
+     "endMs": 2837
+    },
+    {
+     "text": "foi",
+     "startMs": 2837,
+     "endMs": 3089
+    },
+    {
+     "text": "o",
+     "startMs": 3089,
+     "endMs": 3125
+    },
+    {
+     "text": "primeiro",
+     "startMs": 3126,
+     "endMs": 3594
+    },
+    {
+     "text": "número",
+     "startMs": 3594,
+     "endMs": 3907
+    },
+    {
+     "text": "um",
+     "startMs": 3907,
+     "endMs": 4015
+    },
+    {
+     "text": "do",
+     "startMs": 4015,
+     "endMs": 4099
+    },
+    {
+     "text": "Brasil",
+     "startMs": 4099,
+     "endMs": 4604
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel9-PrimeiroRei-2.mp3",
+   "durationMs": 3360,
+   "words": [
+    {
+     "text": "A",
+     "startMs": 49,
+     "endMs": 145
+    },
+    {
+     "text": "resposta",
+     "startMs": 145,
+     "endMs": 734
+    },
+    {
+     "text": "vai",
+     "startMs": 734,
+     "endMs": 842
+    },
+    {
+     "text": "estar",
+     "startMs": 842,
+     "endMs": 1094
+    },
+    {
+     "text": "gravada",
+     "startMs": 1094,
+     "endMs": 1695
+    },
+    {
+     "text": "no",
+     "startMs": 1695,
+     "endMs": 1803
+    },
+    {
+     "text": "Hall",
+     "startMs": 1803,
+     "endMs": 2044
+    },
+    {
+     "text": "da",
+     "startMs": 2044,
+     "endMs": 2176
+    },
+    {
+     "text": "Fama",
+     "startMs": 2176,
+     "endMs": 2524
+    },
+    {
+     "text": "do",
+     "startMs": 2524,
+     "endMs": 2633
+    },
+    {
+     "text": "Crownd",
+     "startMs": 2633,
+     "endMs": 3017
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel9-PrimeiroRei-3.mp3",
+   "durationMs": 3600,
+   "words": [
+    {
+     "text": "Cada",
+     "startMs": 48,
+     "endMs": 300
+    },
+    {
+     "text": "coroa",
+     "startMs": 300,
+     "endMs": 769
+    },
+    {
+     "text": "cada",
+     "startMs": 962,
+     "endMs": 1214
+    },
+    {
+     "text": "reinado",
+     "startMs": 1214,
+     "endMs": 1779
+    },
+    {
+     "text": "com",
+     "startMs": 1923,
+     "endMs": 2115
+    },
+    {
+     "text": "data",
+     "startMs": 2115,
+     "endMs": 2584
+    },
+    {
+     "text": "e",
+     "startMs": 2584,
+     "endMs": 2620
+    },
+    {
+     "text": "duração",
+     "startMs": 2620,
+     "endMs": 3245
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel9-PrimeiroRei-4.mp3",
+   "durationMs": 4512,
+   "words": [
+    {
+     "text": "A",
+     "startMs": 49,
+     "endMs": 193
+    },
+    {
+     "text": "história",
+     "startMs": 193,
+     "endMs": 589
+    },
+    {
+     "text": "do",
+     "startMs": 589,
+     "endMs": 674
+    },
+    {
+     "text": "Brasil",
+     "startMs": 674,
+     "endMs": 1262
+    },
+    {
+     "text": "indie",
+     "startMs": 1262,
+     "endMs": 1515
+    },
+    {
+     "text": "começa",
+     "startMs": 1515,
+     "endMs": 1924
+    },
+    {
+     "text": "agora",
+     "startMs": 1924,
+     "endMs": 2296
+    },
+    {
+     "text": "E",
+     "startMs": 2621,
+     "endMs": 2729
+    },
+    {
+     "text": "o",
+     "startMs": 2729,
+     "endMs": 2837
+    },
+    {
+     "text": "trono",
+     "startMs": 2837,
+     "endMs": 3186
+    },
+    {
+     "text": "ainda",
+     "startMs": 3186,
+     "endMs": 3450
+    },
+    {
+     "text": "está",
+     "startMs": 3450,
+     "endMs": 3666
+    },
+    {
+     "text": "vazio",
+     "startMs": 3666,
+     "endMs": 4183
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel9-PrimeiroRei-5.mp3",
+   "durationMs": 3120,
+   "words": [
+    {
+     "text": "Quem",
+     "startMs": 60,
+     "endMs": 216
+    },
+    {
+     "text": "você",
+     "startMs": 216,
+     "endMs": 481
+    },
+    {
+     "text": "acha",
+     "startMs": 481,
+     "endMs": 769
+    },
+    {
+     "text": "que",
+     "startMs": 769,
+     "endMs": 865
+    },
+    {
+     "text": "vai",
+     "startMs": 865,
+     "endMs": 1010
+    },
+    {
+     "text": "ser",
+     "startMs": 1010,
+     "endMs": 1190
+    },
+    {
+     "text": "o",
+     "startMs": 1190,
+     "endMs": 1226
+    },
+    {
+     "text": "primeiro",
+     "startMs": 1226,
+     "endMs": 1743
+    },
+    {
+     "text": "Marca",
+     "startMs": 2068,
+     "endMs": 2452
+    },
+    {
+     "text": "aqui",
+     "startMs": 2452,
+     "endMs": 2789
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel10-QuemMereceO1": [
+  {
+   "file": "audio/Reel10-QuemMereceO1-1.mp3",
+   "durationMs": 5160,
+   "words": [
+    {
+     "text": "Pergunta",
+     "startMs": 48,
+     "endMs": 553
+    },
+    {
+     "text": "que",
+     "startMs": 553,
+     "endMs": 637
+    },
+    {
+     "text": "divide",
+     "startMs": 637,
+     "endMs": 1022
+    },
+    {
+     "text": "makers",
+     "startMs": 1022,
+     "endMs": 1587
+    },
+    {
+     "text": "o",
+     "startMs": 1887,
+     "endMs": 1959
+    },
+    {
+     "text": "número",
+     "startMs": 1959,
+     "endMs": 2284
+    },
+    {
+     "text": "um",
+     "startMs": 2284,
+     "endMs": 2380
+    },
+    {
+     "text": "mostra",
+     "startMs": 2380,
+     "endMs": 2740
+    },
+    {
+     "text": "o",
+     "startMs": 2740,
+     "endMs": 2752
+    },
+    {
+     "text": "melhor",
+     "startMs": 2752,
+     "endMs": 3041
+    },
+    {
+     "text": "produto",
+     "startMs": 3041,
+     "endMs": 3642
+    },
+    {
+     "text": "ou",
+     "startMs": 3642,
+     "endMs": 3762
+    },
+    {
+     "text": "segue",
+     "startMs": 3762,
+     "endMs": 4026
+    },
+    {
+     "text": "uma",
+     "startMs": 4026,
+     "endMs": 4135
+    },
+    {
+     "text": "regra",
+     "startMs": 4135,
+     "endMs": 4459
+    },
+    {
+     "text": "clara",
+     "startMs": 4459,
+     "endMs": 4820
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel10-QuemMereceO1-2.mp3",
+   "durationMs": 5016,
+   "words": [
+    {
+     "text": "No",
+     "startMs": 49,
+     "endMs": 217
+    },
+    {
+     "text": "Crownd",
+     "startMs": 217,
+     "endMs": 601
+    },
+    {
+     "text": "o",
+     "startMs": 866,
+     "endMs": 938
+    },
+    {
+     "text": "número",
+     "startMs": 938,
+     "endMs": 1359
+    },
+    {
+     "text": "um",
+     "startMs": 1359,
+     "endMs": 1695
+    },
+    {
+     "text": "é",
+     "startMs": 1695,
+     "endMs": 1815
+    },
+    {
+     "text": "o",
+     "startMs": 1815,
+     "endMs": 1851
+    },
+    {
+     "text": "maior",
+     "startMs": 1851,
+     "endMs": 2272
+    },
+    {
+     "text": "lance",
+     "startMs": 2272,
+     "endMs": 2741
+    },
+    {
+     "text": "Não",
+     "startMs": 3065,
+     "endMs": 3366
+    },
+    {
+     "text": "é",
+     "startMs": 3366,
+     "endMs": 3486
+    },
+    {
+     "text": "uma",
+     "startMs": 3486,
+     "endMs": 3654
+    },
+    {
+     "text": "nota",
+     "startMs": 3654,
+     "endMs": 3979
+    },
+    {
+     "text": "de",
+     "startMs": 3979,
+     "endMs": 4051
+    },
+    {
+     "text": "qualidade",
+     "startMs": 4051,
+     "endMs": 4688
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel10-QuemMereceO1-3.mp3",
+   "durationMs": 4344,
+   "words": [
+    {
+     "text": "Você",
+     "startMs": 48,
+     "endMs": 228
+    },
+    {
+     "text": "prefere",
+     "startMs": 228,
+     "endMs": 625
+    },
+    {
+     "text": "ranking",
+     "startMs": 625,
+     "endMs": 1058
+    },
+    {
+     "text": "por",
+     "startMs": 1058,
+     "endMs": 1226
+    },
+    {
+     "text": "voto",
+     "startMs": 1226,
+     "endMs": 1707
+    },
+    {
+     "text": "popularidade",
+     "startMs": 1851,
+     "endMs": 2837
+    },
+    {
+     "text": "ou",
+     "startMs": 2837,
+     "endMs": 2969
+    },
+    {
+     "text": "por",
+     "startMs": 2969,
+     "endMs": 3101
+    },
+    {
+     "text": "uma",
+     "startMs": 3101,
+     "endMs": 3233
+    },
+    {
+     "text": "regra",
+     "startMs": 3233,
+     "endMs": 3534
+    },
+    {
+     "text": "pública",
+     "startMs": 3534,
+     "endMs": 4002
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel10-QuemMereceO1-4.mp3",
+   "durationMs": 2880,
+   "words": [
+    {
+     "text": "Escolhe",
+     "startMs": 49,
+     "endMs": 457
+    },
+    {
+     "text": "um",
+     "startMs": 457,
+     "endMs": 517
+    },
+    {
+     "text": "critério",
+     "startMs": 517,
+     "endMs": 1190
+    },
+    {
+     "text": "e",
+     "startMs": 1190,
+     "endMs": 1299
+    },
+    {
+     "text": "conta",
+     "startMs": 1299,
+     "endMs": 1659
+    },
+    {
+     "text": "nos",
+     "startMs": 1659,
+     "endMs": 1779
+    },
+    {
+     "text": "comentários",
+     "startMs": 1779,
+     "endMs": 2537
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel11-CliqueUnico": [
+  {
+   "file": "audio/Reel11-CliqueUnico-1.mp3",
+   "durationMs": 4176,
+   "words": [
+    {
+     "text": "Se",
+     "startMs": 49,
+     "endMs": 217
+    },
+    {
+     "text": "a",
+     "startMs": 217,
+     "endMs": 277
+    },
+    {
+     "text": "mesma",
+     "startMs": 277,
+     "endMs": 637
+    },
+    {
+     "text": "pessoa",
+     "startMs": 638,
+     "endMs": 1034
+    },
+    {
+     "text": "clicar",
+     "startMs": 1034,
+     "endMs": 1407
+    },
+    {
+     "text": "dez",
+     "startMs": 1407,
+     "endMs": 1791
+    },
+    {
+     "text": "vezes",
+     "startMs": 1791,
+     "endMs": 2188
+    },
+    {
+     "text": "isso",
+     "startMs": 2476,
+     "endMs": 2645
+    },
+    {
+     "text": "deveria",
+     "startMs": 2645,
+     "endMs": 3005
+    },
+    {
+     "text": "valer",
+     "startMs": 3005,
+     "endMs": 3282
+    },
+    {
+     "text": "por",
+     "startMs": 3282,
+     "endMs": 3426
+    },
+    {
+     "text": "dez",
+     "startMs": 3426,
+     "endMs": 3835
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel11-CliqueUnico-2.mp3",
+   "durationMs": 6048,
+   "words": [
+    {
+     "text": "Nas",
+     "startMs": 49,
+     "endMs": 277
+    },
+    {
+     "text": "vagas",
+     "startMs": 277,
+     "endMs": 613
+    },
+    {
+     "text": "grátis",
+     "startMs": 613,
+     "endMs": 1034
+    },
+    {
+     "text": "do",
+     "startMs": 1034,
+     "endMs": 1166
+    },
+    {
+     "text": "Crownd",
+     "startMs": 1166,
+     "endMs": 1551
+    },
+    {
+     "text": "contamos",
+     "startMs": 1695,
+     "endMs": 2176
+    },
+    {
+     "text": "cliques",
+     "startMs": 2176,
+     "endMs": 2512
+    },
+    {
+     "text": "únicos",
+     "startMs": 2512,
+     "endMs": 3138
+    },
+    {
+     "text": "a",
+     "startMs": 3378,
+     "endMs": 3438
+    },
+    {
+     "text": "mesma",
+     "startMs": 3438,
+     "endMs": 3835
+    },
+    {
+     "text": "pessoa",
+     "startMs": 3835,
+     "endMs": 4207
+    },
+    {
+     "text": "conta",
+     "startMs": 4207,
+     "endMs": 4604
+    },
+    {
+     "text": "uma",
+     "startMs": 4604,
+     "endMs": 4796
+    },
+    {
+     "text": "vez",
+     "startMs": 4796,
+     "endMs": 5157
+    },
+    {
+     "text": "por",
+     "startMs": 5157,
+     "endMs": 5361
+    },
+    {
+     "text": "dia",
+     "startMs": 5361,
+     "endMs": 5722
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel11-CliqueUnico-3.mp3",
+   "durationMs": 4176,
+   "words": [
+    {
+     "text": "Por",
+     "startMs": 60,
+     "endMs": 204
+    },
+    {
+     "text": "isso",
+     "startMs": 204,
+     "endMs": 565
+    },
+    {
+     "text": "compartilhar",
+     "startMs": 733,
+     "endMs": 1310
+    },
+    {
+     "text": "com",
+     "startMs": 1310,
+     "endMs": 1430
+    },
+    {
+     "text": "gente",
+     "startMs": 1430,
+     "endMs": 1767
+    },
+    {
+     "text": "nova",
+     "startMs": 1767,
+     "endMs": 2127
+    },
+    {
+     "text": "pode",
+     "startMs": 2127,
+     "endMs": 2356
+    },
+    {
+     "text": "ajudar",
+     "startMs": 2356,
+     "endMs": 2716
+    },
+    {
+     "text": "seu",
+     "startMs": 2716,
+     "endMs": 2861
+    },
+    {
+     "text": "lançamento",
+     "startMs": 2861,
+     "endMs": 3413
+    },
+    {
+     "text": "a",
+     "startMs": 3413,
+     "endMs": 3437
+    },
+    {
+     "text": "subir",
+     "startMs": 3438,
+     "endMs": 3822
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel11-CliqueUnico-4.mp3",
+   "durationMs": 4176,
+   "words": [
+    {
+     "text": "Pra",
+     "startMs": 49,
+     "endMs": 193
+    },
+    {
+     "text": "quem",
+     "startMs": 193,
+     "endMs": 409
+    },
+    {
+     "text": "você",
+     "startMs": 409,
+     "endMs": 625
+    },
+    {
+     "text": "mandaria",
+     "startMs": 626,
+     "endMs": 1094
+    },
+    {
+     "text": "o",
+     "startMs": 1094,
+     "endMs": 1118
+    },
+    {
+     "text": "link",
+     "startMs": 1118,
+     "endMs": 1395
+    },
+    {
+     "text": "primeiro",
+     "startMs": 1395,
+     "endMs": 1815
+    },
+    {
+     "text": "devs",
+     "startMs": 2152,
+     "endMs": 2585
+    },
+    {
+     "text": "amigos",
+     "startMs": 2741,
+     "endMs": 3234
+    },
+    {
+     "text": "ou",
+     "startMs": 3234,
+     "endMs": 3366
+    },
+    {
+     "text": "família",
+     "startMs": 3366,
+     "endMs": 3835
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel12-PitchUmaFrase": [
+  {
+   "file": "audio/Reel12-PitchUmaFrase-1.mp3",
+   "durationMs": 4632,
+   "words": [
+    {
+     "text": "Desafio",
+     "startMs": 49,
+     "endMs": 686
+    },
+    {
+     "text": "de",
+     "startMs": 686,
+     "endMs": 806
+    },
+    {
+     "text": "cinco",
+     "startMs": 806,
+     "endMs": 1178
+    },
+    {
+     "text": "segundos",
+     "startMs": 1178,
+     "endMs": 1767
+    },
+    {
+     "text": "explica",
+     "startMs": 2044,
+     "endMs": 2537
+    },
+    {
+     "text": "o",
+     "startMs": 2537,
+     "endMs": 2561
+    },
+    {
+     "text": "que",
+     "startMs": 2561,
+     "endMs": 2633
+    },
+    {
+     "text": "seu",
+     "startMs": 2633,
+     "endMs": 2777
+    },
+    {
+     "text": "produto",
+     "startMs": 2777,
+     "endMs": 3210
+    },
+    {
+     "text": "faz",
+     "startMs": 3210,
+     "endMs": 3510
+    },
+    {
+     "text": "em",
+     "startMs": 3510,
+     "endMs": 3690
+    },
+    {
+     "text": "uma",
+     "startMs": 3690,
+     "endMs": 3835
+    },
+    {
+     "text": "frase",
+     "startMs": 3835,
+     "endMs": 4303
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel12-PitchUmaFrase-2.mp3",
+   "durationMs": 5016,
+   "words": [
+    {
+     "text": "Começa",
+     "startMs": 48,
+     "endMs": 457
+    },
+    {
+     "text": "pelo",
+     "startMs": 457,
+     "endMs": 649
+    },
+    {
+     "text": "nome",
+     "startMs": 649,
+     "endMs": 1070
+    },
+    {
+     "text": "o",
+     "startMs": 1226,
+     "endMs": 1298
+    },
+    {
+     "text": "link",
+     "startMs": 1298,
+     "endMs": 1863
+    },
+    {
+     "text": "e",
+     "startMs": 1863,
+     "endMs": 1971
+    },
+    {
+     "text": "uma",
+     "startMs": 1971,
+     "endMs": 2127
+    },
+    {
+     "text": "frase",
+     "startMs": 2127,
+     "endMs": 2572
+    },
+    {
+     "text": "que",
+     "startMs": 2572,
+     "endMs": 2644
+    },
+    {
+     "text": "deixa",
+     "startMs": 2644,
+     "endMs": 2897
+    },
+    {
+     "text": "claro",
+     "startMs": 2897,
+     "endMs": 3197
+    },
+    {
+     "text": "para",
+     "startMs": 3197,
+     "endMs": 3389
+    },
+    {
+     "text": "quem",
+     "startMs": 3389,
+     "endMs": 3702
+    },
+    {
+     "text": "é",
+     "startMs": 3702,
+     "endMs": 3894
+    },
+    {
+     "text": "e",
+     "startMs": 3894,
+     "endMs": 4002
+    },
+    {
+     "text": "o",
+     "startMs": 4002,
+     "endMs": 4050
+    },
+    {
+     "text": "que",
+     "startMs": 4050,
+     "endMs": 4147
+    },
+    {
+     "text": "resolve",
+     "startMs": 4147,
+     "endMs": 4675
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel12-PitchUmaFrase-3.mp3",
+   "durationMs": 4608,
+   "words": [
+    {
+     "text": "Escreve",
+     "startMs": 49,
+     "endMs": 577
+    },
+    {
+     "text": "o",
+     "startMs": 577,
+     "endMs": 625
+    },
+    {
+     "text": "pitch",
+     "startMs": 626,
+     "endMs": 1022
+    },
+    {
+     "text": "nos",
+     "startMs": 1022,
+     "endMs": 1154
+    },
+    {
+     "text": "comentários",
+     "startMs": 1154,
+     "endMs": 1912
+    },
+    {
+     "text": "Sem",
+     "startMs": 2236,
+     "endMs": 2572
+    },
+    {
+     "text": "jargão",
+     "startMs": 2572,
+     "endMs": 3065
+    },
+    {
+     "text": "só",
+     "startMs": 3317,
+     "endMs": 3582
+    },
+    {
+     "text": "uma",
+     "startMs": 3582,
+     "endMs": 3774
+    },
+    {
+     "text": "frase",
+     "startMs": 3774,
+     "endMs": 4279
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel13-SemPromessaDeTrafego": [
+  {
+   "file": "audio/Reel13-SemPromessaDeTrafego-1.mp3",
+   "durationMs": 3624,
+   "words": [
+    {
+     "text": "O",
+     "startMs": 49,
+     "endMs": 145
+    },
+    {
+     "text": "Crownd",
+     "startMs": 145,
+     "endMs": 541
+    },
+    {
+     "text": "não",
+     "startMs": 541,
+     "endMs": 758
+    },
+    {
+     "text": "promete",
+     "startMs": 758,
+     "endMs": 1190
+    },
+    {
+     "text": "tráfego",
+     "startMs": 1190,
+     "endMs": 1647
+    },
+    {
+     "text": "nem",
+     "startMs": 1647,
+     "endMs": 1936
+    },
+    {
+     "text": "primeira",
+     "startMs": 1936,
+     "endMs": 2308
+    },
+    {
+     "text": "posição",
+     "startMs": 2308,
+     "endMs": 2789
+    },
+    {
+     "text": "no",
+     "startMs": 2789,
+     "endMs": 2897
+    },
+    {
+     "text": "Google",
+     "startMs": 2897,
+     "endMs": 3294
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel13-SemPromessaDeTrafego-2.mp3",
+   "durationMs": 4320,
+   "words": [
+    {
+     "text": "As",
+     "startMs": 49,
+     "endMs": 217
+    },
+    {
+     "text": "regras",
+     "startMs": 217,
+     "endMs": 625
+    },
+    {
+     "text": "da",
+     "startMs": 626,
+     "endMs": 758
+    },
+    {
+     "text": "disputa",
+     "startMs": 758,
+     "endMs": 1238
+    },
+    {
+     "text": "são",
+     "startMs": 1238,
+     "endMs": 1479
+    },
+    {
+     "text": "públicas",
+     "startMs": 1479,
+     "endMs": 2020
+    },
+    {
+     "text": "e",
+     "startMs": 2224,
+     "endMs": 2296
+    },
+    {
+     "text": "o",
+     "startMs": 2296,
+     "endMs": 2356
+    },
+    {
+     "text": "analytics",
+     "startMs": 2356,
+     "endMs": 3041
+    },
+    {
+     "text": "do",
+     "startMs": 3041,
+     "endMs": 3162
+    },
+    {
+     "text": "site",
+     "startMs": 3162,
+     "endMs": 3558
+    },
+    {
+     "text": "também",
+     "startMs": 3558,
+     "endMs": 3991
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel13-SemPromessaDeTrafego-3.mp3",
+   "durationMs": 5136,
+   "words": [
+    {
+     "text": "Transparência",
+     "startMs": 48,
+     "endMs": 781
+    },
+    {
+     "text": "começa",
+     "startMs": 781,
+     "endMs": 1142
+    },
+    {
+     "text": "dizendo",
+     "startMs": 1142,
+     "endMs": 1599
+    },
+    {
+     "text": "exatamente",
+     "startMs": 1599,
+     "endMs": 2464
+    },
+    {
+     "text": "o",
+     "startMs": 2464,
+     "endMs": 2500
+    },
+    {
+     "text": "que",
+     "startMs": 2500,
+     "endMs": 2560
+    },
+    {
+     "text": "a",
+     "startMs": 2560,
+     "endMs": 2608
+    },
+    {
+     "text": "plataforma",
+     "startMs": 2608,
+     "endMs": 3233
+    },
+    {
+     "text": "faz",
+     "startMs": 3233,
+     "endMs": 3558
+    },
+    {
+     "text": "e",
+     "startMs": 3558,
+     "endMs": 3738
+    },
+    {
+     "text": "o",
+     "startMs": 3738,
+     "endMs": 3774
+    },
+    {
+     "text": "que",
+     "startMs": 3774,
+     "endMs": 3870
+    },
+    {
+     "text": "não",
+     "startMs": 3870,
+     "endMs": 4014
+    },
+    {
+     "text": "pode",
+     "startMs": 4014,
+     "endMs": 4255
+    },
+    {
+     "text": "garantir",
+     "startMs": 4255,
+     "endMs": 4784
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel13-SemPromessaDeTrafego-4.mp3",
+   "durationMs": 3072,
+   "words": [
+    {
+     "text": "Você",
+     "startMs": 49,
+     "endMs": 241
+    },
+    {
+     "text": "confia",
+     "startMs": 241,
+     "endMs": 613
+    },
+    {
+     "text": "mais",
+     "startMs": 613,
+     "endMs": 830
+    },
+    {
+     "text": "em",
+     "startMs": 830,
+     "endMs": 974
+    },
+    {
+     "text": "promessa",
+     "startMs": 974,
+     "endMs": 1647
+    },
+    {
+     "text": "ou",
+     "startMs": 1647,
+     "endMs": 1827
+    },
+    {
+     "text": "em",
+     "startMs": 1827,
+     "endMs": 1936
+    },
+    {
+     "text": "regra",
+     "startMs": 1936,
+     "endMs": 2260
+    },
+    {
+     "text": "aberta",
+     "startMs": 2260,
+     "endMs": 2717
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel14-PaginaProProduto": [
+  {
+   "file": "audio/Reel14-PaginaProProduto-1.mp3",
+   "durationMs": 3936,
+   "words": [
+    {
+     "text": "Seu",
+     "startMs": 49,
+     "endMs": 241
+    },
+    {
+     "text": "produto",
+     "startMs": 241,
+     "endMs": 674
+    },
+    {
+     "text": "não",
+     "startMs": 674,
+     "endMs": 818
+    },
+    {
+     "text": "precisa",
+     "startMs": 818,
+     "endMs": 1359
+    },
+    {
+     "text": "viver",
+     "startMs": 1359,
+     "endMs": 1719
+    },
+    {
+     "text": "só",
+     "startMs": 1719,
+     "endMs": 2032
+    },
+    {
+     "text": "no",
+     "startMs": 2032,
+     "endMs": 2176
+    },
+    {
+     "text": "post",
+     "startMs": 2176,
+     "endMs": 2561
+    },
+    {
+     "text": "do",
+     "startMs": 2561,
+     "endMs": 2669
+    },
+    {
+     "text": "dia",
+     "startMs": 2669,
+     "endMs": 2885
+    },
+    {
+     "text": "do",
+     "startMs": 2885,
+     "endMs": 2957
+    },
+    {
+     "text": "lançamento",
+     "startMs": 2957,
+     "endMs": 3594
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel14-PaginaProProduto-2.mp3",
+   "durationMs": 6576,
+   "words": [
+    {
+     "text": "No",
+     "startMs": 49,
+     "endMs": 205
+    },
+    {
+     "text": "board",
+     "startMs": 205,
+     "endMs": 578
+    },
+    {
+     "text": "pago",
+     "startMs": 578,
+     "endMs": 902
+    },
+    {
+     "text": "do",
+     "startMs": 902,
+     "endMs": 999
+    },
+    {
+     "text": "Crownd",
+     "startMs": 999,
+     "endMs": 1371
+    },
+    {
+     "text": "cada",
+     "startMs": 1576,
+     "endMs": 1816
+    },
+    {
+     "text": "produto",
+     "startMs": 1816,
+     "endMs": 2321
+    },
+    {
+     "text": "tem",
+     "startMs": 2321,
+     "endMs": 2477
+    },
+    {
+     "text": "uma",
+     "startMs": 2477,
+     "endMs": 2609
+    },
+    {
+     "text": "página",
+     "startMs": 2609,
+     "endMs": 3030
+    },
+    {
+     "text": "própria",
+     "startMs": 3030,
+     "endMs": 3487
+    },
+    {
+     "text": "Com",
+     "startMs": 3822,
+     "endMs": 3978
+    },
+    {
+     "text": "descrição",
+     "startMs": 3978,
+     "endMs": 4688
+    },
+    {
+     "text": "ela",
+     "startMs": 4916,
+     "endMs": 5108
+    },
+    {
+     "text": "pode",
+     "startMs": 5108,
+     "endMs": 5337
+    },
+    {
+     "text": "ser",
+     "startMs": 5337,
+     "endMs": 5505
+    },
+    {
+     "text": "indexada",
+     "startMs": 5505,
+     "endMs": 6250
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel14-PaginaProProduto-3.mp3",
+   "durationMs": 6960,
+   "words": [
+    {
+     "text": "Indexável",
+     "startMs": 49,
+     "endMs": 806
+    },
+    {
+     "text": "não",
+     "startMs": 806,
+     "endMs": 950
+    },
+    {
+     "text": "quer",
+     "startMs": 962,
+     "endMs": 1130
+    },
+    {
+     "text": "dizer",
+     "startMs": 1130,
+     "endMs": 1395
+    },
+    {
+     "text": "topo",
+     "startMs": 1395,
+     "endMs": 1731
+    },
+    {
+     "text": "no",
+     "startMs": 1731,
+     "endMs": 1839
+    },
+    {
+     "text": "Google",
+     "startMs": 1839,
+     "endMs": 2248
+    },
+    {
+     "text": "nem",
+     "startMs": 2248,
+     "endMs": 2549
+    },
+    {
+     "text": "promessa",
+     "startMs": 2549,
+     "endMs": 2981
+    },
+    {
+     "text": "de",
+     "startMs": 2981,
+     "endMs": 3065
+    },
+    {
+     "text": "visitas",
+     "startMs": 3065,
+     "endMs": 3690
+    },
+    {
+     "text": "A",
+     "startMs": 4014,
+     "endMs": 4123
+    },
+    {
+     "text": "página",
+     "startMs": 4123,
+     "endMs": 4675
+    },
+    {
+     "text": "só",
+     "startMs": 4676,
+     "endMs": 4928
+    },
+    {
+     "text": "fica",
+     "startMs": 4928,
+     "endMs": 5240
+    },
+    {
+     "text": "pronta",
+     "startMs": 5240,
+     "endMs": 5673
+    },
+    {
+     "text": "para",
+     "startMs": 5673,
+     "endMs": 5841
+    },
+    {
+     "text": "ser",
+     "startMs": 5841,
+     "endMs": 5998
+    },
+    {
+     "text": "encontrada",
+     "startMs": 5998,
+     "endMs": 6611
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel14-PaginaProProduto-4.mp3",
+   "durationMs": 3720,
+   "words": [
+    {
+     "text": "Você",
+     "startMs": 49,
+     "endMs": 301
+    },
+    {
+     "text": "gostaria",
+     "startMs": 301,
+     "endMs": 866
+    },
+    {
+     "text": "de",
+     "startMs": 866,
+     "endMs": 986
+    },
+    {
+     "text": "ter",
+     "startMs": 986,
+     "endMs": 1130
+    },
+    {
+     "text": "uma",
+     "startMs": 1130,
+     "endMs": 1274
+    },
+    {
+     "text": "página",
+     "startMs": 1274,
+     "endMs": 1707
+    },
+    {
+     "text": "própria",
+     "startMs": 1707,
+     "endMs": 2176
+    },
+    {
+     "text": "para",
+     "startMs": 2176,
+     "endMs": 2320
+    },
+    {
+     "text": "explicar",
+     "startMs": 2320,
+     "endMs": 2717
+    },
+    {
+     "text": "seu",
+     "startMs": 2717,
+     "endMs": 2861
+    },
+    {
+     "text": "produto",
+     "startMs": 2861,
+     "endMs": 3378
+    }
+   ],
+   "engine": "edge"
+  }
+ ],
+ "Reel15-ProdutoNoMundo": [
+  {
+   "file": "audio/Reel15-ProdutoNoMundo-1.mp3",
+   "durationMs": 5328,
+   "words": [
+    {
+     "text": "Seu",
+     "startMs": 48,
+     "endMs": 240
+    },
+    {
+     "text": "produto",
+     "startMs": 240,
+     "endMs": 661
+    },
+    {
+     "text": "pode",
+     "startMs": 661,
+     "endMs": 865
+    },
+    {
+     "text": "disputar",
+     "startMs": 865,
+     "endMs": 1298
+    },
+    {
+     "text": "espaço",
+     "startMs": 1298,
+     "endMs": 1803
+    },
+    {
+     "text": "além",
+     "startMs": 1803,
+     "endMs": 2139
+    },
+    {
+     "text": "do",
+     "startMs": 2139,
+     "endMs": 2224
+    },
+    {
+     "text": "Brasil",
+     "startMs": 2224,
+     "endMs": 2704
+    },
+    {
+     "text": "o",
+     "startMs": 2933,
+     "endMs": 3017
+    },
+    {
+     "text": "Crownd",
+     "startMs": 3017,
+     "endMs": 3425
+    },
+    {
+     "text": "tem",
+     "startMs": 3426,
+     "endMs": 3642
+    },
+    {
+     "text": "trinta",
+     "startMs": 3642,
+     "endMs": 3966
+    },
+    {
+     "text": "edições",
+     "startMs": 3966,
+     "endMs": 4375
+    },
+    {
+     "text": "locais",
+     "startMs": 4375,
+     "endMs": 5000
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel15-ProdutoNoMundo-2.mp3",
+   "durationMs": 5136,
+   "words": [
+    {
+     "text": "São",
+     "startMs": 49,
+     "endMs": 349
+    },
+    {
+     "text": "vinte",
+     "startMs": 349,
+     "endMs": 601
+    },
+    {
+     "text": "e",
+     "startMs": 601,
+     "endMs": 625
+    },
+    {
+     "text": "quatro",
+     "startMs": 626,
+     "endMs": 926
+    },
+    {
+     "text": "moedas",
+     "startMs": 926,
+     "endMs": 1359
+    },
+    {
+     "text": "para",
+     "startMs": 1359,
+     "endMs": 1551
+    },
+    {
+     "text": "makers",
+     "startMs": 1551,
+     "endMs": 1948
+    },
+    {
+     "text": "apresentarem",
+     "startMs": 1948,
+     "endMs": 2657
+    },
+    {
+     "text": "seus",
+     "startMs": 2657,
+     "endMs": 2861
+    },
+    {
+     "text": "produtos",
+     "startMs": 2861,
+     "endMs": 3354
+    },
+    {
+     "text": "em",
+     "startMs": 3354,
+     "endMs": 3498
+    },
+    {
+     "text": "diferentes",
+     "startMs": 3498,
+     "endMs": 4111
+    },
+    {
+     "text": "mercados",
+     "startMs": 4111,
+     "endMs": 4796
+    }
+   ],
+   "engine": "edge"
+  },
+  {
+   "file": "audio/Reel15-ProdutoNoMundo-3.mp3",
+   "durationMs": 3552,
+   "words": [
+    {
+     "text": "Qual",
+     "startMs": 60,
+     "endMs": 264
+    },
+    {
+     "text": "país",
+     "startMs": 264,
+     "endMs": 709
+    },
+    {
+     "text": "você",
+     "startMs": 709,
+     "endMs": 938
+    },
+    {
+     "text": "escolheria",
+     "startMs": 938,
+     "endMs": 1587
+    },
+    {
+     "text": "para",
+     "startMs": 1587,
+     "endMs": 1767
+    },
+    {
+     "text": "lançar",
+     "startMs": 1767,
+     "endMs": 2151
+    },
+    {
+     "text": "seu",
+     "startMs": 2151,
+     "endMs": 2320
+    },
+    {
+     "text": "produto",
+     "startMs": 2320,
+     "endMs": 2716
+    },
+    {
+     "text": "primeiro",
+     "startMs": 2716,
+     "endMs": 3209
+    }
+   ],
+   "engine": "edge"
+  }
+ ]
+}

@@ -1,0 +1,1293 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Crownd · Plano de conteúdo · 60 posts</title>
+<style>
+  @page { size: A4; margin: 14mm 14mm 16mm; }
+  :root { --ink:#0E0D12; --muted:#6E6A60; --line:#E2D9C5; --gold:#B87900; --paper:#F7F3EA; --coup:#E0341A; }
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", system-ui, sans-serif; color: var(--ink); font-size: 10.5pt; line-height: 1.45; margin: 0; }
+  h1 { font-size: 34pt; letter-spacing: -0.03em; line-height: 1; margin: 0 0 8mm; }
+  h2 { font-size: 20pt; letter-spacing: -0.02em; margin: 0 0 4mm; border-bottom: 2px solid var(--ink); padding-bottom: 2mm; }
+  h3 { font-size: 13pt; margin: 0; flex: 1; }
+  .cover { height: 260mm; display: flex; flex-direction: column; justify-content: center; page-break-after: always; }
+  .cover .k { font-family: Consolas, monospace; letter-spacing: .1em; text-transform: uppercase; color: var(--gold); margin-bottom: 6mm; }
+  .cover p { font-size: 13pt; color: var(--muted); max-width: 150mm; }
+  .crown { display:inline-block; width:14mm; height:14mm; margin-bottom: 8mm; }
+  .page { page-break-after: always; }
+  table { width: 100%; border-collapse: collapse; font-size: 9.5pt; }
+  th, td { border: 1px solid var(--line); padding: 2.2mm 2.5mm; vertical-align: top; text-align: left; }
+  th { background: var(--paper); }
+  .net { page-break-before: always; }
+  .netinfo { background: var(--paper); border-radius: 3mm; padding: 4mm 5mm; margin-bottom: 6mm; font-size: 9.8pt; }
+  .netinfo b { display: inline-block; min-width: 26mm; }
+  .post { border: 1px solid var(--line); border-radius: 3mm; padding: 4mm 5mm; margin-bottom: 5mm; page-break-inside: avoid; }
+  .post header { display: flex; align-items: center; gap: 3mm; flex-wrap: wrap; margin-bottom: 3mm; }
+  .id { font-family: Consolas, monospace; font-weight: 700; background: var(--ink); color: #fff; border-radius: 2mm; padding: .6mm 2.2mm; font-size: 9pt; }
+  .fmt { font-size: 9pt; color: var(--muted); }
+  .flag { font-size: 8.5pt; color: #fff; background: var(--coup); border-radius: 2mm; padding: .6mm 2.2mm; }
+  .thumbs { display: flex; gap: 2mm; flex-wrap: wrap; margin-bottom: 3mm; }
+  .thumbs img { height: 34mm; border-radius: 1.5mm; border: 1px solid var(--line); }
+  .thumbs.wide img { height: 24mm; }
+  .thumbs.tall img { height: 40mm; }
+  dl { display: grid; grid-template-columns: 24mm 1fr; gap: 1.6mm 4mm; margin: 0; }
+  dt { font-weight: 700; color: var(--muted); font-size: 9pt; text-transform: uppercase; letter-spacing: .04em; padding-top: .4mm; }
+  dd { margin: 0; }
+  pre { white-space: pre-wrap; font-family: inherit; margin: 0; background: var(--paper); border-radius: 2mm; padding: 2.5mm 3mm; }
+  .mono { font-family: Consolas, monospace; font-size: 8.5pt; color: var(--muted); }
+  .tags { color: var(--gold); font-weight: 600; }
+  ul { margin: 0; padding-left: 5mm; }
+</style></head><body>
+
+<section class="cover">
+  <svg class="crown" viewBox="0 -6 64 66"><rect x="10" y="26" width="12" height="26" rx="3"/><rect x="26" y="14" width="12" height="38" rx="3"/><rect x="42" y="32" width="12" height="20" rx="3"/><rect x="8" y="50" width="48" height="7" rx="2"/><circle cx="16" cy="19" r="4.5"/><circle cx="32" cy="6.5" r="5" fill="#FFC531"/><circle cx="48" cy="25" r="4.5"/></svg>
+  <div class="k">Crownd · crownd.dev</div>
+  <h1>Plano de conteúdo:<br>60 posts para 5 redes</h1>
+  <p>12 posts para cada rede (Instagram, X, LinkedIn, TikTok e Threads), com as imagens prontas, a legenda para colar, a descrição de cada peça e as hashtags. Todas as imagens estão em <b>brand/social/posts/</b>.</p>
+  <p style="font-size:10pt">Gerado em 18/11/2026 · 60 posts · 160 imagens</p>
+</section>
+
+<section class="page">
+  <h2>Como usar este plano</h2>
+  <ul>
+    <li><b>Imagem única ou carrossel:</b> está indicado em cada post. Nos carrosséis, publique as imagens na ordem dos números (-1, -2, -3…).</li>
+    <li><b>Legenda:</b> copie o bloco "Legenda" inteiro e acrescente as hashtags indicadas no fim.</li>
+    <li><b>Descrição:</b> explica a peça e serve como texto alternativo (acessibilidade e SEO das redes).</li>
+    <li><b>Selo vermelho "Publicar após abrir os pagamentos":</b> esses posts citam o lance de R$ 5. Publique só depois que <span class="mono">crownd.dev/api/health</span> mostrar <span class="mono">"payments":"stripe"</span>.</li>
+    <li><b>Honestidade da marca:</b> nenhum post inventa números, depoimentos ou produtos. Os boards aparecem como ilustração, com produtos anônimos.</li>
+    <li><b>Cores:</b> cada post usa uma paleta da marca (Obsidiana, Pergaminho, Ouro, Coup Red, Verde Copa e Noite), alternadas para o feed não ficar repetitivo.</li>
+  </ul>
+  <h2 style="margin-top:8mm">Estratégia por rede</h2>
+  <table>
+    <tr><th>Rede</th><th>Perfil</th><th>Formato</th><th>Tom</th><th>Hashtags</th><th>Frequência</th></tr>
+    <tr><td><b>Instagram</b></td><td>@crowndbr</td><td>1080×1350 (4:5)</td><td>Visual, provocativo e útil. Carrosséis educativos geram salvamentos; posts únicos geram comentários.</td><td>3 a 5 hashtags no fim da legenda.</td><td>3 posts por semana (seg, qua, sex), entre 12h e 13h ou entre 19h e 21h.</td></tr><tr><td><b>X</b></td><td>@crowndbr</td><td>1600×900 (16:9) · até 4 imagens</td><td>Curto, opinativo e build in public. Threads para explicar, enquetes para conversar.</td><td>No máximo 1 hashtag (hashtags derrubam o alcance no X).</td><td>3 posts por semana + respostas diárias a makers.</td></tr><tr><td><b>LinkedIn</b></td><td>Página Crownd</td><td>1080×1350 (4:5) · carrossel como documento PDF</td><td>Profissional, transparente e de referência. Texto mais longo, primeira linha forte.</td><td>Até 3 hashtags.</td><td>3 posts por semana (ter, qua, qui), às 8h ou às 12h.</td></tr><tr><td><b>TikTok</b></td><td>@crownd.dev</td><td>1080×1920 (9:16) · modo foto (carrossel)</td><td>Humor, POV e listas rápidas. A legenda é curta; o texto está na imagem.</td><td>3 a 5 hashtags; adicione um som em alta no app.</td><td>3 posts por semana (ter, qui, sáb), entre 18h e 22h, intercalados com os Reels.</td></tr><tr><td><b>Threads</b></td><td>@crowndbr</td><td>1080×1350 (4:5)</td><td>Conversa. Perguntas, opiniões e bastidores, sempre terminando com um convite para responder.</td><td>1 tópico (o Threads aceita uma tag por post).</td><td>3 posts por semana, respondendo a todos os comentários.</td></tr>
+  </table>
+  <h2 style="margin-top:8mm">Calendário sugerido (4 semanas)</h2>
+  <table><tr><th></th><th>Instagram</th><th>X</th><th>LinkedIn</th><th>TikTok</th><th>Threads</th></tr>
+  <tr><th>Semana 1</th><td>Seg · IG-01<br>Qua · IG-02<br>Sex · IG-03</td><td>Seg · X-01<br>Qua · X-02<br>Sex · X-03</td><td>Ter · LI-01<br>Qua · LI-02<br>Qui · LI-03</td><td>Ter · TT-01<br>Qui · TT-02<br>Sáb · TT-03</td><td>Seg · TH-01<br>Qua · TH-02<br>Sex · TH-03</td></tr>
+  <tr><th>Semana 2</th><td>Seg · IG-04<br>Qua · IG-05<br>Sex · IG-06</td><td>Seg · X-04<br>Qua · X-05<br>Sex · X-06</td><td>Ter · LI-04<br>Qua · LI-05<br>Qui · LI-06</td><td>Ter · TT-04<br>Qui · TT-05<br>Sáb · TT-06</td><td>Seg · TH-04<br>Qua · TH-05<br>Sex · TH-06</td></tr>
+  <tr><th>Semana 3</th><td>Seg · IG-07<br>Qua · IG-08<br>Sex · IG-09</td><td>Seg · X-07<br>Qua · X-08<br>Sex · X-09</td><td>Ter · LI-07<br>Qua · LI-08<br>Qui · LI-09</td><td>Ter · TT-07<br>Qui · TT-08<br>Sáb · TT-09</td><td>Seg · TH-07<br>Qua · TH-08<br>Sex · TH-09</td></tr>
+  <tr><th>Semana 4</th><td>Seg · IG-10<br>Qua · IG-11<br>Sex · IG-12</td><td>Seg · X-10<br>Qua · X-11<br>Sex · X-12</td><td>Ter · LI-10<br>Qua · LI-11<br>Qui · LI-12</td><td>Ter · TT-10<br>Qui · TT-11<br>Sáb · TT-12</td><td>Seg · TH-10<br>Qua · TH-11<br>Sex · TH-12</td></tr></table>
+  <p class="mono" style="margin-top:3mm">Intercale com os 9 Reels (brand/social/reels/): um Reel por semana no Instagram, no TikTok e no YouTube Shorts.</p>
+</section>
+
+
+<section class="net">
+  <h2>Instagram · @crowndbr</h2>
+  <div class="netinfo"><b>Formato</b> 1080×1350 (4:5)<br><b>Tom</b> Visual, provocativo e útil. Carrosséis educativos geram salvamentos; posts únicos geram comentários.<br><b>Hashtags</b> 3 a 5 hashtags no fim da legenda.<br><b>Frequência</b> 3 posts por semana (seg, qua, sex), entre 12h e 13h ou entre 19h e 21h.</div>
+  
+  <section class="post">
+    <header>
+      <span class="id">IG-01</span>
+      <h3>Como funciona o Crownd</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-01-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-01-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-01-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-01-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-01-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-01-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-01-1.png<br>brand/social/posts/ig/ig-01-2.png<br>brand/social/posts/ig/ig-01-3.png<br>brand/social/posts/ig/ig-01-4.png<br>brand/social/posts/ig/ig-01-5.png<br>brand/social/posts/ig/ig-01-6.png</dd>
+      <dt>Objetivo</dt><dd>Educar: explicar o mecanismo inteiro em 5 passos (salvamentos).</dd>
+      <dt>Descrição</dt><dd>Carrossel escuro com a marca Crownd explicando: colar o link, dar o lance, segurar a coroa, pagar só a diferença e lançamentos grátis. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Como funciona o Crownd, em 5 passos 👑
+
+1. Cola o link do seu produto
+2. Escolhe quanto quer dar de lance
+3. Quem soma mais fica com o #1
+4. Já está no board? Paga só a diferença pra subir
+5. Não quer pagar? 10 vagas de lançamento grátis por dia
+
+Sem like por pena. Sem algoritmo. Salva pra lembrar e manda pra quem está lançando 🚀
+Link na bio.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas #empreendedorismo</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-02</span>
+      <h3>O trono do Brasil está vazio</h3>
+      <span class="fmt">Imagem única</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-02.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-02.png</dd>
+      <dt>Objetivo</dt><dd>Gerar urgência e cliques no link da bio.</dd>
+      <dt>Descrição</dt><dd>Fundo verde-copa com o texto 'O trono do Brasil está vazio' e um espaço tracejado do #1 sem dono. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>O trono do Brasil está vazio 👑
+
+O Crownd Brasil acabou de abrir e o #1 ainda não tem dono. O primeiro lance começa em R$ 5, e quem chegar primeiro entra pro Hall da Fama. Pra sempre.
+
+Vai deixar pro outro? Link na bio.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #produtodigital</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-03</span>
+      <h3>6 lugares para lançar no Brasil</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-03-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-03-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-03-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-03-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-03-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-03-1.png<br>brand/social/posts/ig/ig-03-2.png<br>brand/social/posts/ig/ig-03-3.png<br>brand/social/posts/ig/ig-03-4.png<br>brand/social/posts/ig/ig-03-5.png</dd>
+      <dt>Objetivo</dt><dd>Valor prático (salvamentos e compartilhamentos) + autoridade.</dd>
+      <dt>Descrição</dt><dd>Carrossel claro listando comunidades brasileiras de makers: comunidade indie hacker no X, TabNews, r/brdev, LinkedIn, Discords e grupos de WhatsApp/Telegram. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Lançou e ninguém viu? Talvez você só postou no lugar errado.
+
+6 lugares onde os makers brasileiros realmente estão:
+→ Comunidade indie hacker BR no X
+→ TabNews
+→ r/brdev
+→ LinkedIn
+→ Discords de dev
+→ Grupos de WhatsApp e Telegram
+
+Regra de ouro: comece pelo problema que você resolve, não pelo link. Salva esse post pro seu próximo lançamento 💾</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas #empreendedorismo</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-04</span>
+      <h3>Like por pena não é validação</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-04.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-04.png</dd>
+      <dt>Objetivo</dt><dd>Alcance via identificação e humor (comentários).</dd>
+      <dt>Descrição</dt><dd>Fundo vermelho com a frase 'Like por pena não é validação' em letras grandes. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Like da sua mãe, do seu primo e do seu ex-colega de trabalho não é validação 🥲
+
+Validação é alguém clicar porque quis. É isso que o Crownd mede: lance pra quem quer o topo, cliques únicos pra quem lança de graça.
+
+Comenta aqui o pior &quot;parabéns!!&quot; que você já recebeu num lançamento 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-05</span>
+      <h3>Pague só a diferença</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-05-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-05-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-05-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-05-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-05-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-05-1.png<br>brand/social/posts/ig/ig-05-2.png<br>brand/social/posts/ig/ig-05-3.png<br>brand/social/posts/ig/ig-05-4.png<br>brand/social/posts/ig/ig-05-5.png</dd>
+      <dt>Objetivo</dt><dd>Educar sobre o mecanismo de subir no ranking (reduz objeção de preço).</dd>
+      <dt>Descrição</dt><dd>Carrossel amarelo com um exemplo numérico: você pagou R$ 120, o rival tem R$ 150, para voltar ao #1 basta chegar a R$ 155 pagando só R$ 35. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Alguém passou você no ranking. E agora? 😤
+
+No Crownd você NÃO paga tudo de novo. Paga só a diferença:
+• você já pagou R$ 120
+• o rival tem R$ 150
+• pra voltar ao #1: R$ 155
+• você paga só R$ 35
+
+Os degraus são de R$ 5, e empate fica com quem chegou primeiro. Marca aquele amigo competitivo 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-06</span>
+      <h3>30 países, 30 cores</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-06-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-06-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-06-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-06-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-06-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-06-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-06-1.png<br>brand/social/posts/ig/ig-06-2.png<br>brand/social/posts/ig/ig-06-3.png<br>brand/social/posts/ig/ig-06-4.png<br>brand/social/posts/ig/ig-06-5.png<br>brand/social/posts/ig/ig-06-6.png</dd>
+      <dt>Objetivo</dt><dd>Branding e curiosidade (compartilhamentos internacionais).</dd>
+      <dt>Descrição</dt><dd>Carrossel com cartões de cor de cada edição: Shu-iro do Japão, Bleu Klein da França, Oranje da Holanda, Falu Röd da Suécia e Verde Copa do Brasil. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Cada edição do Crownd tem uma cor tirada da cultura local, não da bandeira 🎨
+
+🇯🇵 Shu-iro, o vermelho dos portões torii
+🇫🇷 Bleu Klein, o azul do pintor Yves Klein
+🇳🇱 Oranje, a cor da torcida holandesa
+🇸🇪 Falu Röd, o vermelho das casinhas suecas
+🇧🇷 Verde Copa, o verde da torcida em dia de jogo
+
+Qual país você quer dominar? Comenta 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #design #branding</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-07</span>
+      <h3>10 vagas grátis por dia</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-07.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-07.png</dd>
+      <dt>Objetivo</dt><dd>Converter makers sem orçamento (cliques na bio).</dd>
+      <dt>Descrição</dt><dd>Fundo claro com '10 vagas grátis por dia' e uma grade de 10 espaços de lançamento. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Não tem grana pra lance? Tudo bem.
+
+Todo dia o Crownd Brasil abre 10 vagas de lançamento GRÁTIS, ranqueadas por cliques únicos. Zera à meia-noite.
+
+Dica: lança cedo, logo depois da meia-noite, e compartilha. Você ganha o dia inteiro pra juntar cliques 🚀 Link na bio.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #lancamento #produtodigital</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-08</span>
+      <h3>Checklist antes de postar o link</h3>
+      <span class="fmt">Carrossel · 4 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-08-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-08-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-08-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-08-4.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-08-1.png<br>brand/social/posts/ig/ig-08-2.png<br>brand/social/posts/ig/ig-08-3.png<br>brand/social/posts/ig/ig-08-4.png</dd>
+      <dt>Objetivo</dt><dd>Valor (salvamentos) + posicionamento como referência para makers.</dd>
+      <dt>Descrição</dt><dd>Carrossel escuro com um checklist de lançamento: frase de uma linha, link final sem encurtador, imagem de prévia, onde postar e como pedir feedback. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Checklist antes de postar o link do seu produto ✅
+
+☐ Uma frase que explica o que ele faz
+☐ Link final, sem encurtador
+☐ Prévia bonita quando o link é colado (imagem OG)
+☐ Um lugar onde seu público já está
+☐ Um pedido claro: testar, comentar ou comprar
+
+Salva e usa no próximo lançamento 💾</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas #empreendedorismo</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-09</span>
+      <h3>Hall da Fama: seu nome aqui</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-09.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-09.png</dd>
+      <dt>Objetivo</dt><dd>Desejo e status (comentários e marcações).</dd>
+      <dt>Descrição</dt><dd>Fundo dourado com uma placa do Hall da Fama em que a primeira linha diz '??? · o primeiro rei do Brasil'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Toda coroa fica pra história 👑
+
+O Hall da Fama do Crownd registra cada produto que já foi #1, com data e tempo de reinado. Hoje ele está vazio no Brasil.
+
+Quem você acha que vai ser o primeiro? Marca aqui 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-10</span>
+      <h3>Como o Brasil paga online</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-10-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-10-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-10-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-10-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-10-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-10-1.png<br>brand/social/posts/ig/ig-10-2.png<br>brand/social/posts/ig/ig-10-3.png<br>brand/social/posts/ig/ig-10-4.png<br>brand/social/posts/ig/ig-10-5.png</dd>
+      <dt>Objetivo</dt><dd>Valor para quem vende no Brasil (salvamentos) + autoridade.</dd>
+      <dt>Descrição</dt><dd>Carrossel verde explicando Pix, cartão e boleto e as regras do CDC (7 dias de arrependimento) e da LGPD. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Vai vender online no Brasil? 3 coisas que você precisa saber 🇧🇷
+
+1. Pix é O método de pagamento: QR code, chave copia-e-cola e confirmação na hora.
+2. Cartão e boleto ainda importam, principalmente parcelado e B2B.
+3. CDC: o consumidor pode desistir de compra online em até 7 dias. E a LGPD rege os dados pessoais.
+
+Salva pra não esquecer 💾</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #vendasonline #lgpd</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-11</span>
+      <h3>Selo ao vivo</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-11.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-11.png</dd>
+      <dt>Objetivo</dt><dd>Mostrar um benefício do #1 (prova social).</dd>
+      <dt>Descrição</dt><dd>Mockup de um site com o selo 'Crownd Brasil #1 👑' em destaque. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Chegou no topo? Então mostra 👑
+
+Todo produto no Crownd ganha um selo que se atualiza sozinho com a posição dele. Cola no seu site e pronto: prova social ao vivo.
+
+Você colocaria o seu ranking no site? Sim ou não 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">IG-12</span>
+      <h3>Bastidores: o que construímos</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-12-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-12-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-12-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-12-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-12-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/ig-12-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/ig/ig-12-1.png<br>brand/social/posts/ig/ig-12-2.png<br>brand/social/posts/ig/ig-12-3.png<br>brand/social/posts/ig/ig-12-4.png<br>brand/social/posts/ig/ig-12-5.png<br>brand/social/posts/ig/ig-12-6.png</dd>
+      <dt>Objetivo</dt><dd>Build in public: confiança e humanização da marca.</dd>
+      <dt>Descrição</dt><dd>Carrossel claro com números reais do projeto: 30 edições, 14 idiomas, 24 moedas, analytics público sem cookies. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Bastidores do Crownd 🛠️
+
+O que existe por trás do ranking:
+• 30 edições, uma por país
+• 14 idiomas
+• 24 moedas locais
+• analytics público, sem cookies e sem guardar IP
+
+Construído em público. Pergunta o que quiser nos comentários 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #buildinpublic #startupbrasil #saas #empreendedorismo</dd>
+    </dl>
+  </section>
+</section>
+<section class="net">
+  <h2>X · @crowndbr</h2>
+  <div class="netinfo"><b>Formato</b> 1600×900 (16:9) · até 4 imagens<br><b>Tom</b> Curto, opinativo e build in public. Threads para explicar, enquetes para conversar.<br><b>Hashtags</b> No máximo 1 hashtag (hashtags derrubam o alcance no X).<br><b>Frequência</b> 3 posts por semana + respostas diárias a makers.</div>
+  
+  <section class="post">
+    <header>
+      <span class="id">X-01</span>
+      <h3>Lançamento</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-01.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-01.png</dd>
+      <dt>Objetivo</dt><dd>Anunciar e fixar no perfil.</dd>
+      <dt>Descrição</dt><dd>Card escuro: 'O ranking onde o lance decide' com o símbolo do Crownd. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Lançamos o Crownd 👑
+
+Um ranking público de produtos indie pra cada país. No Brasil, quem dá o maior lance fica com o #1. Quem não quer pagar tem 10 lançamentos grátis por dia.
+
+Sem upvote por pena. Sem algoritmo.
+
+crownd.dev/br</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-02</span>
+      <h3>Hot take: upvote não é validação</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-02.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-02.png</dd>
+      <dt>Objetivo</dt><dd>Engajamento por opinião forte (respostas e reposts).</dd>
+      <dt>Descrição</dt><dd>Card vermelho com a frase 'Upvote não é validação. Clique é.' <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Hot take: upvote não é validação.
+
+Upvote é favor. Validação é alguém clicar no seu link porque quis, ou pagar porque acredita.
+
+Concorda ou discorda?</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-03</span>
+      <h3>Como funciona (4 imagens)</h3>
+      <span class="fmt">Carrossel · 4 imagens</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-03-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-03-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-03-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-03-4.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-03-1.png<br>brand/social/posts/x/x-03-2.png<br>brand/social/posts/x/x-03-3.png<br>brand/social/posts/x/x-03-4.png</dd>
+      <dt>Objetivo</dt><dd>Explicar o mecanismo em formato de thread com 4 imagens.</dd>
+      <dt>Descrição</dt><dd>Quatro cards: colar o link, dar o lance, segurar a coroa, pagar só a diferença. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Como funciona o Crownd, em 4 imagens 🧵
+
+1/ Cola o link do produto
+2/ Dá o lance: o maior total fica com o #1
+3/ Segura a coroa até alguém passar
+4/ Quer subir? Paga só a diferença
+
+E tem 10 lançamentos grátis por dia → crownd.dev/br</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-04</span>
+      <h3>Stack do Crownd</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-04.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-04.png</dd>
+      <dt>Objetivo</dt><dd>Build in public para devs (credibilidade técnica).</dd>
+      <dt>Descrição</dt><dd>Card escuro listando a stack: Next.js 16, Cloudflare Workers, D1, Stripe. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>A stack do Crownd, pra quem curte bastidor:
+
+• Next.js 16 (App Router)
+• Cloudflare Workers + D1 na borda
+• Stripe: cartão e boleto no Brasil
+• 30 edições, 14 idiomas, 24 moedas
+• analytics próprio sem cookies
+
+Pergunta qualquer coisa 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-05</span>
+      <h3>Enquete: R$ 5 pelo #1</h3>
+      <span class="fmt">Imagem única</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-05.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-05.png</dd>
+      <dt>Objetivo</dt><dd>Enquete nativa do X (respostas e dados de intenção).</dd>
+      <dt>Descrição</dt><dd>Card amarelo com a pergunta 'Você pagaria R$ 5 para ser o #1 do Brasil por um dia?'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Pergunta sincera pros makers:
+
+Você pagaria R$ 5 pra colocar seu produto no #1 do Brasil?
+
+(Crie a enquete do X com as opções: &quot;Na hora&quot; · &quot;Depende do produto&quot; · &quot;Só de graça&quot; · &quot;Quero ver os resultados&quot;)</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-06</span>
+      <h3>Analytics público</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-06.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-06.png</dd>
+      <dt>Objetivo</dt><dd>Transparência como diferencial (cliques no link).</dd>
+      <dt>Descrição</dt><dd>Card claro com um gráfico e a URL crownd.dev/analytics. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Nosso analytics é público.
+
+Visitantes, países e páginas mais vistas, aberto pra qualquer pessoa. Sem cookies e sem guardar IP.
+
+Transparência total: crownd.dev/analytics</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-07</span>
+      <h3>Uma cor por país (4 imagens)</h3>
+      <span class="fmt">Carrossel · 4 imagens</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-07-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-07-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-07-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-07-4.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-07-1.png<br>brand/social/posts/x/x-07-2.png<br>brand/social/posts/x/x-07-3.png<br>brand/social/posts/x/x-07-4.png</dd>
+      <dt>Objetivo</dt><dd>Branding e curiosidade (reposts).</dd>
+      <dt>Descrição</dt><dd>Quatro cards de cor: Shu-iro (Japão), Bleu Klein (França), Oranje (Holanda) e Verde Copa (Brasil). <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Cada edição do Crownd tem uma cor da cultura local, não da bandeira:
+
+🇯🇵 Shu-iro, o vermelho dos torii
+🇫🇷 Bleu Klein
+🇳🇱 Oranje
+🇧🇷 Verde Copa
+
+Qual é a mais bonita?</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-08</span>
+      <h3>Dica: lance à meia-noite</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-08.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-08.png</dd>
+      <dt>Objetivo</dt><dd>Dica prática (salvamentos e reposts).</dd>
+      <dt>Descrição</dt><dd>Card escuro com o relógio 00:01 e a dica de lançar logo após a meia-noite. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Dica de lançamento no Crownd:
+
+As 10 vagas grátis zeram à meia-noite. Quem lança às 00:01 tem o dia inteiro pra juntar cliques únicos.
+
+Lança cedo. Compartilha de manhã. Sobe o dia todo.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-09</span>
+      <h3>O trono está vazio</h3>
+      <span class="fmt">Imagem única</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-09.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-09.png</dd>
+      <dt>Objetivo</dt><dd>Urgência (cliques no link).</dd>
+      <dt>Descrição</dt><dd>Card verde com 'O #1 do Brasil ainda não tem dono'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>O #1 do Crownd Brasil ainda não tem dono.
+
+O primeiro a chegar entra pro Hall da Fama. Pra sempre.
+
+crownd.dev/br</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-10</span>
+      <h3>SEO em 30 países</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-10.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-10.png</dd>
+      <dt>Objetivo</dt><dd>Build in public com valor técnico (autoridade com devs).</dd>
+      <dt>Descrição</dt><dd>Card claro com 5 lições de SEO internacional. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>5 coisas que aprendi fazendo SEO pra 30 países ao mesmo tempo:
+
+1. hreflang em malha completa, com x-default
+2. Uma pasta por país, não subdomínio
+3. Canonical em toda página
+4. Sitemap com data real de mudança, nunca &quot;agora&quot;
+5. llms.txt pras IAs também acharem você</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-11</span>
+      <h3>Selo ao vivo</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-11.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-11.png</dd>
+      <dt>Objetivo</dt><dd>Benefício do #1.</dd>
+      <dt>Descrição</dt><dd>Mockup de site com o selo Crownd Brasil #1. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Chegou no #1? Mostra.
+
+O selo do Crownd se atualiza sozinho com a sua posição. Cola no site e vira prova social ao vivo.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">X-12</span>
+      <h3>Marca um maker</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs wide"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/x-12.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/x/x-12.png</dd>
+      <dt>Objetivo</dt><dd>Gerar marcações e alcance orgânico.</dd>
+      <dt>Descrição</dt><dd>Card vermelho com 'Marca um maker que merece o #1'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Marca um maker brasileiro que merece o #1 👇
+
+A gente dá uma olhada em todo produto que aparecer aqui.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">Nenhuma (recomendado nesta rede)</dd>
+    </dl>
+  </section>
+</section>
+<section class="net">
+  <h2>LinkedIn · Página Crownd</h2>
+  <div class="netinfo"><b>Formato</b> 1080×1350 (4:5) · carrossel como documento PDF<br><b>Tom</b> Profissional, transparente e de referência. Texto mais longo, primeira linha forte.<br><b>Hashtags</b> Até 3 hashtags.<br><b>Frequência</b> 3 posts por semana (ter, qua, qui), às 8h ou às 12h.</div>
+  
+  <section class="post">
+    <header>
+      <span class="id">LI-01</span>
+      <h3>Lançamento institucional</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-01.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-01.png</dd>
+      <dt>Objetivo</dt><dd>Anúncio oficial da página da empresa.</dd>
+      <dt>Descrição</dt><dd>Card escuro com o logo Crownd e o texto '30 países. 30 coroas.' <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Hoje apresentamos o Crownd.
+
+O Crownd é uma rede de rankings públicos de produtos digitais independentes, com uma edição para cada um de 30 países. Em cada edição, quem dá o maior lance ocupa o #1, e dez vagas diárias de lançamento gratuito são ranqueadas por cliques únicos.
+
+Por que fizemos isso? Porque lançar um produto hoje depende de algoritmo, de rede de contatos e de pedir voto. Quisemos uma regra simples e transparente, inclusive com o analytics aberto ao público.
+
+Começamos pelo Brasil: crownd.dev/br
+
+Se você constrói produtos digitais, adoraríamos ver o seu por lá.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-02</span>
+      <h3>Upvote x lance: qual é mais justo?</h3>
+      <span class="fmt">Carrossel · 4 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-02-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-02-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-02-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-02-4.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-02-1.png<br>brand/social/posts/li/li-02-2.png<br>brand/social/posts/li/li-02-3.png<br>brand/social/posts/li/li-02-4.png</dd>
+      <dt>Objetivo</dt><dd>Liderança de pensamento (comentários qualificados).</dd>
+      <dt>Descrição</dt><dd>Carrossel claro comparando rankings por voto e rankings por lance, com prós e contras de cada um. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Rankings por voto parecem democráticos. Mas são mesmo?
+
+Em plataformas de voto, quem tem mais rede vence, e a qualidade do produto pesa menos. Num ranking por lance, a regra é explícita: o topo custa um valor público, e qualquer pessoa sabe quanto.
+
+Não é o modelo perfeito. Por isso o Crownd combina os dois: lance para o topo e lançamentos gratuitos ranqueados por cliques únicos.
+
+Qual modelo você acha mais justo? Quero ler sua opinião.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-03</span>
+      <h3>Como lançar um produto digital no Brasil</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-03-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-03-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-03-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-03-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-03-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-03-1.png<br>brand/social/posts/li/li-03-2.png<br>brand/social/posts/li/li-03-3.png<br>brand/social/posts/li/li-03-4.png<br>brand/social/posts/li/li-03-5.png</dd>
+      <dt>Objetivo</dt><dd>Conteúdo de referência (salvamentos e compartilhamentos).</dd>
+      <dt>Descrição</dt><dd>Carrossel verde com comunidades, meios de pagamento e exigências legais para lançar no Brasil. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Guia rápido: como lançar um produto digital no Brasil.
+
+1. Comunidades: TabNews, r/brdev, comunidade indie hacker no X, Discords e grupos de WhatsApp/Telegram.
+2. Pagamentos: Pix é o padrão; cartão e boleto ainda contam, principalmente em B2B.
+3. Lei: CDC (7 dias para desistência em compras online) e LGPD (dados pessoais), além de identificar quem vende (Decreto 7.962/2013).
+
+O guia completo, com o preço do #1 ao vivo, está em crownd.dev/br/guide</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-04</span>
+      <h3>Analytics aberto</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-04.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-04.png</dd>
+      <dt>Objetivo</dt><dd>Transparência como valor da marca.</dd>
+      <dt>Descrição</dt><dd>Card claro com gráfico e o endereço crownd.dev/analytics. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Decidimos deixar o analytics do Crownd público.
+
+Visitantes, países e páginas mais vistas ficam abertos para qualquer pessoa em crownd.dev/analytics. Sem cookies e sem armazenar IP: o visitante vira um código anônimo que muda todos os dias.
+
+Transparência não é discurso quando os números estão à vista.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-05</span>
+      <h3>Arquitetura: 30 países na borda</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-05-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-05-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-05-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-05-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-05-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-05-1.png<br>brand/social/posts/li/li-05-2.png<br>brand/social/posts/li/li-05-3.png<br>brand/social/posts/li/li-05-4.png<br>brand/social/posts/li/li-05-5.png</dd>
+      <dt>Objetivo</dt><dd>Autoridade técnica (recrutamento e parcerias).</dd>
+      <dt>Descrição</dt><dd>Carrossel escuro sobre a arquitetura: Next.js, Cloudflare Workers, D1, Stripe e segurança. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Como servir 30 países com uma equipe enxuta?
+
+• Uma aplicação Next.js rodando na borda da Cloudflare, perto de cada usuário
+• Banco D1 (SQLite distribuído)
+• Stripe com 24 moedas, cartão e carteiras digitais
+• Limite de requisições, CSRF e CSP rígida
+• Nenhum segredo dentro do código publicado
+
+Arquitetura simples, custo baixo, latência baixa.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-06</span>
+      <h3>Privacidade por design</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-06.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-06.png</dd>
+      <dt>Objetivo</dt><dd>Reforçar confiança (LGPD/GDPR).</dd>
+      <dt>Descrição</dt><dd>Card escuro com 'Sem cookies. Sem IP.' <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Privacidade por design, não por banner.
+
+O analytics do Crownd não usa cookies e não armazena IP. Cada visitante vira um código que muda todo dia, então ninguém é rastreado entre dias. Por isso não há banner de consentimento.
+
+Dá para medir bem sem vigiar ninguém.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-07</span>
+      <h3>SEO internacional: 5 lições</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-07-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-07-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-07-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-07-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-07-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-07-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-07-1.png<br>brand/social/posts/li/li-07-2.png<br>brand/social/posts/li/li-07-3.png<br>brand/social/posts/li/li-07-4.png<br>brand/social/posts/li/li-07-5.png<br>brand/social/posts/li/li-07-6.png</dd>
+      <dt>Objetivo</dt><dd>Valor técnico (salvamentos de profissionais de marketing e devs).</dd>
+      <dt>Descrição</dt><dd>Carrossel claro com cinco lições de SEO internacional. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>5 lições de SEO internacional ao lançar em 30 países de uma vez:
+
+1. Malha completa de hreflang, com x-default
+2. Uma pasta por país (crownd.dev/br), não subdomínios
+3. Canonical em toda página
+4. Sitemap com a data real da última mudança
+5. llms.txt e dados estruturados para as IAs citarem você
+
+Qual delas você já aplica?</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-08</span>
+      <h3>Cada cor, uma cultura</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-08.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-08.png</dd>
+      <dt>Objetivo</dt><dd>Branding e storytelling.</dd>
+      <dt>Descrição</dt><dd>Cartão com a cor Verde Copa da edição brasileira. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Cada edição do Crownd tem uma cor tirada da cultura local, não da bandeira.
+
+No Brasil, é o Verde Copa: o verde da torcida em dia de jogo. No Japão, o Shu-iro dos portões torii. Na França, o Bleu Klein.
+
+Detalhes assim fazem um produto global parecer local.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-09</span>
+      <h3>Checklist de lançamento</h3>
+      <span class="fmt">Carrossel · 4 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-09-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-09-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-09-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-09-4.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-09-1.png<br>brand/social/posts/li/li-09-2.png<br>brand/social/posts/li/li-09-3.png<br>brand/social/posts/li/li-09-4.png</dd>
+      <dt>Objetivo</dt><dd>Valor prático.</dd>
+      <dt>Descrição</dt><dd>Carrossel amarelo com um checklist de lançamento em duas partes: produto e divulgação. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Checklist antes de anunciar o seu produto:
+
+Produto
+✔ Uma frase que explica o que ele faz
+✔ Link final, sem encurtador
+✔ Prévia (imagem OG) bonita
+
+Divulgação
+✔ Publique onde o seu público já está
+✔ Faça um pedido claro
+✔ Responda a todos na primeira hora
+
+Salve para o próximo lançamento.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-10</span>
+      <h3>O Hall da Fama</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-10.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-10.png</dd>
+      <dt>Objetivo</dt><dd>Storytelling e status.</dd>
+      <dt>Descrição</dt><dd>Placa do Hall da Fama com a primeira posição em aberto. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Daqui a alguns anos, alguém vai perguntar: qual foi o primeiro produto a ocupar o #1 do Brasil no Crownd?
+
+A resposta vai estar no Hall da Fama, que registra cada troca de coroa com data e tempo de reinado.
+
+Hoje, a primeira linha ainda está em branco.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-11</span>
+      <h3>Mecânica de preço</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-11-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-11-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-11-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-11-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-11-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-11-1.png<br>brand/social/posts/li/li-11-2.png<br>brand/social/posts/li/li-11-3.png<br>brand/social/posts/li/li-11-4.png<br>brand/social/posts/li/li-11-5.png</dd>
+      <dt>Objetivo</dt><dd>Explicar o modelo de negócio (transparência para investidores e makers).</dd>
+      <dt>Descrição</dt><dd>Carrossel escuro explicando lance mínimo, degraus, empate e pagamento da diferença. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Como funciona o preço do #1 no Crownd:
+
+• Lance mínimo e degraus de R$ 5 no Brasil (cada país na sua moeda)
+• O total pago define a posição
+• Empate: fica à frente quem chegou primeiro
+• Para subir, você paga só a diferença
+
+Um modelo simples, público e previsível.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">LI-12</span>
+      <h3>Convite: lance grátis</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/li-12.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/li/li-12.png</dd>
+      <dt>Objetivo</dt><dd>Converter a audiência profissional.</dd>
+      <dt>Descrição</dt><dd>Card claro com '10 vagas de lançamento gratuitas por dia'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Você está construindo um produto digital?
+
+O Crownd Brasil tem 10 vagas de lançamento gratuitas por dia, ranqueadas por cliques únicos. Basta o nome, o link e uma frase.
+
+Comente com o link do seu produto: vamos olhar um por um.</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#empreendedorismo #saas #buildinpublic</dd>
+    </dl>
+  </section>
+</section>
+<section class="net">
+  <h2>TikTok · @crownd.dev</h2>
+  <div class="netinfo"><b>Formato</b> 1080×1920 (9:16) · modo foto (carrossel)<br><b>Tom</b> Humor, POV e listas rápidas. A legenda é curta; o texto está na imagem.<br><b>Hashtags</b> 3 a 5 hashtags; adicione um som em alta no app.<br><b>Frequência</b> 3 posts por semana (ter, qui, sáb), entre 18h e 22h, intercalados com os Reels.</div>
+  
+  <section class="post">
+    <header>
+      <span class="id">TT-01</span>
+      <h3>POV: 3 likes</h3>
+      <span class="fmt">Carrossel · 4 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-01-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-01-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-01-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-01-4.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-01-1.png<br>brand/social/posts/tt/tt-01-2.png<br>brand/social/posts/tt/tt-01-3.png<br>brand/social/posts/tt/tt-01-4.png</dd>
+      <dt>Objetivo</dt><dd>Humor e identificação (alcance).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical em formato meme: 6 meses de trabalho, 3 likes, um deles da mãe. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>POV: você passou 6 meses criando seu produto 🥲 #indiehacker</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-02</span>
+      <h3>Coisas que todo indie hacker já fez</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-02-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-02-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-02-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-02-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-02-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-02-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-02-1.png<br>brand/social/posts/tt/tt-02-2.png<br>brand/social/posts/tt/tt-02-3.png<br>brand/social/posts/tt/tt-02-4.png<br>brand/social/posts/tt/tt-02-5.png<br>brand/social/posts/tt/tt-02-6.png</dd>
+      <dt>Objetivo</dt><dd>Humor e identificação (compartilhamentos).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical listando situações típicas de quem lança produtos. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Se você fez 3 dessas, você é indie hacker 😂</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-03</span>
+      <h3>Lançar grátis em 4 passos</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-03-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-03-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-03-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-03-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-03-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-03-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-03-1.png<br>brand/social/posts/tt/tt-03-2.png<br>brand/social/posts/tt/tt-03-3.png<br>brand/social/posts/tt/tt-03-4.png<br>brand/social/posts/tt/tt-03-5.png<br>brand/social/posts/tt/tt-03-6.png</dd>
+      <dt>Objetivo</dt><dd>Tutorial (salvamentos).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical claro com os 4 passos para lançar grátis no Crownd. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Como lançar seu produto de graça em 4 passos 🚀 salva pra não esquecer</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-04</span>
+      <h3>Qual país tem a cor mais bonita?</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-04-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-04-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-04-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-04-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-04-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-04-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-04-1.png<br>brand/social/posts/tt/tt-04-2.png<br>brand/social/posts/tt/tt-04-3.png<br>brand/social/posts/tt/tt-04-4.png<br>brand/social/posts/tt/tt-04-5.png<br>brand/social/posts/tt/tt-04-6.png</dd>
+      <dt>Objetivo</dt><dd>Engajamento por votação nos comentários.</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical com cinco cores de edições: Japão, França, Holanda, Suécia e Brasil. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Qual país tem a cor mais bonita? Comenta o número 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #design</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-05</span>
+      <h3>O trono do Brasil está vazio</h3>
+      <span class="fmt">Imagem única</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-05.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-05.png</dd>
+      <dt>Objetivo</dt><dd>Urgência.</dd>
+      <dt>Descrição</dt><dd>Imagem vertical verde: 'O trono do Brasil está vazio'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>O #1 do Brasil ainda não tem dono 👑 link na bio</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-06</span>
+      <h3>Red flags de lançamento</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-06-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-06-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-06-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-06-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-06-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-06-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-06-1.png<br>brand/social/posts/tt/tt-06-2.png<br>brand/social/posts/tt/tt-06-3.png<br>brand/social/posts/tt/tt-06-4.png<br>brand/social/posts/tt/tt-06-5.png<br>brand/social/posts/tt/tt-06-6.png</dd>
+      <dt>Objetivo</dt><dd>Humor + dica (compartilhamentos).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical vermelho com 'red flags' de lançamento. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Red flags no lançamento do seu produto 🚩</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-07</span>
+      <h3>Upvote vs Lance</h3>
+      <span class="fmt">Carrossel · 3 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-07-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-07-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-07-3.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-07-1.png<br>brand/social/posts/tt/tt-07-2.png<br>brand/social/posts/tt/tt-07-3.png</dd>
+      <dt>Objetivo</dt><dd>Comparação (comentários com opinião).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical comparando upvote e lance. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Upvote ou lance: qual é mais justo? 🤔</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-08</span>
+      <h3>3 da manhã</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-08.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-08.png</dd>
+      <dt>Objetivo</dt><dd>Meme rápido (alcance).</dd>
+      <dt>Descrição</dt><dd>Imagem vertical com o relógio 03:00 e 'lançamento no ar'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>3 da manhã e o produto finalmente no ar 😵‍💫</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-09</span>
+      <h3>Tour pelo Crownd</h3>
+      <span class="fmt">Carrossel · 5 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-09-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-09-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-09-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-09-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-09-5.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-09-1.png<br>brand/social/posts/tt/tt-09-2.png<br>brand/social/posts/tt/tt-09-3.png<br>brand/social/posts/tt/tt-09-4.png<br>brand/social/posts/tt/tt-09-5.png</dd>
+      <dt>Objetivo</dt><dd>Mostrar o produto (consideração).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical mostrando o board, os lançamentos grátis e o Hall da Fama. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Tour rápido pelo Crownd 👑</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-10</span>
+      <h3>Tipos de maker no grupo</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-10-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-10-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-10-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-10-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-10-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-10-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-10-1.png<br>brand/social/posts/tt/tt-10-2.png<br>brand/social/posts/tt/tt-10-3.png<br>brand/social/posts/tt/tt-10-4.png<br>brand/social/posts/tt/tt-10-5.png<br>brand/social/posts/tt/tt-10-6.png</dd>
+      <dt>Objetivo</dt><dd>Humor (marcações).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical com arquétipos engraçados de makers. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Marca o amigo que é o número 3 😂</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-11</span>
+      <h3>Seu produto está pronto para o #1?</h3>
+      <span class="fmt">Carrossel · 6 imagens</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-11-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-11-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-11-3.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-11-4.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-11-5.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-11-6.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-11-1.png<br>brand/social/posts/tt/tt-11-2.png<br>brand/social/posts/tt/tt-11-3.png<br>brand/social/posts/tt/tt-11-4.png<br>brand/social/posts/tt/tt-11-5.png<br>brand/social/posts/tt/tt-11-6.png</dd>
+      <dt>Objetivo</dt><dd>Quiz (interação e salvamentos).</dd>
+      <dt>Descrição</dt><dd>Carrossel vertical amarelo com um teste de 4 perguntas. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Faz o teste: seu produto está pronto pro #1? ✅</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao #startup #tech</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TT-12</span>
+      <h3>Quem vai ser o primeiro rei?</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs tall"><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/tt-12.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/tt/tt-12.png</dd>
+      <dt>Objetivo</dt><dd>Desejo e marcações.</dd>
+      <dt>Descrição</dt><dd>Imagem vertical com a placa do Hall da Fama em aberto. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Quem vai ser o primeiro #1 do Brasil? Marca aqui 👇</pre></dd>
+      <dt>Hashtags</dt><dd class="tags">#indiehacker #empreendedorismo #programacao</dd>
+    </dl>
+  </section>
+</section>
+<section class="net">
+  <h2>Threads · @crowndbr</h2>
+  <div class="netinfo"><b>Formato</b> 1080×1350 (4:5)<br><b>Tom</b> Conversa. Perguntas, opiniões e bastidores, sempre terminando com um convite para responder.<br><b>Hashtags</b> 1 tópico (o Threads aceita uma tag por post).<br><b>Frequência</b> 3 posts por semana, respondendo a todos os comentários.</div>
+  
+  <section class="post">
+    <header>
+      <span class="id">TH-01</span>
+      <h3>Like por pena conta?</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-01.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-01.png</dd>
+      <dt>Objetivo</dt><dd>Conversa (respostas).</dd>
+      <dt>Descrição</dt><dd>Card vermelho com a pergunta 'Like por pena conta como validação?'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Pergunta sincera: like por pena conta como validação?
+
+Porque se contar, eu sou um sucesso desde 2019 🥲</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Indie Hackers</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-02</span>
+      <h3>Lançamos</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-02.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-02.png</dd>
+      <dt>Objetivo</dt><dd>Anúncio.</dd>
+      <dt>Descrição</dt><dd>Card escuro com o símbolo e 'O ranking onde o lance decide'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Lançamos o Crownd: um ranking público de produtos indie pra cada país.
+
+No Brasil, o maior lance fica com o #1. E tem 10 lançamentos grátis por dia.
+
+crownd.dev/br</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Build in Public</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-03</span>
+      <h3>Como funciona em 3 imagens</h3>
+      <span class="fmt">Carrossel · 3 imagens</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-03-1.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-03-2.jpg" alt=""><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-03-3.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-03-1.png<br>brand/social/posts/th/th-03-2.png<br>brand/social/posts/th/th-03-3.png</dd>
+      <dt>Objetivo</dt><dd>Explicar o produto.</dd>
+      <dt>Descrição</dt><dd>Três cards claros: cola o link, dá o lance, segura a coroa. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Como funciona o Crownd em 3 imagens 👇</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Indie Hackers</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-04</span>
+      <h3>Opinião impopular</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-04.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-04.png</dd>
+      <dt>Objetivo</dt><dd>Debate (respostas).</dd>
+      <dt>Descrição</dt><dd>Card escuro com a opinião impopular. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Opinião impopular: pagar pra aparecer é mais honesto do que pedir voto.
+
+Pelo menos a regra é clara e o preço é público. Discorda? Me convence.</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Empreendedorismo</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-05</span>
+      <h3>Qual produto merece o #1?</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-05.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-05.png</dd>
+      <dt>Objetivo</dt><dd>Comunidade e descoberta de makers.</dd>
+      <dt>Descrição</dt><dd>Card verde com 'Qual produto brasileiro merece o #1?'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Qual produto brasileiro merece o #1?
+
+Pode ser seu ou de alguém. Manda o link aqui embaixo 👇</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Startups</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-06</span>
+      <h3>Bastidores em números</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-06.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-06.png</dd>
+      <dt>Objetivo</dt><dd>Build in public.</dd>
+      <dt>Descrição</dt><dd>Card claro com '30 edições · 14 idiomas · 24 moedas'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Bastidores do Crownd:
+
+30 edições, 14 idiomas, 24 moedas, analytics público sem cookies.
+
+Feito em público. Pergunta o que quiser.</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Build in Public</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-07</span>
+      <h3>Dica: 00:01</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-07.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-07.png</dd>
+      <dt>Objetivo</dt><dd>Dica útil.</dd>
+      <dt>Descrição</dt><dd>Card escuro com o horário 00:01. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Dica: as vagas grátis do Crownd zeram à meia-noite.
+
+Quem lança às 00:01 tem o dia todo pra juntar cliques. Anota aí.</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Indie Hackers</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-08</span>
+      <h3>Trono vazio</h3>
+      <span class="fmt">Imagem única</span>
+      <span class="flag">Publicar após abrir os pagamentos</span>
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-08.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-08.png</dd>
+      <dt>Objetivo</dt><dd>Urgência.</dd>
+      <dt>Descrição</dt><dd>Card verde com 'O trono do Brasil está vazio'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>O trono do Brasil ainda está vazio 👑
+
+Quem vai ser o primeiro?</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Startups</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-09</span>
+      <h3>Analytics aberto</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-09.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-09.png</dd>
+      <dt>Objetivo</dt><dd>Transparência.</dd>
+      <dt>Descrição</dt><dd>Card claro com o gráfico do analytics público. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Nosso analytics é aberto pra qualquer pessoa ver: crownd.dev/analytics
+
+Sem cookies, sem IP. Transparência de verdade.</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Build in Public</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-10</span>
+      <h3>A cor do Brasil</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-10.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-10.png</dd>
+      <dt>Objetivo</dt><dd>Branding.</dd>
+      <dt>Descrição</dt><dd>Cartão Verde Copa. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>A cor do Crownd Brasil é o Verde Copa: o verde da torcida em dia de jogo 💚
+
+Cada país tem a sua. Qual você escolheria pro seu?</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Design</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-11</span>
+      <h3>Selo ao vivo</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-11.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-11.png</dd>
+      <dt>Objetivo</dt><dd>Benefício.</dd>
+      <dt>Descrição</dt><dd>Mockup de site com o selo #1. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Chegou no #1? O selo do Crownd mostra no seu site, ao vivo, e se atualiza sozinho.
+
+Você colocaria?</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Indie Hackers</dd>
+    </dl>
+  </section>
+  <section class="post">
+    <header>
+      <span class="id">TH-12</span>
+      <h3>Seu pior lançamento</h3>
+      <span class="fmt">Imagem única</span>
+      
+    </header>
+    <div class="thumbs "><img src="file:///C:/Users/raphael.sousa/Desktop/best/video/out/thumbs/th-12.jpg" alt=""></div>
+    <dl>
+      <dt>Imagens</dt><dd class="mono">brand/social/posts/th/th-12.png</dd>
+      <dt>Objetivo</dt><dd>Conversa e histórias (respostas longas).</dd>
+      <dt>Descrição</dt><dd>Card vermelho com 'Qual foi o seu pior lançamento?'. <em>(use também como texto alternativo da imagem)</em></dd>
+      <dt>Legenda</dt><dd><pre>Me conta: qual foi o seu pior lançamento?
+
+O meu teve 3 likes. Um era da minha mãe.</pre></dd>
+      <dt>Tópico</dt><dd class="tags">Empreendedorismo</dd>
+    </dl>
+  </section>
+</section>
+</body></html>
