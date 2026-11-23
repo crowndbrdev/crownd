@@ -1,10 +1,8 @@
 ﻿# 👑 Crownd
 
-**20 países. 20 coroas. Quem é o #1?**
+**30 países. 30 coroas. Quem é o #1?**
 
 Rede de leaderboards públicos de produtos independentes, com uma edição por país. Quem paga mais na moeda local fica com o #1. Lançamentos são grátis (10 por dia, ranqueados por cliques). Cada troca de coroa vai para o Hall da Fama.
-
-Inspirado na mecânica do [melhorlance.dev](https://www.melhorlance.dev), com marca, design e código originais.
 
 ## Rodar localmente
 
